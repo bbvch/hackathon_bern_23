@@ -1,0 +1,27 @@
+split:
+  inputs:
+    trans_data: initial_data/data.csv
+  outputs:
+    test_data: data/test_data.csv
+    train_data: data/train_data.csv
+  param:
+    test_fraction: 0.2
+
+train:
+  inputs:
+    train_data: data/train_data.csv
+  outputs:
+    model_mlem: models/model_mlem
+  param:
+    alpha: 1.0
+
+evaluate:
+  inputs:
+    test_data: data/test_data.csv
+    train_data: data/train_data.csv
+    model: models/model_mlem
+  outputs:
+    result: reports/result.csv
+    metric: reports/metrics.json
+
+
