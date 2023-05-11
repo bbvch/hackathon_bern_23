@@ -1,4 +1,8 @@
 outs:
-- md5: 85b2a1e589876490e3a2b410777f2831
+- md5: b3e684b67dbbf64729ad54a858d710af
   size: 3671
   path: data.csv
+  cloud:
+    azure:
+      etag: '"0x8DB522B601D306B"'
+      version_id: '2023-05-11T14:24:05.2654187Z'
