@@ -3,3 +3,4 @@
 ['remote "azure"']
     url = azure://datahackathonbern
     account_name = dvcremotestoragesetup
+    version_aware = true

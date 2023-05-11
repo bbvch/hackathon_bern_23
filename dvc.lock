@@ -4,7 +4,7 @@ stages:
     cmd: python stages/split.py --config params.yaml
     deps:
     - path: initial_data/data.csv
-      md5: 85b2a1e589876490e3a2b410777f2831
+      md5: b3e684b67dbbf64729ad54a858d710af
       size: 3671
     - path: stages/split.py
       md5: 4985d65b9ff5422b23e6f9ad6e4fed54
@@ -15,17 +15,25 @@ stages:
           test_fraction: 0.2
     outs:
     - path: data/test_data.csv
-      md5: e2e402953ce866759b47abaaafb26fcb
-      size: 742
+      md5: 64cbd9791dcefa92c09e54446e54c6e7
+      size: 737
+      cloud:
+        azure:
+          etag: '"0x8DB522B602286D0"'
+          version_id: '2023-05-11T14:24:05.3003984Z'
     - path: data/train_data.csv
-      md5: 4c2094c13cda5c1986b9628f2979d1ce
-      size: 2911
+      md5: 6751a9747ccc4d790bb9686a9849d792
+      size: 2916
+      cloud:
+        azure:
+          etag: '"0x8DB522B60274114"'
+          version_id: '2023-05-11T14:24:05.3323813Z'
   train:
     cmd: python stages/train.py --config params.yaml
     deps:
     - path: data/train_data.csv
-      md5: 4c2094c13cda5c1986b9628f2979d1ce
-      size: 2911
+      md5: 6751a9747ccc4d790bb9686a9849d792
+      size: 2916
     - path: stages/train.py
       md5: 6a42e03efabc29c0b4a03921edd40cdf
       size: 973
@@ -35,27 +43,39 @@ stages:
           alpha: 1.0
     outs:
     - path: models/model_mlem/
-      md5: ab8e8231455d305f5751bb06d79874e0
+      md5: 890c1c08d03ed85b09ab4ccf0f774b49
       size: 516
+      cloud:
+        azure:
+          etag: '"0x8DB522B602FCB58"'
+          version_id: '2023-05-11T14:24:05.3873496Z'
   evaluate:
     cmd: python stages/evaluate.py --config params.yaml
     deps:
     - path: data/test_data.csv
-      md5: e2e402953ce866759b47abaaafb26fcb
-      size: 742
+      md5: 64cbd9791dcefa92c09e54446e54c6e7
+      size: 737
     - path: data/train_data.csv
-      md5: 4c2094c13cda5c1986b9628f2979d1ce
-      size: 2911
+      md5: 6751a9747ccc4d790bb9686a9849d792
+      size: 2916
     - path: models/model_mlem
-      md5: ab8e8231455d305f5751bb06d79874e0
+      md5: 890c1c08d03ed85b09ab4ccf0f774b49
       size: 516
     - path: stages/evaluate.py
       md5: fa8fb762bf9aa5343462535621e47b49
       size: 1873
     outs:
     - path: reports/metrics.json
-      md5: a0ebed43cb14a26e44fce97dcc33e0d8
-      size: 141
+      md5: 2a631b80b3ec451ecd627c014280193c
+      size: 140
+      cloud:
+        azure:
+          etag: '"0x8DB522B602FA449"'
+          version_id: '2023-05-11T14:24:05.3863497Z'
     - path: reports/result.csv
-      md5: 7aab37e96f4ca92bc6829a51ba56bcc9
-      size: 5897
+      md5: 7aaf0446e189dc89ae84e21b22ccda15
+      size: 5902
+      cloud:
+        azure:
+          etag: '"0x8DB522B60304071"'
+          version_id: '2023-05-11T14:24:05.3903473Z'
