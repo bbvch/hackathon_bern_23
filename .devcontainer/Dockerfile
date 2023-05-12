@@ -30,3 +30,4 @@ RUN sed -Ei 's/(PS1=.*)(\\\[\\033\[00m\\\]\\\$.*)/\1\\[\\033[01;33m\\]$(__git_ps
 
 RUN pip3 install rasterio
 RUN pip3 install matplotlib
+RUN pip3 install opencv-python

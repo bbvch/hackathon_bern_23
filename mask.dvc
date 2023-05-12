@@ -1,0 +1,1053 @@
+outs:
+- path: mask
+  files:
+  - relpath: grid_0_0_500_500_mask.png
+    md5: 6e6a87b396544229b2e9a7fa52534252
+    size: 779
+    cloud:
+      azure:
+        etag: '"0x8DB5319F7E93BBA"'
+        version_id: '2023-05-12T18:52:00.1602490Z'
+  - relpath: grid_0_1000_500_500_mask.png
+    md5: 4fcb7670e75673dba0014a763ec5ca97
+    size: 1221
+    cloud:
+      azure:
+        etag: '"0x8DB5319F81AA498"'
+        version_id: '2023-05-12T18:52:00.4850593Z'
+  - relpath: grid_0_1500_500_500_mask.png
+    md5: bdfddd9e52091d45c1b4350c3b38b0e5
+    size: 1105
+    cloud:
+      azure:
+        etag: '"0x8DB5319F7EE4404"'
+        version_id: '2023-05-12T18:52:00.1932292Z'
+  - relpath: grid_0_2000_500_500_mask.png
+    md5: 53c5263d8519c6b75de572eecc374558
+    size: 2746
+    cloud:
+      azure:
+        etag: '"0x8DB5319F8096929"'
+        version_id: '2023-05-12T18:52:00.3711273Z'
+  - relpath: grid_0_2500_500_500_mask.png
+    md5: ddd89280321b8c90acf5f4dd94e6e317
+    size: 2018
+    cloud:
+      azure:
+        etag: '"0x8DB5319F7FD8402"'
+        version_id: '2023-05-12T18:52:00.2931714Z'
+  - relpath: grid_0_3000_500_500_mask.png
+    md5: cfdfb80b57cee51b1570232747ce9a8b
+    size: 3398
+    cloud:
+      azure:
+        etag: '"0x8DB5319F80857D7"'
+        version_id: '2023-05-12T18:52:00.3641303Z'
+  - relpath: grid_0_3500_500_500_mask.png
+    md5: d72c31d842941274cd2b625baddfc52b
+    size: 2167
+    cloud:
+      azure:
+        etag: '"0x8DB5319F7EB5E4A"'
+        version_id: '2023-05-12T18:52:00.1742410Z'
+  - relpath: grid_0_4000_500_500_mask.png
+    md5: d71bae2e9c2c045bc741a0d4616220a3
+    size: 3842
+    cloud:
+      azure:
+        etag: '"0x8DB5319F823F207"'
+        version_id: '2023-05-12T18:52:00.5460244Z'
+  - relpath: grid_0_4500_500_500_mask.png
+    md5: 0cb622ac0af2b173e0c902145daae127
+    size: 3280
+    cloud:
+      azure:
+        etag: '"0x8DB5319F812B684"'
+        version_id: '2023-05-12T18:52:00.4320900Z'
+  - relpath: grid_0_5000_500_500_mask.png
+    md5: 0dedc5f9660f96f57110c29f11ad25dd
+    size: 3583
+    cloud:
+      azure:
+        etag: '"0x8DB5319F80D3912"'
+        version_id: '2023-05-12T18:52:00.3961106Z'
+  - relpath: grid_0_500_500_500_mask.png
+    md5: 1de36293b4de14c34c47c2c620407c2f
+    size: 1244
+    cloud:
+      azure:
+        etag: '"0x8DB5319F81F5ED0"'
+        version_id: '2023-05-12T18:52:00.5150416Z'
+  - relpath: grid_0_5500_500_500_mask.png
+    md5: b4b3f9d5a42f0fd7cb7b36f9e32a322b
+    size: 3320
+    cloud:
+      azure:
+        etag: '"0x8DB5319F7D652CA"'
+        version_id: '2023-05-12T18:52:00.0363210Z'
+  - relpath: grid_0_6000_500_500_mask.png
+    md5: ed4cc17a6e39201f5b52f920da8f64be
+    size: 2712
+    cloud:
+      azure:
+        etag: '"0x8DB5319F812DD8D"'
+        version_id: '2023-05-12T18:52:00.4330893Z'
+  - relpath: grid_0_6500_500_500_mask.png
+    md5: c4232ad16da12a27181db7d843423665
+    size: 3838
+    cloud:
+      azure:
+        etag: '"0x8DB5319F812B684"'
+        version_id: '2023-05-12T18:52:00.4320900Z'
+  - relpath: grid_0_7000_500_500_mask.png
+    md5: 146760182a4aa517284fb5349079964f
+    size: 5128
+    cloud:
+      azure:
+        etag: '"0x8DB5319F816386F"'
+        version_id: '2023-05-12T18:52:00.4560765Z'
+  - relpath: grid_0_7500_500_500_mask.png
+    md5: bb973d3a9f7482960c921217fb33368d
+    size: 3800
+    cloud:
+      azure:
+        etag: '"0x8DB5319F81AA498"'
+        version_id: '2023-05-12T18:52:00.4840600Z'
+  - relpath: grid_0_8000_500_500_mask.png
+    md5: 43681ee144d512cc7fcf7462703ba517
+    size: 3543
+    cloud:
+      azure:
+        etag: '"0x8DB5319F815001D"'
+        version_id: '2023-05-12T18:52:00.4470813Z'
+  - relpath: grid_0_8500_500_500_mask.png
+    md5: 63d5c73e289ec7513c50f0b77bc50a3c
+    size: 4291
+    cloud:
+      azure:
+        etag: '"0x8DB5319F80857D7"'
+        version_id: '2023-05-12T18:52:00.3641303Z'
+  - relpath: grid_0_9000_500_500_mask.png
+    md5: be7392a340d1dea1f5f5409b063cb0fc
+    size: 3521
+    cloud:
+      azure:
+        etag: '"0x8DB5319F80857D7"'
+        version_id: '2023-05-12T18:52:00.3641303Z'
+  - relpath: grid_0_9500_500_500_mask.png
+    md5: 47e1b0e718fceeb621bec5af1de9df00
+    size: 1648
+    cloud:
+      azure:
+        etag: '"0x8DB5319F80412BC"'
+        version_id: '2023-05-12T18:52:00.3361468Z'
+  - relpath: grid_1000_0_500_500_mask.png
+    md5: b953f7b8e995c674aaa22f0efb6f5a68
+    size: 1247
+    cloud:
+      azure:
+        etag: '"0x8DB5319F81F10B9"'
+        version_id: '2023-05-12T18:52:00.5130425Z'
+  - relpath: grid_1000_1000_500_500_mask.png
+    md5: e2abca55b0d151f73bde753791af95a8
+    size: 3760
+    cloud:
+      azure:
+        etag: '"0x8DB5319F816386F"'
+        version_id: '2023-05-12T18:52:00.4550767Z'
+  - relpath: grid_1000_1500_500_500_mask.png
+    md5: 2948d186a0fc3dc4d9473f0c4164a88d
+    size: 3326
+    cloud:
+      azure:
+        etag: '"0x8DB5319F816386F"'
+        version_id: '2023-05-12T18:52:00.4550767Z'
+  - relpath: grid_1000_2000_500_500_mask.png
+    md5: 4e5a7e6816264543f65f1bd80398c075
+    size: 2613
+    cloud:
+      azure:
+        etag: '"0x8DB5319F812DD8D"'
+        version_id: '2023-05-12T18:52:00.4330893Z'
+  - relpath: grid_1000_2500_500_500_mask.png
+    md5: cdf5192104b7b6d9645b3ff088b7f136
+    size: 3153
+    cloud:
+      azure:
+        etag: '"0x8DB5319F816386F"'
+        version_id: '2023-05-12T18:52:00.4550767Z'
+  - relpath: grid_1000_3000_500_500_mask.png
+    md5: d949b8daee04a37497d96c91ee2723e1
+    size: 2901
+    cloud:
+      azure:
+        etag: '"0x8DB5319F808F3FC"'
+        version_id: '2023-05-12T18:52:00.3681276Z'
+  - relpath: grid_1000_3500_500_500_mask.png
+    md5: f47108b1c373af600494fc9191e25c22
+    size: 1211
+    cloud:
+      azure:
+        etag: '"0x8DB5319F7D9FBC8"'
+        version_id: '2023-05-12T18:52:00.0603080Z'
+  - relpath: grid_1000_4000_500_500_mask.png
+    md5: 75fe9087ceca8b02985f9010ab9793a1
+    size: 3298
+    cloud:
+      azure:
+        etag: '"0x8DB5319F7FFF4A1"'
+        version_id: '2023-05-12T18:52:00.3091617Z'
+  - relpath: grid_1000_4500_500_500_mask.png
+    md5: 45e5eab2e3bffc3635f9604ab9f48629
+    size: 2731
+    cloud:
+      azure:
+        etag: '"0x8DB5319F81ACBA1"'
+        version_id: '2023-05-12T18:52:00.4850593Z'
+  - relpath: grid_1000_5000_500_500_mask.png
+    md5: d2dab594608c4f33a4f5642d5dbf4966
+    size: 3118
+    cloud:
+      azure:
+        etag: '"0x8DB5319F8130499"'
+        version_id: '2023-05-12T18:52:00.4340889Z'
+  - relpath: grid_1000_500_500_500_mask.png
+    md5: 5d33e22b515ce2c43e46fd373f0ed5dd
+    size: 1273
+    cloud:
+      azure:
+        etag: '"0x8DB5319F80D1215"'
+        version_id: '2023-05-12T18:52:00.3951125Z'
+  - relpath: grid_1000_5500_500_500_mask.png
+    md5: 6139739ee0f4033c5ba9963f88e12b12
+    size: 3314
+    cloud:
+      azure:
+        etag: '"0x8DB5319F80857D7"'
+        version_id: '2023-05-12T18:52:00.3641303Z'
+  - relpath: grid_1000_6000_500_500_mask.png
+    md5: 24250120237b83e00935924f10d26e60
+    size: 2179
+    cloud:
+      azure:
+        etag: '"0x8DB5319F7FA5036"'
+        version_id: '2023-05-12T18:52:00.2721846Z'
+  - relpath: grid_1000_6500_500_500_mask.png
+    md5: 60e81c2fd9422dbbc48eba8d224b1acb
+    size: 2550
+    cloud:
+      azure:
+        etag: '"0x8DB5319F81AA498"'
+        version_id: '2023-05-12T18:52:00.4850593Z'
+  - relpath: grid_1000_7000_500_500_mask.png
+    md5: 8b2bb6e3a9db55a4d60559159801517f
+    size: 2414
+    cloud:
+      azure:
+        etag: '"0x8DB5319F7CDC89C"'
+        version_id: '2023-05-12T18:51:59.9813542Z'
+  - relpath: grid_1000_7500_500_500_mask.png
+    md5: 97ad3e0c0973f665e1c99d7e3f845922
+    size: 2743
+    cloud:
+      azure:
+        etag: '"0x8DB5319F7FFF4A1"'
+        version_id: '2023-05-12T18:52:00.3101614Z'
+  - relpath: grid_1000_8000_500_500_mask.png
+    md5: 8fcbf8d3e0fda1a7f4c46943bdf83fed
+    size: 4152
+    cloud:
+      azure:
+        etag: '"0x8DB5319F7F2FE54"'
+        version_id: '2023-05-12T18:52:00.2242132Z'
+  - relpath: grid_1000_8500_500_500_mask.png
+    md5: eb851b948a5ca2a9301b7c7abb50ccbb
+    size: 2783
+    cloud:
+      azure:
+        etag: '"0x8DB5319F812B684"'
+        version_id: '2023-05-12T18:52:00.4320900Z'
+  - relpath: grid_1000_9000_500_500_mask.png
+    md5: 578c2107c0dfab171d5eed526f34cf36
+    size: 2914
+    cloud:
+      azure:
+        etag: '"0x8DB5319F7FA7745"'
+        version_id: '2023-05-12T18:52:00.2731845Z'
+  - relpath: grid_1000_9500_500_500_mask.png
+    md5: 3ce814645cf00bf5006d30d24e92544c
+    size: 3130
+    cloud:
+      azure:
+        etag: '"0x8DB5319F80D1215"'
+        version_id: '2023-05-12T18:52:00.3951125Z'
+  - relpath: grid_1500_0_500_500_mask.png
+    md5: 282ce7e6ca613bd013b3a672451307e0
+    size: 1284
+    cloud:
+      azure:
+        etag: '"0x8DB5319F808F3FC"'
+        version_id: '2023-05-12T18:52:00.3681276Z'
+  - relpath: grid_1500_1000_500_500_mask.png
+    md5: fa6c96f284e2320f8e77346818b586c9
+    size: 3920
+    cloud:
+      azure:
+        etag: '"0x8DB5319F81F10B9"'
+        version_id: '2023-05-12T18:52:00.5130425Z'
+  - relpath: grid_1500_1500_500_500_mask.png
+    md5: 4f397f2c6957b9be903a5667fbcf78ca
+    size: 3383
+    cloud:
+      azure:
+        etag: '"0x8DB5319F8023E3F"'
+        version_id: '2023-05-12T18:52:00.3241535Z'
+  - relpath: grid_1500_2000_500_500_mask.png
+    md5: 4fcfdd073ea315c8cdd3c52cb711600d
+    size: 2271
+    cloud:
+      azure:
+        etag: '"0x8DB5319F81ACBA1"'
+        version_id: '2023-05-12T18:52:00.4850593Z'
+  - relpath: grid_1500_2500_500_500_mask.png
+    md5: 48cb746af57d50d7073c7533adac2180
+    size: 2996
+    cloud:
+      azure:
+        etag: '"0x8DB5319F816386F"'
+        version_id: '2023-05-12T18:52:00.4550767Z'
+  - relpath: grid_1500_3000_500_500_mask.png
+    md5: c15f1ae7dc6e2547b1dc6c52bec15c4e
+    size: 3922
+    cloud:
+      azure:
+        etag: '"0x8DB5319F808F3FC"'
+        version_id: '2023-05-12T18:52:00.3691268Z'
+  - relpath: grid_1500_3500_500_500_mask.png
+    md5: 29f330dc6739d583e13db60a1aef27ba
+    size: 3535
+    cloud:
+      azure:
+        etag: '"0x8DB5319F81F5ED0"'
+        version_id: '2023-05-12T18:52:00.5150416Z'
+  - relpath: grid_1500_4000_500_500_mask.png
+    md5: 80b3253de6aedb69d847c38920cde886
+    size: 1583
+    cloud:
+      azure:
+        etag: '"0x8DB5319F81AA498"'
+        version_id: '2023-05-12T18:52:00.4840600Z'
+  - relpath: grid_1500_4500_500_500_mask.png
+    md5: cc6d8c64f79acb2f0033f6e3fd2c0915
+    size: 2394
+    cloud:
+      azure:
+        etag: '"0x8DB5319F7FD5CF6"'
+        version_id: '2023-05-12T18:52:00.2921718Z'
+  - relpath: grid_1500_5000_500_500_mask.png
+    md5: 91c8dd576b46ce52754cd9035c53a83e
+    size: 1868
+    cloud:
+      azure:
+        etag: '"0x8DB5319F809420E"'
+        version_id: '2023-05-12T18:52:00.3711273Z'
+  - relpath: grid_1500_500_500_500_mask.png
+    md5: ae3d47e97d5af3c000c421e97699f009
+    size: 2828
+    cloud:
+      azure:
+        etag: '"0x8DB5319F812B684"'
+        version_id: '2023-05-12T18:52:00.4320900Z'
+  - relpath: grid_1500_5500_500_500_mask.png
+    md5: 6dfcbfe85a3661cb85d429d89e84b1f3
+    size: 2659
+    cloud:
+      azure:
+        etag: '"0x8DB5319F7DC936E"'
+        version_id: '2023-05-12T18:52:00.0772974Z'
+  - relpath: grid_1500_6000_500_500_mask.png
+    md5: 7a9f2b9cb1b2f6f518894aa679a7cf25
+    size: 1738
+    cloud:
+      azure:
+        etag: '"0x8DB5319F80DFC4F"'
+        version_id: '2023-05-12T18:52:00.4011087Z'
+  - relpath: grid_1500_6500_500_500_mask.png
+    md5: 508722328c2071e5509b27f3c581985d
+    size: 2513
+    cloud:
+      azure:
+        etag: '"0x8DB5319F80C75DF"'
+        version_id: '2023-05-12T18:52:00.3911135Z'
+  - relpath: grid_1500_7000_500_500_mask.png
+    md5: 51d6d3a8621f0273465263ef7cca6b9c
+    size: 2623
+    cloud:
+      azure:
+        etag: '"0x8DB5319F80D3912"'
+        version_id: '2023-05-12T18:52:00.3961106Z'
+  - relpath: grid_1500_7500_500_500_mask.png
+    md5: a5aaa820cfccdbe850a3bc104e68b9b6
+    size: 2982
+    cloud:
+      azure:
+        etag: '"0x8DB5319F7F60B0F"'
+        version_id: '2023-05-12T18:52:00.2441999Z'
+  - relpath: grid_1500_8000_500_500_mask.png
+    md5: 05de97a11d09570a41d7728cb1f973cf
+    size: 4706
+    cloud:
+      azure:
+        etag: '"0x8DB5319F812DD8D"'
+        version_id: '2023-05-12T18:52:00.4330893Z'
+  - relpath: grid_1500_8500_500_500_mask.png
+    md5: 99794598c19981d3a02ae4f890191da1
+    size: 2874
+    cloud:
+      azure:
+        etag: '"0x8DB5319F812DD8D"'
+        version_id: '2023-05-12T18:52:00.4330893Z'
+  - relpath: grid_1500_9000_500_500_mask.png
+    md5: e98021d884dfed78caa9d9a1dc961d53
+    size: 4747
+    cloud:
+      azure:
+        etag: '"0x8DB5319F81415E0"'
+        version_id: '2023-05-12T18:52:00.4410848Z'
+  - relpath: grid_1500_9500_500_500_mask.png
+    md5: 05136aa3df41174489c1f30d3107ac76
+    size: 4639
+    cloud:
+      azure:
+        etag: '"0x8DB5319F7D9FBC8"'
+        version_id: '2023-05-12T18:52:00.0603080Z'
+  - relpath: grid_2000_0_500_500_mask.png
+    md5: ebd5a1f9301202d490944836f43dc09d
+    size: 3341
+    cloud:
+      azure:
+        etag: '"0x8DB5319F7FD5CF6"'
+        version_id: '2023-05-12T18:52:00.2921718Z'
+  - relpath: grid_2000_1000_500_500_mask.png
+    md5: 9634e778bc848bc9d1c498f389348e27
+    size: 3096
+    cloud:
+      azure:
+        etag: '"0x8DB5319F81379C6"'
+        version_id: '2023-05-12T18:52:00.4370886Z'
+  - relpath: grid_2000_1500_500_500_mask.png
+    md5: 2699450ea466a2e2bd6f61324ab833a1
+    size: 2840
+    cloud:
+      azure:
+        etag: '"0x8DB5319F7C4541F"'
+        version_id: '2023-05-12T18:51:59.9183903Z'
+  - relpath: grid_2000_2000_500_500_mask.png
+    md5: 5a9b6978ee7d90d2b0929b18a3470158
+    size: 2162
+    cloud:
+      azure:
+        etag: '"0x8DB5319F7FA5036"'
+        version_id: '2023-05-12T18:52:00.2721846Z'
+  - relpath: grid_2000_2500_500_500_mask.png
+    md5: 8110a7895ab2a24de51fc8b8baa01fdd
+    size: 1286
+    cloud:
+      azure:
+        etag: '"0x8DB5319F809420E"'
+        version_id: '2023-05-12T18:52:00.3701262Z'
+  - relpath: grid_2000_3000_500_500_mask.png
+    md5: 50a95e783cf0ffeaa1c156b55b3ba595
+    size: 2381
+    cloud:
+      azure:
+        etag: '"0x8DB5319F80D1215"'
+        version_id: '2023-05-12T18:52:00.3951125Z'
+  - relpath: grid_2000_3500_500_500_mask.png
+    md5: 97072feada40e9a4a6a304131d13c3a9
+    size: 2399
+    cloud:
+      azure:
+        etag: '"0x8DB5319F81ACBA1"'
+        version_id: '2023-05-12T18:52:00.4850593Z'
+  - relpath: grid_2000_4000_500_500_mask.png
+    md5: 9b0bd39722f75e8bf1f44635ddaa0c51
+    size: 2162
+    cloud:
+      azure:
+        etag: '"0x8DB5319F7FE473B"'
+        version_id: '2023-05-12T18:52:00.2991684Z'
+  - relpath: grid_2000_4500_500_500_mask.png
+    md5: 4a7cdbb0563844fc0ff9a95aead958e8
+    size: 1947
+    cloud:
+      azure:
+        etag: '"0x8DB5319F803EBBD"'
+        version_id: '2023-05-12T18:52:00.3351485Z'
+  - relpath: grid_2000_500_500_500_mask.png
+    md5: 0e62f7871a6484b3fd1dca953481c556
+    size: 3654
+    cloud:
+      azure:
+        etag: '"0x8DB5319F81F10B9"'
+        version_id: '2023-05-12T18:52:00.5130425Z'
+  - relpath: grid_2000_5500_500_500_mask.png
+    md5: 628ab2d3a178a82cabfa92cd9aad8a70
+    size: 3407
+    cloud:
+      azure:
+        etag: '"0x8DB5319F803C4A6"'
+        version_id: '2023-05-12T18:52:00.3341478Z'
+  - relpath: grid_2000_6000_500_500_mask.png
+    md5: e5d6e33e5806ce025e6cf023459b3b5e
+    size: 4549
+    cloud:
+      azure:
+        etag: '"0x8DB5319F803EBBD"'
+        version_id: '2023-05-12T18:52:00.3351485Z'
+  - relpath: grid_2000_6500_500_500_mask.png
+    md5: 9f44ebe41dcd5b79faf4ce4b28cde935
+    size: 3529
+    cloud:
+      azure:
+        etag: '"0x8DB5319F803C4A6"'
+        version_id: '2023-05-12T18:52:00.3351485Z'
+  - relpath: grid_2000_7000_500_500_mask.png
+    md5: 958705354deeef328691b6647da4a5e8
+    size: 3236
+    cloud:
+      azure:
+        etag: '"0x8DB5319F81F5ED0"'
+        version_id: '2023-05-12T18:52:00.5150416Z'
+  - relpath: grid_2000_7500_500_500_mask.png
+    md5: f86ac5618a7436e15713a466350d8455
+    size: 3698
+    cloud:
+      azure:
+        etag: '"0x8DB5319F8161169"'
+        version_id: '2023-05-12T18:52:00.4540777Z'
+  - relpath: grid_2000_8000_500_500_mask.png
+    md5: 093e836048bac1000ae2d3ae8c6d6003
+    size: 3395
+    cloud:
+      azure:
+        etag: '"0x8DB5319F7F2FE54"'
+        version_id: '2023-05-12T18:52:00.2242132Z'
+  - relpath: grid_2000_8500_500_500_mask.png
+    md5: 26f0c827c573c4427a848782bcb8bd96
+    size: 3055
+    cloud:
+      azure:
+        etag: '"0x8DB5319F801F02A"'
+        version_id: '2023-05-12T18:52:00.3221546Z'
+  - relpath: grid_2500_0_500_500_mask.png
+    md5: fb02ca2bfee80dd0320c0109a477db83
+    size: 1697
+    cloud:
+      azure:
+        etag: '"0x8DB5319F81AA498"'
+        version_id: '2023-05-12T18:52:00.4840600Z'
+  - relpath: grid_2500_1500_500_500_mask.png
+    md5: 140a2bc35e5d14672125d3af9985e463
+    size: 2304
+    cloud:
+      azure:
+        etag: '"0x8DB5319F7E5E0DD"'
+        version_id: '2023-05-12T18:52:00.1382621Z'
+  - relpath: grid_2500_2000_500_500_mask.png
+    md5: b916a2f25b705cbaff0aef5c64f3d066
+    size: 2308
+    cloud:
+      azure:
+        etag: '"0x8DB5319F80857D7"'
+        version_id: '2023-05-12T18:52:00.3641303Z'
+  - relpath: grid_2500_2500_500_500_mask.png
+    md5: d44285c7a90f3826fdb8475f0ae86006
+    size: 2767
+    cloud:
+      azure:
+        etag: '"0x8DB5319F7FDD21A"'
+        version_id: '2023-05-12T18:52:00.2951706Z'
+  - relpath: grid_2500_3000_500_500_mask.png
+    md5: 50c0f7139cc12d2c8b60257f5a866bc6
+    size: 3715
+    cloud:
+      azure:
+        etag: '"0x8DB5319F81F5ED0"'
+        version_id: '2023-05-12T18:52:00.5150416Z'
+  - relpath: grid_2500_3500_500_500_mask.png
+    md5: e1f44645731a906f7f182412e08e2bcb
+    size: 3494
+    cloud:
+      azure:
+        etag: '"0x8DB5319F816386F"'
+        version_id: '2023-05-12T18:52:00.4550767Z'
+  - relpath: grid_2500_4000_500_500_mask.png
+    md5: 2bf524c00f0429a3f46d4753c52b9e91
+    size: 3104
+    cloud:
+      azure:
+        etag: '"0x8DB5319F81AA498"'
+        version_id: '2023-05-12T18:52:00.4840600Z'
+  - relpath: grid_2500_5000_500_500_mask.png
+    md5: 73f8c9e97794d5a983f2b1628629fc7e
+    size: 3868
+    cloud:
+      azure:
+        etag: '"0x8DB5319F7FA5036"'
+        version_id: '2023-05-12T18:52:00.2721846Z'
+  - relpath: grid_2500_500_500_500_mask.png
+    md5: 22fff0267375540703ea2e4b9e4cf137
+    size: 3312
+    cloud:
+      azure:
+        etag: '"0x8DB5319F7F39A6F"'
+        version_id: '2023-05-12T18:52:00.2282095Z'
+  - relpath: grid_2500_5500_500_500_mask.png
+    md5: b57f4b680abb00a5b3f4104b4451bd4e
+    size: 3376
+    cloud:
+      azure:
+        etag: '"0x8DB5319F80D3912"'
+        version_id: '2023-05-12T18:52:00.3961106Z'
+  - relpath: grid_2500_6000_500_500_mask.png
+    md5: bf8a2a13f3b600f7df6517de2a816b96
+    size: 3623
+    cloud:
+      azure:
+        etag: '"0x8DB5319F81AA498"'
+        version_id: '2023-05-12T18:52:00.4840600Z'
+  - relpath: grid_2500_6500_500_500_mask.png
+    md5: 8fb877836db3f1fae4883b1bc0057eae
+    size: 3970
+    cloud:
+      azure:
+        etag: '"0x8DB5319F7FD8402"'
+        version_id: '2023-05-12T18:52:00.2931714Z'
+  - relpath: grid_2500_7000_500_500_mask.png
+    md5: 7774c9c57b5b3234b2a789cea1972f06
+    size: 4255
+    cloud:
+      azure:
+        etag: '"0x8DB5319F7F2FE54"'
+        version_id: '2023-05-12T18:52:00.2242132Z'
+  - relpath: grid_2500_7500_500_500_mask.png
+    md5: 49a8b6f0ef4d7a2f416efb465b5bbe34
+    size: 4189
+    cloud:
+      azure:
+        etag: '"0x8DB5319F812B684"'
+        version_id: '2023-05-12T18:52:00.4320900Z'
+  - relpath: grid_2500_8000_500_500_mask.png
+    md5: f37a2207dd68270c072f0f9796526f49
+    size: 2550
+    cloud:
+      azure:
+        etag: '"0x8DB5319F812B684"'
+        version_id: '2023-05-12T18:52:00.4320900Z'
+  - relpath: grid_2500_8500_500_500_mask.png
+    md5: 70d0b148f20c9c666ed11289e2e2339d
+    size: 3765
+    cloud:
+      azure:
+        etag: '"0x8DB5319F81F5ED0"'
+        version_id: '2023-05-12T18:52:00.5150416Z'
+  - relpath: grid_2500_9000_500_500_mask.png
+    md5: 99cacc10b347fe0c7fd036894dd012e7
+    size: 2813
+    cloud:
+      azure:
+        etag: '"0x8DB5319F7E93BBA"'
+        version_id: '2023-05-12T18:52:00.1602490Z'
+  - relpath: grid_2500_9500_500_500_mask.png
+    md5: f2fbf1c11a90acc491b22aa8afee590d
+    size: 4650
+    cloud:
+      azure:
+        etag: '"0x8DB5319F7F5E402"'
+        version_id: '2023-05-12T18:52:00.2441999Z'
+  - relpath: grid_3000_0_500_500_mask.png
+    md5: 06d34c14e1293ffd1e4d9298b6728e21
+    size: 2903
+    cloud:
+      azure:
+        etag: '"0x8DB5319F821A869"'
+        version_id: '2023-05-12T18:52:00.5300329Z'
+  - relpath: grid_3000_1000_500_500_mask.png
+    md5: 9f05d62390424679c47d7cac59ab1909
+    size: 3068
+    cloud:
+      azure:
+        etag: '"0x8DB5319F81F10B9"'
+        version_id: '2023-05-12T18:52:00.5130425Z'
+  - relpath: grid_3000_1500_500_500_mask.png
+    md5: 3adf6bba2e762eafc7490e9a7387f2b9
+    size: 2486
+    cloud:
+      azure:
+        etag: '"0x8DB5319F821F67E"'
+        version_id: '2023-05-12T18:52:00.5320318Z'
+  - relpath: grid_3000_2000_500_500_mask.png
+    md5: c839d89c262a2cd162e1891844d5ac79
+    size: 2427
+    cloud:
+      azure:
+        etag: '"0x8DB5319F7FA5036"'
+        version_id: '2023-05-12T18:52:00.2721846Z'
+  - relpath: grid_3000_3000_500_500_mask.png
+    md5: bd56f9f309ffc2bf4df04803d88ee0be
+    size: 3499
+    cloud:
+      azure:
+        etag: '"0x8DB5319F7E93BBA"'
+        version_id: '2023-05-12T18:52:00.1602490Z'
+  - relpath: grid_3000_3500_500_500_mask.png
+    md5: 577a230d36a3c6b96c6ceaca27071a11
+    size: 3446
+    cloud:
+      azure:
+        etag: '"0x8DB5319F816386F"'
+        version_id: '2023-05-12T18:52:00.4550767Z'
+  - relpath: grid_3000_500_500_500_mask.png
+    md5: e76a25f6056ffaa406587446dbf927d0
+    size: 2278
+    cloud:
+      azure:
+        etag: '"0x8DB5319F821F67E"'
+        version_id: '2023-05-12T18:52:00.5320318Z'
+  - relpath: grid_3000_5500_500_500_mask.png
+    md5: 69de074a250629659c02192ec185b9ef
+    size: 2590
+    cloud:
+      azure:
+        etag: '"0x8DB5319F81F10B9"'
+        version_id: '2023-05-12T18:52:00.5130425Z'
+  - relpath: grid_3000_6000_500_500_mask.png
+    md5: f47108b1c373af600494fc9191e25c22
+    size: 1211
+    cloud:
+      azure:
+        etag: '"0x8DB5319F81F10B9"'
+        version_id: '2023-05-12T18:52:00.5130425Z'
+  - relpath: grid_3000_6500_500_500_mask.png
+    md5: 05c11dd14718dde9caa8791aa788b709
+    size: 2467
+    cloud:
+      azure:
+        etag: '"0x8DB5319F801F02A"'
+        version_id: '2023-05-12T18:52:00.3221546Z'
+  - relpath: grid_3000_7000_500_500_mask.png
+    md5: 18930cff09a5f093ebe27c6809851386
+    size: 2869
+    cloud:
+      azure:
+        etag: '"0x8DB5319F80C75DF"'
+        version_id: '2023-05-12T18:52:00.3911135Z'
+  - relpath: grid_3000_7500_500_500_mask.png
+    md5: b47f77fb078435d83ecadd76af228ade
+    size: 2876
+    cloud:
+      azure:
+        etag: '"0x8DB5319F812DD8D"'
+        version_id: '2023-05-12T18:52:00.4340889Z'
+  - relpath: grid_3000_8000_500_500_mask.png
+    md5: d256fda8968503a11a8ab30803d7c6de
+    size: 3763
+    cloud:
+      azure:
+        etag: '"0x8DB5319F7FA5036"'
+        version_id: '2023-05-12T18:52:00.2721846Z'
+  - relpath: grid_3000_8500_500_500_mask.png
+    md5: 7d815a8dc5ee26696c774e7baefa85a4
+    size: 4845
+    cloud:
+      azure:
+        etag: '"0x8DB5319F7FA2928"'
+        version_id: '2023-05-12T18:52:00.2721846Z'
+  - relpath: grid_3500_1000_500_500_mask.png
+    md5: a917378685b54e4441501c326affebde
+    size: 329
+    cloud:
+      azure:
+        etag: '"0x8DB5319F81833FB"'
+        version_id: '2023-05-12T18:52:00.4680699Z'
+  - relpath: grid_3500_1500_500_500_mask.png
+    md5: dd15666ccd9566c1a4ed71112d039223
+    size: 322
+    cloud:
+      azure:
+        etag: '"0x8DB5319F81F10B9"'
+        version_id: '2023-05-12T18:52:00.5130425Z'
+  - relpath: grid_3500_2000_500_500_mask.png
+    md5: 2d6d50c80b141de8ffde2e6084c9bc2a
+    size: 2938
+    cloud:
+      azure:
+        etag: '"0x8DB5319F808F3FC"'
+        version_id: '2023-05-12T18:52:00.3681276Z'
+  - relpath: grid_3500_2500_500_500_mask.png
+    md5: 0fb103f3c7f4ecca590b7ca54c0a0886
+    size: 2543
+    cloud:
+      azure:
+        etag: '"0x8DB5319F7FA5036"'
+        version_id: '2023-05-12T18:52:00.2721846Z'
+  - relpath: grid_3500_3000_500_500_mask.png
+    md5: a0b51eeaaa4777cf5cb73d4b0ab23dc3
+    size: 3301
+    cloud:
+      azure:
+        etag: '"0x8DB5319F81AF2AF"'
+        version_id: '2023-05-12T18:52:00.4860591Z'
+  - relpath: grid_3500_3500_500_500_mask.png
+    md5: a4a918d2c99cbd73530cfffc1b980caa
+    size: 3319
+    cloud:
+      azure:
+        etag: '"0x8DB5319F812DD8D"'
+        version_id: '2023-05-12T18:52:00.4340889Z'
+  - relpath: grid_3500_500_500_500_mask.png
+    md5: 9546aa83386f15d33a19c03d9aca5b0b
+    size: 1700
+    cloud:
+      azure:
+        etag: '"0x8DB5319F816386F"'
+        version_id: '2023-05-12T18:52:00.4550767Z'
+  - relpath: grid_3500_7500_500_500_mask.png
+    md5: c13b45aaaad3a343a6a856707cf163d9
+    size: 3349
+    cloud:
+      azure:
+        etag: '"0x8DB5319F7E5E0DD"'
+        version_id: '2023-05-12T18:52:00.1382621Z'
+  - relpath: grid_3500_9000_500_500_mask.png
+    md5: 1b7237f40bd64eae03fd26898f139309
+    size: 2424
+    cloud:
+      azure:
+        etag: '"0x8DB5319F7FDD21A"'
+        version_id: '2023-05-12T18:52:00.2961697Z'
+  - relpath: grid_3500_9500_500_500_mask.png
+    md5: 92921e1a2cae4e8000546f744e913718
+    size: 2668
+    cloud:
+      azure:
+        etag: '"0x8DB5319F81ACBA1"'
+        version_id: '2023-05-12T18:52:00.4850593Z'
+  - relpath: grid_4000_0_500_500_mask.png
+    md5: f47108b1c373af600494fc9191e25c22
+    size: 1211
+    cloud:
+      azure:
+        etag: '"0x8DB5319F7FDD21A"'
+        version_id: '2023-05-12T18:52:00.2961697Z'
+  - relpath: grid_4000_1000_500_500_mask.png
+    md5: fdb7dd87593391f68076aba49f0ed328
+    size: 329
+    cloud:
+      azure:
+        etag: '"0x8DB5319F80C75DF"'
+        version_id: '2023-05-12T18:52:00.3921142Z'
+  - relpath: grid_4000_500_500_500_mask.png
+    md5: 225db9d8f016fcd4091cbde2cee4f7dc
+    size: 2457
+    cloud:
+      azure:
+        etag: '"0x8DB5319F7E5E0DD"'
+        version_id: '2023-05-12T18:52:00.1382621Z'
+  - relpath: grid_4000_8500_500_500_mask.png
+    md5: 84452d9595e6c5b71c976a0159362f98
+    size: 4491
+    cloud:
+      azure:
+        etag: '"0x8DB5319F8001BAE"'
+        version_id: '2023-05-12T18:52:00.3101614Z'
+  - relpath: grid_4000_9500_500_500_mask.png
+    md5: b3a816d9a78a9e2a352699cae26801e2
+    size: 4226
+    cloud:
+      azure:
+        etag: '"0x8DB5319F8096929"'
+        version_id: '2023-05-12T18:52:00.3711273Z'
+  - relpath: grid_4500_0_500_500_mask.png
+    md5: 3495e77d16da194dfc86ad6d1231c83b
+    size: 2330
+    cloud:
+      azure:
+        etag: '"0x8DB5319F81F10B9"'
+        version_id: '2023-05-12T18:52:00.5130425Z'
+  - relpath: grid_4500_4500_500_500_mask.png
+    md5: 250bdd2dbadb684d85295db427b5dcd1
+    size: 3763
+    cloud:
+      azure:
+        etag: '"0x8DB5319F7DFC745"'
+        version_id: '2023-05-12T18:52:00.0982853Z'
+  - relpath: grid_4500_500_500_500_mask.png
+    md5: f47108b1c373af600494fc9191e25c22
+    size: 1211
+    cloud:
+      azure:
+        etag: '"0x8DB5319F8096929"'
+        version_id: '2023-05-12T18:52:00.3711273Z'
+  - relpath: grid_4500_7000_500_500_mask.png
+    md5: 61214c9490aa36a354ce4acdeb29b674
+    size: 2716
+    cloud:
+      azure:
+        etag: '"0x8DB5319F81415E0"'
+        version_id: '2023-05-12T18:52:00.4410848Z'
+  - relpath: grid_4500_7500_500_500_mask.png
+    md5: fa5b59ad85fabbad2dc8632c135b33d6
+    size: 4060
+    cloud:
+      azure:
+        etag: '"0x8DB5319F7C4541F"'
+        version_id: '2023-05-12T18:51:59.9183903Z'
+  - relpath: grid_4500_9000_500_500_mask.png
+    md5: cd203002e4b0ccb000d63011cd4ce3ae
+    size: 2629
+    cloud:
+      azure:
+        etag: '"0x8DB5319F80D3912"'
+        version_id: '2023-05-12T18:52:00.3961106Z'
+  - relpath: grid_5000_0_500_500_mask.png
+    md5: 703d8d5fd70af579733c7ebba640ab62
+    size: 2601
+    cloud:
+      azure:
+        etag: '"0x8DB5319F7F39A6F"'
+        version_id: '2023-05-12T18:52:00.2282095Z'
+  - relpath: grid_5000_2500_500_500_mask.png
+    md5: d0174b77787c7d16cca1685f8fb9ca52
+    size: 2280
+    cloud:
+      azure:
+        etag: '"0x8DB5319F8143CEC"'
+        version_id: '2023-05-12T18:52:00.4420844Z'
+  - relpath: grid_5000_7000_500_500_mask.png
+    md5: 6630241cfb628c9c4abfeb774de0af43
+    size: 2433
+    cloud:
+      azure:
+        etag: '"0x8DB5319F80857D7"'
+        version_id: '2023-05-12T18:52:00.3641303Z'
+  - relpath: grid_500_0_500_500_mask.png
+    md5: 2c02cae32b55ed957105679ca95fca17
+    size: 1234
+    cloud:
+      azure:
+        etag: '"0x8DB5319F7D3BB26"'
+        version_id: '2023-05-12T18:52:00.0193318Z'
+  - relpath: grid_500_1000_500_500_mask.png
+    md5: ae5fd0d0c9f702bb694064a15c9fbdeb
+    size: 1470
+    cloud:
+      azure:
+        etag: '"0x8DB5319F7F2D745"'
+        version_id: '2023-05-12T18:52:00.2232133Z'
+  - relpath: grid_500_3000_500_500_mask.png
+    md5: c71ec78c5b55b1ca90d1ed02b3bee359
+    size: 3842
+    cloud:
+      azure:
+        etag: '"0x8DB5319F816386F"'
+        version_id: '2023-05-12T18:52:00.4550767Z'
+  - relpath: grid_5500_0_500_500_mask.png
+    md5: 4f08e0609f76f19b10b118a0af580fd9
+    size: 2323
+    cloud:
+      azure:
+        etag: '"0x8DB5319F803EBBD"'
+        version_id: '2023-05-12T18:52:00.3351485Z'
+  - relpath: grid_5500_3000_500_500_mask.png
+    md5: 91492c24f5baf6e33f30529cf786b65a
+    size: 3873
+    cloud:
+      azure:
+        etag: '"0x8DB5319F7FA5036"'
+        version_id: '2023-05-12T18:52:00.2721846Z'
+  - relpath: grid_5500_3500_500_500_mask.png
+    md5: de79dceca7436e295bec67f8f2321bcb
+    size: 1813
+    cloud:
+      azure:
+        etag: '"0x8DB5319F808F3FC"'
+        version_id: '2023-05-12T18:52:00.3681276Z'
+  - relpath: grid_5500_5000_500_500_mask.png
+    md5: a85b9147eb6a2f720e383e864fb233d9
+    size: 4214
+    cloud:
+      azure:
+        etag: '"0x8DB5319F81379C6"'
+        version_id: '2023-05-12T18:52:00.4380862Z'
+  - relpath: grid_6000_5500_500_500_mask.png
+    md5: 9284d63434f5bc8af1b2068088fa1a0a
+    size: 3091
+    cloud:
+      azure:
+        etag: '"0x8DB5319F7F60B0F"'
+        version_id: '2023-05-12T18:52:00.2441999Z'
+  - relpath: grid_6500_500_500_500_mask.png
+    md5: 7659697ccabf85bae8d0e64f5b872a73
+    size: 3460
+    cloud:
+      azure:
+        etag: '"0x8DB5319F809420E"'
+        version_id: '2023-05-12T18:52:00.3701262Z'
+  - relpath: grid_7000_4000_500_500_mask.png
+    md5: e17d4ac237c18812b1eac9cdb3f88610
+    size: 3234
+    cloud:
+      azure:
+        etag: '"0x8DB5319F816386F"'
+        version_id: '2023-05-12T18:52:00.4560765Z'
+  - relpath: grid_7000_8000_500_500_mask.png
+    md5: f47108b1c373af600494fc9191e25c22
+    size: 1211
+    cloud:
+      azure:
+        etag: '"0x8DB5319F7EB373D"'
+        version_id: '2023-05-12T18:52:00.1732413Z'
+  - relpath: grid_7000_8500_500_500_mask.png
+    md5: 6aae20801efb59f04d5dfba4bb5bc339
+    size: 1637
+    cloud:
+      azure:
+        etag: '"0x8DB5319F7D4303F"'
+        version_id: '2023-05-12T18:52:00.0223295Z'
+  - relpath: grid_7500_1000_500_500_mask.png
+    md5: cb5ee1d324bc9c50ee1d4e7a447badbb
+    size: 3581
+    cloud:
+      azure:
+        etag: '"0x8DB5319F7EB5E4A"'
+        version_id: '2023-05-12T18:52:00.1742410Z'
+  - relpath: grid_8000_5000_500_500_mask.png
+    md5: 8ad53c851f8ce335736e033994bb2dd0
+    size: 3529
+    cloud:
+      azure:
+        etag: '"0x8DB5319F81ACBA1"'
+        version_id: '2023-05-12T18:52:00.4850593Z'
+  - relpath: grid_9500_3000_500_500_mask.png
+    md5: f47108b1c373af600494fc9191e25c22
+    size: 1211
+    cloud:
+      azure:
+        etag: '"0x8DB5319F7EE6B14"'
+        version_id: '2023-05-12T18:52:00.1942292Z'
+  - relpath: grid_9500_3500_500_500_mask.png
+    md5: f47108b1c373af600494fc9191e25c22
+    size: 1211
+    cloud:
+      azure:
+        etag: '"0x8DB5319F803C4A6"'
+        version_id: '2023-05-12T18:52:00.3341478Z'
+  - relpath: grid_9500_4000_500_500_mask.png
+    md5: 6d6bb6880f39bd578dc20059a4a49a52
+    size: 1928
+    cloud:
+      azure:
+        etag: '"0x8DB5319F812DD8D"'
+        version_id: '2023-05-12T18:52:00.4330893Z'
