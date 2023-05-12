@@ -1,0 +1,5603 @@
+outs:
+- path: grid
+  files:
+  - relpath: grid_0_0_500_500.png
+    md5: 6b3835f0b5c2574e063be46680ca027d
+    size: 580495
+    cloud:
+      azure:
+        etag: '"0x8DB5319E1EF8D66"'
+        version_id: '2023-05-12T18:51:23.2927862Z'
+  - relpath: grid_0_0_500_500.tif
+    md5: ded587d779e5352753d193950a894d58
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319F2773DE3"'
+        version_id: '2023-05-12T18:51:51.0255859Z'
+  - relpath: grid_0_1000_500_500.png
+    md5: 10edc67e2e361b7449268c451edee3af
+    size: 571587
+    cloud:
+      azure:
+        etag: '"0x8DB5319E12D44DF"'
+        version_id: '2023-05-12T18:51:22.0205296Z'
+  - relpath: grid_0_1000_500_500.tif
+    md5: 91a5f9ba113067f0dcd5ea1eda4c19d7
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319ECA135FE"'
+        version_id: '2023-05-12T18:51:41.2343054Z'
+  - relpath: grid_0_1500_500_500.png
+    md5: bac175cdec9b9535fac609af32ca64b0
+    size: 570605
+    cloud:
+      azure:
+        etag: '"0x8DB5319F6136271"'
+        version_id: '2023-05-12T18:51:57.0820481Z'
+  - relpath: grid_0_1500_500_500.tif
+    md5: 6a55ba6e3b5c74a5cad3ee1245e53a3e
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319EEFCA60F"'
+        version_id: '2023-05-12T18:51:45.1889951Z'
+  - relpath: grid_0_2000_500_500.png
+    md5: bbc69204b45b21f4751fdac5728c19d3
+    size: 560005
+    cloud:
+      azure:
+        etag: '"0x8DB5319F569A73C"'
+        version_id: '2023-05-12T18:51:55.9706976Z'
+  - relpath: grid_0_2000_500_500.tif
+    md5: b3da42e7c7fcb6ecb13e722693de5030
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319E9C7F62F"'
+        version_id: '2023-05-12T18:51:36.4550975Z'
+  - relpath: grid_0_2500_500_500.png
+    md5: c200e8528dd190c40fa6aeabd6aee441
+    size: 560107
+    cloud:
+      azure:
+        etag: '"0x8DB5319E40302C6"'
+        version_id: '2023-05-12T18:51:26.7767508Z'
+  - relpath: grid_0_2500_500_500.tif
+    md5: 5133736df9398fdb299169f9c24d6205
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319E1294DCB"'
+        version_id: '2023-05-12T18:51:21.9935451Z'
+  - relpath: grid_0_3000_500_500.png
+    md5: cbafa1088bd5ccac1df66f713eeba831
+    size: 538996
+    cloud:
+      azure:
+        etag: '"0x8DB5319F6192DF2"'
+        version_id: '2023-05-12T18:51:57.1200258Z'
+  - relpath: grid_0_3000_500_500.tif
+    md5: 1320de8f421522cabc70a8f00cf020fc
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB52F9D7624C07"'
+        version_id: '2023-05-12T15:02:01.6934919Z'
+  - relpath: grid_0_3500_500_500.png
+    md5: 7f3e06c5d373917bbfb0c7c58d9cc959
+    size: 568669
+    cloud:
+      azure:
+        etag: '"0x8DB5319E6C625CE"'
+        version_id: '2023-05-12T18:51:31.4100446Z'
+  - relpath: grid_0_3500_500_500.tif
+    md5: daff694f5ea1ea73e407094beb2ebe22
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319E8E92936"'
+        version_id: '2023-05-12T18:51:34.9949510Z'
+  - relpath: grid_0_4000_500_500.png
+    md5: 11a17c87bb03fa78a9b10a7dae5b91fe
+    size: 567055
+    cloud:
+      azure:
+        etag: '"0x8DB5319F4CCBB71"'
+        version_id: '2023-05-12T18:51:54.9412993Z'
+  - relpath: grid_0_4000_500_500.tif
+    md5: 054a035a0fde11c678a6e618e24ad62d
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319E682BE45"'
+        version_id: '2023-05-12T18:51:30.9683029Z'
+  - relpath: grid_0_4500_500_500.png
+    md5: 87ad8481701458dc947b894e424f1d95
+    size: 550156
+    cloud:
+      azure:
+        etag: '"0x8DB5319E5F1B782"'
+        version_id: '2023-05-12T18:51:30.0178578Z'
+  - relpath: grid_0_4500_500_500.tif
+    md5: 923de7d395248ce3d1f2c5548a6b6774
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319E9A29971"'
+        version_id: '2023-05-12T18:51:36.2102401Z'
+  - relpath: grid_0_5000_500_500.png
+    md5: d35d294e31c4ae33bb944cf7b19be33d
+    size: 545930
+    cloud:
+      azure:
+        etag: '"0x8DB5319F3CA8D46"'
+        version_id: '2023-05-12T18:51:53.2492886Z'
+  - relpath: grid_0_5000_500_500.tif
+    md5: 8a0bdaf263ffc8ba8efb96dfe9bed883
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319E4E37D2F"'
+        version_id: '2023-05-12T18:51:28.2468927Z'
+  - relpath: grid_0_500_500_500.png
+    md5: 606a00a8b4edee50742b4577dd743472
+    size: 575251
+    cloud:
+      azure:
+        etag: '"0x8DB5319E56C20CA"'
+        version_id: '2023-05-12T18:51:29.1423706Z'
+  - relpath: grid_0_500_500_500.tif
+    md5: 2814b1321dd036680a0237c41d6da9c2
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319E490D5AE"'
+        version_id: '2023-05-12T18:51:27.7052094Z'
+  - relpath: grid_0_5500_500_500.png
+    md5: cebf74f76fba684a51ec09d4b8b40185
+    size: 572115
+    cloud:
+      azure:
+        etag: '"0x8DB5319E720BB66"'
+        version_id: '2023-05-12T18:51:32.0036982Z'
+  - relpath: grid_0_5500_500_500.tif
+    md5: d06093bccf8d45f219a3c03f34e85aa1
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319E49A712C"'
+        version_id: '2023-05-12T18:51:27.7681724Z'
+  - relpath: grid_0_6000_500_500.png
+    md5: ebdabaa4ba28f48d3443890aec0cc063
+    size: 553370
+    cloud:
+      azure:
+        etag: '"0x8DB5319F302A034"'
+        version_id: '2023-05-12T18:51:51.9400516Z'
+  - relpath: grid_0_6000_500_500.tif
+    md5: 243fce016569e595188375e624258450
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319F44CF029"'
+        version_id: '2023-05-12T18:51:54.1037881Z'
+  - relpath: grid_0_6500_500_500.png
+    md5: 7dc8adfdd0804dbd49d8d214b3051479
+    size: 554457
+    cloud:
+      azure:
+        etag: '"0x8DB5319EB6BA368"'
+        version_id: '2023-05-12T18:51:39.2054904Z'
+  - relpath: grid_0_6500_500_500.tif
+    md5: 15d8ca47fc169f1c0f2658a9cdd3e683
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319F75B8FD4"'
+        version_id: '2023-05-12T18:51:59.2327909Z'
+  - relpath: grid_0_7000_500_500.png
+    md5: 6b4ca0c9dda2aa08910a3108a988f1a3
+    size: 563833
+    cloud:
+      azure:
+        etag: '"0x8DB5319E239D1BE"'
+        version_id: '2023-05-12T18:51:23.7795022Z'
+  - relpath: grid_0_7000_500_500.tif
+    md5: a3f230e073dcf2b3b7a7511365ebdf6c
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319F748F508"'
+        version_id: '2023-05-12T18:51:59.1108632Z'
+  - relpath: grid_0_7500_500_500.png
+    md5: 489c60ddea9f79e136f59b98449fed4a
+    size: 567597
+    cloud:
+      azure:
+        etag: '"0x8DB5319F6539622"'
+        version_id: '2023-05-12T18:51:57.5028018Z'
+  - relpath: grid_0_7500_500_500.tif
+    md5: bd49f47532115333fb083569c4e47b95
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319E21B2AC3"'
+        version_id: '2023-05-12T18:51:23.5786195Z'
+  - relpath: grid_0_8000_500_500.png
+    md5: e175fe9f935c954d50f9554fb96b3a52
+    size: 555519
+    cloud:
+      azure:
+        etag: '"0x8DB5319E3ECBEF3"'
+        version_id: '2023-05-12T18:51:26.6298371Z'
+  - relpath: grid_0_8000_500_500.tif
+    md5: 4d5a4ed10db64fa8ce14d62a986ecd78
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319E161BA83"'
+        version_id: '2023-05-12T18:51:22.3633299Z'
+  - relpath: grid_0_8500_500_500.png
+    md5: 4f4a186f8cee467abd17cd17ef102a7c
+    size: 552704
+    cloud:
+      azure:
+        etag: '"0x8DB5319F0F45A30"'
+        version_id: '2023-05-12T18:51:48.4910671Z'
+  - relpath: grid_0_8500_500_500.tif
+    md5: 8d3112c22a8f5436021497fa48a08a57
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319E17D06A1"'
+        version_id: '2023-05-12T18:51:22.5422257Z'
+  - relpath: grid_0_9000_500_500.png
+    md5: 7abb4db12742be1a623afc2114e02e75
+    size: 547747
+    cloud:
+      azure:
+        etag: '"0x8DB5319F1ECC5D5"'
+        version_id: '2023-05-12T18:51:50.1181157Z'
+  - relpath: grid_0_9000_500_500.tif
+    md5: 0596020bf92d6fd89810565d2316b72a
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319F1285AB8"'
+        version_id: '2023-05-12T18:51:48.8308680Z'
+  - relpath: grid_0_9500_500_500.png
+    md5: d3fab6464a7d8d6f7a76edf6b7b74295
+    size: 549440
+    cloud:
+      azure:
+        etag: '"0x8DB5319F17BEC79"'
+        version_id: '2023-05-12T18:51:49.3795472Z'
+  - relpath: grid_0_9500_500_500.tif
+    md5: e11f7305c339bd3a0db20651c62a7df0
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319E174A373"'
+        version_id: '2023-05-12T18:51:22.4872579Z'
+  - relpath: grid_1000_0_500_500.png
+    md5: 8046ba9e567a7c45a2ae22211d08f1f9
+    size: 580080
+    cloud:
+      azure:
+        etag: '"0x8DB5319E6C1448D"'
+        version_id: '2023-05-12T18:51:31.3790627Z'
+  - relpath: grid_1000_0_500_500.tif
+    md5: 8fc1bf01197daaa57cf6da4c5eb7882d
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319EC1BC647"'
+        version_id: '2023-05-12T18:51:40.3598167Z'
+  - relpath: grid_1000_1000_500_500.png
+    md5: a70421c0dd45a8bac4e03d976e2c195b
+    size: 563053
+    cloud:
+      azure:
+        etag: '"0x8DB5319F1C6F40A"'
+        version_id: '2023-05-12T18:51:49.8702618Z'
+  - relpath: grid_1000_1000_500_500.tif
+    md5: 629167d3513534facd7f67a0a1af5fc0
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319F590FF83"'
+        version_id: '2023-05-12T18:51:56.2275475Z'
+  - relpath: grid_1000_1500_500_500.png
+    md5: c02167ade5efd1237fd0a50e49933fd3
+    size: 574770
+    cloud:
+      azure:
+        etag: '"0x8DB5319F58BF72D"'
+        version_id: '2023-05-12T18:51:56.1945661Z'
+  - relpath: grid_1000_1500_500_500.tif
+    md5: 3bc81036490ed64b84696c24972e366f
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319F706C5CD"'
+        version_id: '2023-05-12T18:51:58.6771165Z'
+  - relpath: grid_1000_2000_500_500.png
+    md5: f64811395a5014138af65492058805c1
+    size: 578500
+    cloud:
+      azure:
+        etag: '"0x8DB5319EAC2AB72"'
+        version_id: '2023-05-12T18:51:38.0991369Z'
+  - relpath: grid_1000_2000_500_500.tif
+    md5: 0f6c6e8f61bfa1495c430d8ec5cf211a
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319F0DBCCC7"'
+        version_id: '2023-05-12T18:51:48.3291607Z'
+  - relpath: grid_1000_2500_500_500.png
+    md5: 1177666fd7abf0e0f9a113e8511d1743
+    size: 571576
+    cloud:
+      azure:
+        etag: '"0x8DB5319EC00C843"'
+        version_id: '2023-05-12T18:51:40.1839195Z'
+  - relpath: grid_1000_2500_500_500.tif
+    md5: 3a8909ad891ea60a7baf464fa38ec727
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319EEE0BDCE"'
+        version_id: '2023-05-12T18:51:45.0061022Z'
+  - relpath: grid_1000_3000_500_500.png
+    md5: 6f7e8f0fa32da8786a5c95d6714a289b
+    size: 582024
+    cloud:
+      azure:
+        etag: '"0x8DB5319F75D645A"'
+        version_id: '2023-05-12T18:51:59.2457847Z'
+  - relpath: grid_1000_3000_500_500.tif
+    md5: 6a3a0a773e783f1544f255c8a4b0a19f
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319E95680A8"'
+        version_id: '2023-05-12T18:51:35.7115320Z'
+  - relpath: grid_1000_3500_500_500.png
+    md5: fb4140b975671799357b456c70bdd537
+    size: 556798
+    cloud:
+      azure:
+        etag: '"0x8DB5319EACE4280"'
+        version_id: '2023-05-12T18:51:38.1740944Z'
+  - relpath: grid_1000_3500_500_500.tif
+    md5: d98a20c3962f7566c8ea94f7b7f9084e
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319E7AAE560"'
+        version_id: '2023-05-12T18:51:32.9091696Z'
+  - relpath: grid_1000_4000_500_500.png
+    md5: e11272b9bd43374a96459a9929418272
+    size: 557068
+    cloud:
+      azure:
+        etag: '"0x8DB5319F50353AB"'
+        version_id: '2023-05-12T18:51:55.2990891Z'
+  - relpath: grid_1000_4000_500_500.tif
+    md5: 0982f8622a15cddb12208d6ba6c53f88
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319F6300DE2"'
+        version_id: '2023-05-12T18:51:57.2699378Z'
+  - relpath: grid_1000_4500_500_500.png
+    md5: c69eece9e82dd58a8028cf0b747f4200
+    size: 547894
+    cloud:
+      azure:
+        etag: '"0x8DB5319E129C2F9"'
+        version_id: '2023-05-12T18:51:21.9975435Z'
+  - relpath: grid_1000_4500_500_500.tif
+    md5: 85a997184a76896b88523906a733fdd8
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319E2F5B2AC"'
+        version_id: '2023-05-12T18:51:25.0107836Z'
+  - relpath: grid_1000_5000_500_500.png
+    md5: 44f0139d96fdf1d2ab09a0d67fc0837e
+    size: 550458
+    cloud:
+      azure:
+        etag: '"0x8DB5319E7ECED92"'
+        version_id: '2023-05-12T18:51:33.3429164Z'
+  - relpath: grid_1000_5000_500_500.tif
+    md5: 71a583b598976906a7488385c70bfe77
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319E62960FE"'
+        version_id: '2023-05-12T18:51:30.3826446Z'
+  - relpath: grid_1000_500_500_500.png
+    md5: fbb629b09c757a8d95a258fe358b6955
+    size: 561450
+    cloud:
+      azure:
+        etag: '"0x8DB5319F07EED9F"'
+        version_id: '2023-05-12T18:51:47.7205167Z'
+  - relpath: grid_1000_500_500_500.tif
+    md5: 5a06c8e3991d75cc89139da679e4b8a7
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319F1268640"'
+        version_id: '2023-05-12T18:51:48.8188752Z'
+  - relpath: grid_1000_5500_500_500.png
+    md5: d7402e7cee6248bdd0e81557708000a5
+    size: 561504
+    cloud:
+      azure:
+        etag: '"0x8DB5319E2319598"'
+        version_id: '2023-05-12T18:51:23.7255336Z'
+  - relpath: grid_1000_5500_500_500.tif
+    md5: f7616fea240753fcb01969ddb0f5b063
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319E913DC4E"'
+        version_id: '2023-05-12T18:51:35.2757861Z'
+  - relpath: grid_1000_6000_500_500.png
+    md5: 31084468430f8be52e5bdbfc97d55f8b
+    size: 554896
+    cloud:
+      azure:
+        etag: '"0x8DB5319F3CE0F1C"'
+        version_id: '2023-05-12T18:51:53.2732732Z'
+  - relpath: grid_1000_6000_500_500.tif
+    md5: f46bffbfb9460a331fc6fa61464b496a
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319E1418D1D"'
+        version_id: '2023-05-12T18:51:22.1534517Z'
+  - relpath: grid_1000_6500_500_500.png
+    md5: 97ff6a01e9468648a04c24c6df2e33b1
+    size: 553058
+    cloud:
+      azure:
+        etag: '"0x8DB5319F2E1FDB1"'
+        version_id: '2023-05-12T18:51:51.7261763Z'
+  - relpath: grid_1000_6500_500_500.tif
+    md5: c252c9887a260b40d63c153f3685b079
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319E9D45069"'
+        version_id: '2023-05-12T18:51:36.5360505Z'
+  - relpath: grid_1000_7000_500_500.png
+    md5: f02a471e564b6a9bea18afa7703b9ed1
+    size: 554049
+    cloud:
+      azure:
+        etag: '"0x8DB5319EC7A2BD4"'
+        version_id: '2023-05-12T18:51:40.9784548Z'
+  - relpath: grid_1000_7000_500_500.tif
+    md5: 587d453d5e280561ae191d3804f33247
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319E6DB7F5A"'
+        version_id: '2023-05-12T18:51:31.5509625Z'
+  - relpath: grid_1000_7500_500_500.png
+    md5: 39e31101268b3be844104822e8a29f6c
+    size: 546566
+    cloud:
+      azure:
+        etag: '"0x8DB5319F13B1C98"'
+        version_id: '2023-05-12T18:51:48.9537960Z'
+  - relpath: grid_1000_7500_500_500.tif
+    md5: d9030bdf80e2e1c73f6943e18239e2e7
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319F09CAA68"'
+        version_id: '2023-05-12T18:51:47.9154040Z'
+  - relpath: grid_1000_8000_500_500.png
+    md5: cf30123208770cbc0d56e4339e4c289c
+    size: 562954
+    cloud:
+      azure:
+        etag: '"0x8DB5319EBDB6B88"'
+        version_id: '2023-05-12T18:51:39.9380632Z'
+  - relpath: grid_1000_8000_500_500.tif
+    md5: ac909ef155b97ccc8de0c6be6681d073
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319E2E735DA"'
+        version_id: '2023-05-12T18:51:24.9168377Z'
+  - relpath: grid_1000_8500_500_500.png
+    md5: dd3080033f37444ac7fc9cc338e2bf1c
+    size: 539983
+    cloud:
+      azure:
+        etag: '"0x8DB5319EB13A585"'
+        version_id: '2023-05-12T18:51:38.6288277Z'
+  - relpath: grid_1000_8500_500_500.tif
+    md5: b9a043c5f64d5e99e296bacba2358c53
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319F37108E6"'
+        version_id: '2023-05-12T18:51:52.6636295Z'
+  - relpath: grid_1000_9000_500_500.png
+    md5: 491232abf5a0d61e0ad375ea051d322a
+    size: 543530
+    cloud:
+      azure:
+        etag: '"0x8DB5319ED076297"'
+        version_id: '2023-05-12T18:51:41.9039143Z'
+  - relpath: grid_1000_9000_500_500.tif
+    md5: 7ce8eb682a5a67670c53bf303cd8c21d
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319EBC9BAEB"'
+        version_id: '2023-05-12T18:51:39.8221307Z'
+  - relpath: grid_1000_9500_500_500.png
+    md5: b23c091c06a268fe3791a5f72721fece
+    size: 555450
+    cloud:
+      azure:
+        etag: '"0x8DB5319E5B37F4E"'
+        version_id: '2023-05-12T18:51:29.6100958Z'
+  - relpath: grid_1000_9500_500_500.tif
+    md5: e620e57d56f59d28c5267c917f14cc8f
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319EB1BBAA1"'
+        version_id: '2023-05-12T18:51:38.6817969Z'
+  - relpath: grid_1500_0_500_500.png
+    md5: ef5b1e49bb2d6626fe58f73a1bf90556
+    size: 570467
+    cloud:
+      azure:
+        etag: '"0x8DB5319F354F9A0"'
+        version_id: '2023-05-12T18:51:52.4787376Z'
+  - relpath: grid_1500_0_500_500.tif
+    md5: 43014ae23ee81d356200319736b467f3
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319E8D72A80"'
+        version_id: '2023-05-12T18:51:34.8770192Z'
+  - relpath: grid_1500_1000_500_500.png
+    md5: e9663c768b734784b10c302482df6a85
+    size: 569571
+    cloud:
+      azure:
+        etag: '"0x8DB5319F7B51423"'
+        version_id: '2023-05-12T18:51:59.8194483Z'
+  - relpath: grid_1500_1000_500_500.tif
+    md5: efdb71450c71bdd373cb2f3754517f55
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319F46CF67E"'
+        version_id: '2023-05-12T18:51:54.3136654Z'
+  - relpath: grid_1500_1500_500_500.png
+    md5: 24ebb6ac2dbbe99d23a0aaeb9c468497
+    size: 556113
+    cloud:
+      azure:
+        etag: '"0x8DB5319E5DCD30E"'
+        version_id: '2023-05-12T18:51:29.8819381Z'
+  - relpath: grid_1500_1500_500_500.tif
+    md5: 9fd9dd6e2f96551e3eedb04401deaaf0
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319EBA2FEEB"'
+        version_id: '2023-05-12T18:51:39.5682811Z'
+  - relpath: grid_1500_2000_500_500.png
+    md5: c882a5e1c817be87c79f6a182c631119
+    size: 566337
+    cloud:
+      azure:
+        etag: '"0x8DB5319E67C5698"'
+        version_id: '2023-05-12T18:51:30.9263272Z'
+  - relpath: grid_1500_2000_500_500.tif
+    md5: 1d7d2e5a9f4f1f2b42b0250a568110e5
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319F701BD81"'
+        version_id: '2023-05-12T18:51:58.6441361Z'
+  - relpath: grid_1500_2500_500_500.png
+    md5: f9cdcca02354c5031451c966811fef73
+    size: 553122
+    cloud:
+      azure:
+        etag: '"0x8DB5319F30C3BAA"'
+        version_id: '2023-05-12T18:51:52.0020154Z'
+  - relpath: grid_1500_2500_500_500.tif
+    md5: 3b35f94f2164501dc08b16f04ff5aa5e
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319F557A89B"'
+        version_id: '2023-05-12T18:51:55.8517675Z'
+  - relpath: grid_1500_3000_500_500.png
+    md5: 9989489e9ab4a0ecca6095c1bea67175
+    size: 566717
+    cloud:
+      azure:
+        etag: '"0x8DB5319F0E5B662"'
+        version_id: '2023-05-12T18:51:48.3941234Z'
+  - relpath: grid_1500_3000_500_500.tif
+    md5: 36b023ed105fa1cc263b329c232cc65a
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319F4694D88"'
+        version_id: '2023-05-12T18:51:54.2896792Z'
+  - relpath: grid_1500_3500_500_500.png
+    md5: 5e057bcce8541110ed9ba54981dcdb6d
+    size: 553469
+    cloud:
+      azure:
+        etag: '"0x8DB5319E2C0C7E5"'
+        version_id: '2023-05-12T18:51:24.6639861Z'
+  - relpath: grid_1500_3500_500_500.tif
+    md5: 326a3cfed6c9bdf1bc4d078b6edffd41
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319F61B9E97"'
+        version_id: '2023-05-12T18:51:57.1370161Z'
+  - relpath: grid_1500_4000_500_500.png
+    md5: e3cec6d3475d00fd5d84a5bfeeaa3cbe
+    size: 548982
+    cloud:
+      azure:
+        etag: '"0x8DB5319EF6347D3"'
+        version_id: '2023-05-12T18:51:45.8616035Z'
+  - relpath: grid_1500_4000_500_500.tif
+    md5: 0076bd508e78ecb48b222d56a2215440
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319E3872E83"'
+        version_id: '2023-05-12T18:51:25.9642259Z'
+  - relpath: grid_1500_4500_500_500.png
+    md5: 4e9532e5fd31258a66fcfd0f25ef9b9a
+    size: 547493
+    cloud:
+      azure:
+        etag: '"0x8DB5319ED04A3EA"'
+        version_id: '2023-05-12T18:51:41.8869252Z'
+  - relpath: grid_1500_4500_500_500.tif
+    md5: bcebe5aa2c480a24e85959de72c909c7
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319E2D7A7EE"'
+        version_id: '2023-05-12T18:51:24.8148973Z'
+  - relpath: grid_1500_5000_500_500.png
+    md5: 908be14a516b4ef3179118f97cf944fb
+    size: 545755
+    cloud:
+      azure:
+        etag: '"0x8DB5319ECA812C3"'
+        version_id: '2023-05-12T18:51:41.2792787Z'
+  - relpath: grid_1500_5000_500_500.tif
+    md5: 36769e0ea950dcdc88585d8576e1e572
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319ECABBBBD"'
+        version_id: '2023-05-12T18:51:41.3032653Z'
+  - relpath: grid_1500_500_500_500.png
+    md5: 59f0ee416281d8abb8d46ffb9a2acc08
+    size: 565545
+    cloud:
+      azure:
+        etag: '"0x8DB5319E5A947A7"'
+        version_id: '2023-05-12T18:51:29.5431351Z'
+  - relpath: grid_1500_500_500_500.tif
+    md5: 636d1d620b58bcbe6f1d20b92b2a4efb
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319F788DAA6"'
+        version_id: '2023-05-12T18:51:59.5296182Z'
+  - relpath: grid_1500_5500_500_500.png
+    md5: a46d9bdf02441ee6bdcfeb46c9674579
+    size: 543668
+    cloud:
+      azure:
+        etag: '"0x8DB5319EDE8041C"'
+        version_id: '2023-05-12T18:51:43.3760556Z'
+  - relpath: grid_1500_5500_500_500.tif
+    md5: bf576cb62f07db453c3278fb2bf46be2
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319E209C838"'
+        version_id: '2023-05-12T18:51:23.4646856Z'
+  - relpath: grid_1500_6000_500_500.png
+    md5: 66a74fec5a8b5bcd99b940b3a532245a
+    size: 554267
+    cloud:
+      azure:
+        etag: '"0x8DB5319F45C3020"'
+        version_id: '2023-05-12T18:51:54.2037296Z'
+  - relpath: grid_1500_6000_500_500.tif
+    md5: 3e7ec6829eeba7d1ad78132d0d2a97a5
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319F381331D"'
+        version_id: '2023-05-12T18:51:52.7685677Z'
+  - relpath: grid_1500_6500_500_500.png
+    md5: 9c6e94d08704a09f4e2552feb03da1f8
+    size: 548300
+    cloud:
+      azure:
+        etag: '"0x8DB5319F6A1836D"'
+        version_id: '2023-05-12T18:51:58.0135037Z'
+  - relpath: grid_1500_6500_500_500.tif
+    md5: 900030bd8810b40d0260aac4f4b10d18
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319F136896F"'
+        version_id: '2023-05-12T18:51:48.9248127Z'
+  - relpath: grid_1500_7000_500_500.png
+    md5: fae7dec154d013969b90b77f086be55c
+    size: 558824
+    cloud:
+      azure:
+        etag: '"0x8DB5319E12F4064"'
+        version_id: '2023-05-12T18:51:22.0335222Z'
+  - relpath: grid_1500_7000_500_500.tif
+    md5: e631e9f57507e15f2a9711bb4358c06a
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319E5F44F31"'
+        version_id: '2023-05-12T18:51:30.0348481Z'
+  - relpath: grid_1500_7500_500_500.png
+    md5: b278ca1e4a1ae1ba0fa7d1c1a876900a
+    size: 561447
+    cloud:
+      azure:
+        etag: '"0x8DB5319E6A709BB"'
+        version_id: '2023-05-12T18:51:31.2061643Z'
+  - relpath: grid_1500_7500_500_500.tif
+    md5: 704fc73666201ae385f5b5a1df0c5844
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319EE0524C0"'
+        version_id: '2023-05-12T18:51:43.5669456Z'
+  - relpath: grid_1500_8000_500_500.png
+    md5: 662e4fe3419ff6a721db143b0a68107d
+    size: 546517
+    cloud:
+      azure:
+        etag: '"0x8DB5319E4D5C3A1"'
+        version_id: '2023-05-12T18:51:28.1569457Z'
+  - relpath: grid_1500_8000_500_500.tif
+    md5: 5f188b60c5c953389a0807c6cb621f9e
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319E8EC8412"'
+        version_id: '2023-05-12T18:51:35.0169378Z'
+  - relpath: grid_1500_8500_500_500.png
+    md5: a8366098716a068dd5e1b2a1fa0130af
+    size: 543008
+    cloud:
+      azure:
+        etag: '"0x8DB5319ECCAB0D3"'
+        version_id: '2023-05-12T18:51:41.5061475Z'
+  - relpath: grid_1500_8500_500_500.tif
+    md5: b375bd8eb5ca08d4750298ab5f2656f2
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319EE48B33F"'
+        version_id: '2023-05-12T18:51:44.0096847Z'
+  - relpath: grid_1500_9000_500_500.png
+    md5: 426ccfc82b65197a2f1e86e45b1aceee
+    size: 555863
+    cloud:
+      azure:
+        etag: '"0x8DB5319F515C76D"'
+        version_id: '2023-05-12T18:51:55.4200189Z'
+  - relpath: grid_1500_9000_500_500.tif
+    md5: a29c73ba098d5239b14e3a67d8c91a92
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319E795D9DD"'
+        version_id: '2023-05-12T18:51:32.7712493Z'
+  - relpath: grid_1500_9500_500_500.png
+    md5: db6cc967457644346cf709786cdf2ccc
+    size: 545699
+    cloud:
+      azure:
+        etag: '"0x8DB5319F6055AD0"'
+        version_id: '2023-05-12T18:51:56.9901024Z'
+  - relpath: grid_1500_9500_500_500.tif
+    md5: 17fe6732831230b12691ee8ff81c5d7c
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319EAC2AB72"'
+        version_id: '2023-05-12T18:51:38.0991369Z'
+  - relpath: grid_2000_0_500_500.png
+    md5: c15bb4edca9b923f29902117ef7f9d47
+    size: 570029
+    cloud:
+      azure:
+        etag: '"0x8DB5319EAB67851"'
+        version_id: '2023-05-12T18:51:38.0181857Z'
+  - relpath: grid_2000_0_500_500.tif
+    md5: 87ec5dd0f7bb7a3b8b12c374c3dde261
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319EAE98E91"'
+        version_id: '2023-05-12T18:51:38.3529889Z'
+  - relpath: grid_2000_1000_500_500.png
+    md5: 94fef2e84629ea817a7d4b13c8806a4c
+    size: 569860
+    cloud:
+      azure:
+        etag: '"0x8DB5319EE1FD496"'
+        version_id: '2023-05-12T18:51:43.7418406Z'
+  - relpath: grid_2000_1000_500_500.tif
+    md5: 5ff8bc571ed23b5c19fbba391383ed2d
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319E6F51E11"'
+        version_id: '2023-05-12T18:51:31.7178657Z'
+  - relpath: grid_2000_1500_500_500.png
+    md5: 9c07be758478ed00bbd98671a8497225
+    size: 564932
+    cloud:
+      azure:
+        etag: '"0x8DB5319E5D5812A"'
+        version_id: '2023-05-12T18:51:29.8329658Z'
+  - relpath: grid_2000_1500_500_500.tif
+    md5: 8c76c96d5dd9a80ec80dfb763d198e52
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319E73B1D46"'
+        version_id: '2023-05-12T18:51:32.1765974Z'
+  - relpath: grid_2000_2000_500_500.png
+    md5: 9a93d9f7d50117d548b109845db0eb80
+    size: 544953
+    cloud:
+      azure:
+        etag: '"0x8DB5319F44B69C0"'
+        version_id: '2023-05-12T18:51:54.0947929Z'
+  - relpath: grid_2000_2000_500_500.tif
+    md5: 039d89679df9fb82ed44c42a216402b7
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319F33D0864"'
+        version_id: '2023-05-12T18:51:52.3218292Z'
+  - relpath: grid_2000_2500_500_500.png
+    md5: 9e91f8bee07ce4d294427edf72a0aec5
+    size: 554379
+    cloud:
+      azure:
+        etag: '"0x8DB5319F5E02518"'
+        version_id: '2023-05-12T18:51:56.7472432Z'
+  - relpath: grid_2000_2500_500_500.tif
+    md5: cf3901f2c9f449a31bf9c05f91e9f9ff
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319E245B6DA"'
+        version_id: '2023-05-12T18:51:23.8574570Z'
+  - relpath: grid_2000_3000_500_500.png
+    md5: 94f9b31676c6018b34fb285688a38ee4
+    size: 552375
+    cloud:
+      azure:
+        etag: '"0x8DB5319F7681118"'
+        version_id: '2023-05-12T18:51:59.3147432Z'
+  - relpath: grid_2000_3000_500_500.tif
+    md5: e1fcd98bea230ca22f836b039c872f29
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319F6B94DA1"'
+        version_id: '2023-05-12T18:51:58.1694129Z'
+  - relpath: grid_2000_3500_500_500.png
+    md5: 672ce2d2e1e149fdea51d1752605750f
+    size: 550421
+    cloud:
+      azure:
+        etag: '"0x8DB5319E33EBEA4"'
+        version_id: '2023-05-12T18:51:25.4895028Z'
+  - relpath: grid_2000_3500_500_500.tif
+    md5: 18ba662137bdfeb95054222922c6e6e3
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319E875DF2D"'
+        version_id: '2023-05-12T18:51:34.2403919Z'
+  - relpath: grid_2000_4000_500_500.png
+    md5: 840ba4fd375ae9846202977e94c2bd5c
+    size: 547090
+    cloud:
+      azure:
+        etag: '"0x8DB5319EE853DFF"'
+        version_id: '2023-05-12T18:51:44.4074524Z'
+  - relpath: grid_2000_4000_500_500.tif
+    md5: 719c5afe8de88df2af39649820bb6897
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319F701215B"'
+        version_id: '2023-05-12T18:51:58.6411374Z'
+  - relpath: grid_2000_4500_500_500.png
+    md5: 1b04dfb658f5393a2546858441c81c11
+    size: 544679
+    cloud:
+      azure:
+        etag: '"0x8DB5319E9593F59"'
+        version_id: '2023-05-12T18:51:35.7295209Z'
+  - relpath: grid_2000_4500_500_500.tif
+    md5: 83e9095293bc9dcbf9c4c2cd12777f6d
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319F2057A44"'
+        version_id: '2023-05-12T18:51:50.2810207Z'
+  - relpath: grid_2000_5000_500_500.png
+    md5: a426adaa5d894eacb7afced8f9a7bdb6
+    size: 540884
+    cloud:
+      azure:
+        etag: '"0x8DB5319E73C2E87"'
+        version_id: '2023-05-12T18:51:32.1845924Z'
+  - relpath: grid_2000_5000_500_500.tif
+    md5: fa1598969e748705d99ca966389c8571
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319E4C09111"'
+        version_id: '2023-05-12T18:51:28.0190259Z'
+  - relpath: grid_2000_500_500_500.png
+    md5: 2b0e59ee5557a38f2a4ea3391790f07c
+    size: 550342
+    cloud:
+      azure:
+        etag: '"0x8DB5319E67C2F95"'
+        version_id: '2023-05-12T18:51:30.9253285Z'
+  - relpath: grid_2000_500_500_500.tif
+    md5: 7c543d142fdba50bdf38ba9f25c1a422
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319F073CBBC"'
+        version_id: '2023-05-12T18:51:47.6475596Z'
+  - relpath: grid_2000_5500_500_500.png
+    md5: cba1e7ef2a3f9fbfb0904898125fd11c
+    size: 550159
+    cloud:
+      azure:
+        etag: '"0x8DB5319F17FE383"'
+        version_id: '2023-05-12T18:51:49.4045331Z'
+  - relpath: grid_2000_5500_500_500.tif
+    md5: 4f26a17cdde9bd97b0540c19fdc77ed4
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319F2099852"'
+        version_id: '2023-05-12T18:51:50.3070050Z'
+  - relpath: grid_2000_6000_500_500.png
+    md5: 26caa5046ecea2a320af8467708d63a8
+    size: 556324
+    cloud:
+      azure:
+        etag: '"0x8DB5319F7C2CDCE"'
+        version_id: '2023-05-12T18:51:59.9103967Z'
+  - relpath: grid_2000_6000_500_500.tif
+    md5: 27e146a0a2544959751ea952a0cb6235
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319EF78052B"'
+        version_id: '2023-05-12T18:51:45.9975227Z'
+  - relpath: grid_2000_6500_500_500.png
+    md5: 51f166c49fc6419dfea2b68c39e8d5a7
+    size: 559739
+    cloud:
+      azure:
+        etag: '"0x8DB5319EC325822"'
+        version_id: '2023-05-12T18:51:40.5077298Z'
+  - relpath: grid_2000_6500_500_500.tif
+    md5: 9eabb6a2bd789161e8046deeb21f90fc
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319E2BF417F"'
+        version_id: '2023-05-12T18:51:24.6539919Z'
+  - relpath: grid_2000_7000_500_500.png
+    md5: c8d59e600e3daf6df078fd6573214d12
+    size: 543654
+    cloud:
+      azure:
+        etag: '"0x8DB5319F1700760"'
+        version_id: '2023-05-12T18:51:49.3005936Z'
+  - relpath: grid_2000_7000_500_500.tif
+    md5: 54bf5cf30e60a5b6e2285f3cb4359a64
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319E5A3551C"'
+        version_id: '2023-05-12T18:51:29.5041580Z'
+  - relpath: grid_2000_7500_500_500.png
+    md5: cc9319a9e8d4aacc15dd0abd3d6903b9
+    size: 548363
+    cloud:
+      azure:
+        etag: '"0x8DB5319E6A5AA57"'
+        version_id: '2023-05-12T18:51:31.1981679Z'
+  - relpath: grid_2000_7500_500_500.tif
+    md5: f0944db7e9c6155fd94f3233b878884a
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319EEEA5957"'
+        version_id: '2023-05-12T18:51:45.0700649Z'
+  - relpath: grid_2000_8000_500_500.png
+    md5: 2060efef4fae5c72856ba44fe2d705aa
+    size: 552394
+    cloud:
+      azure:
+        etag: '"0x8DB5319EC93A378"'
+        version_id: '2023-05-12T18:51:41.1453576Z'
+  - relpath: grid_2000_8000_500_500.tif
+    md5: 393ef78366459590cfaf156bb8c2edb6
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319ECA887EB"'
+        version_id: '2023-05-12T18:51:41.2822779Z'
+  - relpath: grid_2000_8500_500_500.png
+    md5: b680681440e067ab7665929ac649cc3f
+    size: 566833
+    cloud:
+      azure:
+        etag: '"0x8DB5319F5FAFC1F"'
+        version_id: '2023-05-12T18:51:56.9231411Z'
+  - relpath: grid_2000_8500_500_500.tif
+    md5: 9b51a4bbe3d344a2142516fb746bec78
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319E14E8382"'
+        version_id: '2023-05-12T18:51:22.2374034Z'
+  - relpath: grid_2000_9000_500_500.png
+    md5: 5b3312aabe979a5502760b0f4adb789f
+    size: 557739
+    cloud:
+      azure:
+        etag: '"0x8DB5319F1CE93FE"'
+        version_id: '2023-05-12T18:51:49.9202318Z'
+  - relpath: grid_2000_9000_500_500.tif
+    md5: c1a25ca568b39e8b0b97ffc5a64e007a
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319F69F12CF"'
+        version_id: '2023-05-12T18:51:57.9985123Z'
+  - relpath: grid_2000_9500_500_500.png
+    md5: dfc0cd8577c860857580f844ea8176de
+    size: 547993
+    cloud:
+      azure:
+        etag: '"0x8DB5319EC2C8CAA"'
+        version_id: '2023-05-12T18:51:40.4697530Z'
+  - relpath: grid_2000_9500_500_500.tif
+    md5: d2da4fc739d6b5fa2d2ddfaab3776b95
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319F7EB5E4A"'
+        version_id: '2023-05-12T18:52:00.1752410Z'
+  - relpath: grid_2500_0_500_500.png
+    md5: 98992fc3afe8d3934985dee650ffc794
+    size: 544160
+    cloud:
+      azure:
+        etag: '"0x8DB5319F6FA929F"'
+        version_id: '2023-05-12T18:51:58.5971631Z'
+  - relpath: grid_2500_0_500_500.tif
+    md5: d979b45953bc7b9cb69514e492d7b2cb
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319ECCF6B04"'
+        version_id: '2023-05-12T18:51:41.5371284Z'
+  - relpath: grid_2500_1000_500_500.png
+    md5: 24c0ececd54902314fec992f51fcff57
+    size: 564850
+    cloud:
+      azure:
+        etag: '"0x8DB5319F7E3E558"'
+        version_id: '2023-05-12T18:52:00.1262696Z'
+  - relpath: grid_2500_1000_500_500.tif
+    md5: 22291d1cdff1e698c6bb01b5727ffa27
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319F44CA218"'
+        version_id: '2023-05-12T18:51:54.1017896Z'
+  - relpath: grid_2500_1500_500_500.png
+    md5: 42884e9f82953a48f5346f9be4132133
+    size: 559161
+    cloud:
+      azure:
+        etag: '"0x8DB5319E20E346A"'
+        version_id: '2023-05-12T18:51:23.4936698Z'
+  - relpath: grid_2500_1500_500_500.tif
+    md5: 0d2fbc9c3f142dece123f237be11dbf8
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319EC9466B5"'
+        version_id: '2023-05-12T18:51:41.1503557Z'
+  - relpath: grid_2500_2000_500_500.png
+    md5: 2033a85dcfee553fcea3b69b02b441b6
+    size: 557454
+    cloud:
+      azure:
+        etag: '"0x8DB5319F7FDF921"'
+        version_id: '2023-05-12T18:52:00.2981695Z'
+  - relpath: grid_2500_2000_500_500.tif
+    md5: df159d8bca188376a873bd22c287a485
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319EDB3B578"'
+        version_id: '2023-05-12T18:51:43.0332552Z'
+  - relpath: grid_2500_2500_500_500.png
+    md5: 5dce8e3403c74450e0ee38cd067ea0ff
+    size: 559483
+    cloud:
+      azure:
+        etag: '"0x8DB5319E2305D47"'
+        version_id: '2023-05-12T18:51:23.7175383Z'
+  - relpath: grid_2500_2500_500_500.tif
+    md5: d41e332c8b7ee0f26ebbe2fedf91c314
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319E3EF569B"'
+        version_id: '2023-05-12T18:51:26.6468267Z'
+  - relpath: grid_2500_3000_500_500.png
+    md5: 19e45a5693c7ef32d7f8b51008a503af
+    size: 547376
+    cloud:
+      azure:
+        etag: '"0x8DB5319E404FE41"'
+        version_id: '2023-05-12T18:51:26.7887441Z'
+  - relpath: grid_2500_3000_500_500.tif
+    md5: 756ccfc84293b9b42bf3a7efbc9c7f37
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319E4C4D633"'
+        version_id: '2023-05-12T18:51:28.0470098Z'
+  - relpath: grid_2500_3500_500_500.png
+    md5: 764c98b17c9ac57d238e69d73dfe3147
+    size: 549760
+    cloud:
+      azure:
+        etag: '"0x8DB5319F293C24D"'
+        version_id: '2023-05-12T18:51:51.2124765Z'
+  - relpath: grid_2500_3500_500_500.tif
+    md5: 7343fb8ace4817555e525f9a01ab4144
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319F25F9AC9"'
+        version_id: '2023-05-12T18:51:50.8706777Z'
+  - relpath: grid_2500_4000_500_500.png
+    md5: e19e450351f0fe845992bbd1ad00a02d
+    size: 557564
+    cloud:
+      azure:
+        etag: '"0x8DB5319F305D402"'
+        version_id: '2023-05-12T18:51:51.9610388Z'
+  - relpath: grid_2500_4000_500_500.tif
+    md5: 9256d5341975934c73a80aee2cc52c0c
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319F7FB8879"'
+        version_id: '2023-05-12T18:52:00.2821791Z'
+  - relpath: grid_2500_4500_500_500.png
+    md5: 1e2ffb5dbcd205bc75a4b6e4ad15d36d
+    size: 547549
+    cloud:
+      azure:
+        etag: '"0x8DB5319E5E07C06"'
+        version_id: '2023-05-12T18:51:29.9049238Z'
+  - relpath: grid_2500_4500_500_500.tif
+    md5: f810dab74ab767e72de34a1c6727be27
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319F4D01647"'
+        version_id: '2023-05-12T18:51:54.9632855Z'
+  - relpath: grid_2500_5000_500_500.png
+    md5: 48a398ef308a1f83427f399734bec202
+    size: 548383
+    cloud:
+      azure:
+        etag: '"0x8DB5319F17166BD"'
+        version_id: '2023-05-12T18:51:49.3095885Z'
+  - relpath: grid_2500_5000_500_500.tif
+    md5: 8cbbc4b517cc0442d11a87e8f33bd947
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319E2CB74B4"'
+        version_id: '2023-05-12T18:51:24.7349443Z'
+  - relpath: grid_2500_500_500_500.png
+    md5: 21bf4304a14cc8f3cf171f0a0f455bc6
+    size: 570333
+    cloud:
+      azure:
+        etag: '"0x8DB5319EF8FA851"'
+        version_id: '2023-05-12T18:51:46.1524321Z'
+  - relpath: grid_2500_500_500_500.tif
+    md5: 6f169967dc3dd5ae06a4aba232ca46f3
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319E7180A24"'
+        version_id: '2023-05-12T18:51:31.9467316Z'
+  - relpath: grid_2500_5500_500_500.png
+    md5: 7479d4deb12cd0a1fbd74c19c02cbb02
+    size: 561212
+    cloud:
+      azure:
+        etag: '"0x8DB5319E197DD96"'
+        version_id: '2023-05-12T18:51:22.7181222Z'
+  - relpath: grid_2500_5500_500_500.tif
+    md5: 8699cde9dc98faba5e55e913f8e9288c
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319F07FD7D8"'
+        version_id: '2023-05-12T18:51:47.7265128Z'
+  - relpath: grid_2500_6000_500_500.png
+    md5: e0d2bf6821f766d3c879c18e6a354900
+    size: 551445
+    cloud:
+      azure:
+        etag: '"0x8DB5319E62569F8"'
+        version_id: '2023-05-12T18:51:30.3566600Z'
+  - relpath: grid_2500_6000_500_500.tif
+    md5: 4cc20834716f39183146810c020ee6c8
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319EF4AE16F"'
+        version_id: '2023-05-12T18:51:45.7016959Z'
+  - relpath: grid_2500_6500_500_500.png
+    md5: 224b31a3a8f9714db8d434000511db9c
+    size: 572354
+    cloud:
+      azure:
+        etag: '"0x8DB5319E2BD940C"'
+        version_id: '2023-05-12T18:51:24.6429980Z'
+  - relpath: grid_2500_6500_500_500.tif
+    md5: afc2eea7c3f4a5b1f9a86ba17471d7c2
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319E389C63D"'
+        version_id: '2023-05-12T18:51:25.9812173Z'
+  - relpath: grid_2500_7000_500_500.png
+    md5: c991d2c6e5a444733e6d11c5e257d253
+    size: 567848
+    cloud:
+      azure:
+        etag: '"0x8DB5319ED4EE836"'
+        version_id: '2023-05-12T18:51:42.3726406Z'
+  - relpath: grid_2500_7000_500_500.tif
+    md5: 20220566ca3a06d8323d58da1c65774b
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319EEBB3A0B"'
+        version_id: '2023-05-12T18:51:44.7612454Z'
+  - relpath: grid_2500_7500_500_500.png
+    md5: ffa38bcfe6ab567cb574707d4d78236f
+    size: 560452
+    cloud:
+      azure:
+        etag: '"0x8DB5319F3B81962"'
+        version_id: '2023-05-12T18:51:53.1283570Z'
+  - relpath: grid_2500_7500_500_500.tif
+    md5: 5f49353a0577d939cc4ea631093df498
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319E1416615"'
+        version_id: '2023-05-12T18:51:22.1514533Z'
+  - relpath: grid_2500_8000_500_500.png
+    md5: 9f0b274a43851284ac2d2e78b7500cfe
+    size: 576804
+    cloud:
+      azure:
+        etag: '"0x8DB5319E69F42B9"'
+        version_id: '2023-05-12T18:51:31.1551945Z'
+  - relpath: grid_2500_8000_500_500.tif
+    md5: 8d351503625670c3dc99d82f4d48bcdf
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319F27C6D46"'
+        version_id: '2023-05-12T18:51:51.0595670Z'
+  - relpath: grid_2500_8500_500_500.png
+    md5: 60cb3e75b565ff5f7c814713ad632681
+    size: 558729
+    cloud:
+      azure:
+        etag: '"0x8DB5319F74C9DF9"'
+        version_id: '2023-05-12T18:51:59.1358491Z'
+  - relpath: grid_2500_8500_500_500.tif
+    md5: d3768bb769dbb046ccd95291257b98e6
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319E55B0C48"'
+        version_id: '2023-05-12T18:51:29.0304344Z'
+  - relpath: grid_2500_9000_500_500.png
+    md5: 6279f9304e605378fcfe04762e89df3c
+    size: 567695
+    cloud:
+      azure:
+        etag: '"0x8DB5319E49938DD"'
+        version_id: '2023-05-12T18:51:27.7601773Z'
+  - relpath: grid_2500_9000_500_500.tif
+    md5: d75b7b6682797bfc174a5761a58d82f9
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319F51D1954"'
+        version_id: '2023-05-12T18:51:55.4679908Z'
+  - relpath: grid_2500_9500_500_500.png
+    md5: 73ffc2280dc46697cc6b92c4482f34b8
+    size: 539975
+    cloud:
+      azure:
+        etag: '"0x8DB5319EB790EEC"'
+        version_id: '2023-05-12T18:51:39.2934396Z'
+  - relpath: grid_2500_9500_500_500.tif
+    md5: 2db8abfd19c5f4448de5db93ca864266
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319E17F9E45"'
+        version_id: '2023-05-12T18:51:22.5592149Z'
+  - relpath: grid_3000_0_500_500.png
+    md5: d0b90527b9f6d1343f0f48cb805f5056
+    size: 547165
+    cloud:
+      azure:
+        etag: '"0x8DB5319F302A034"'
+        version_id: '2023-05-12T18:51:51.9400516Z'
+  - relpath: grid_3000_0_500_500.tif
+    md5: e030b93847ae18cdf5b157803e301109
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319E6DFC489"'
+        version_id: '2023-05-12T18:51:31.5779481Z'
+  - relpath: grid_3000_1000_500_500.png
+    md5: c19ad0701ed7784e57ec9d96c2e7a2cf
+    size: 566942
+    cloud:
+      azure:
+        etag: '"0x8DB5319E6D2F523"'
+        version_id: '2023-05-12T18:51:31.4939955Z'
+  - relpath: grid_3000_1000_500_500.tif
+    md5: b868de8d66b2d67fa357f43748c3998e
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319F59A73F3"'
+        version_id: '2023-05-12T18:51:56.2905105Z'
+  - relpath: grid_3000_1500_500_500.png
+    md5: e6054c1c28fb549e154ccdcbe200dad2
+    size: 552280
+    cloud:
+      azure:
+        etag: '"0x8DB5319EABD5511"'
+        version_id: '2023-05-12T18:51:38.0641582Z'
+  - relpath: grid_3000_1500_500_500.tif
+    md5: 6d3f0ad6d06b2b5bfb4045a6999d9b8a
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319E1EE2E1C"'
+        version_id: '2023-05-12T18:51:23.2837932Z'
+  - relpath: grid_3000_2000_500_500.png
+    md5: cb6ce81b1535c203e5d26e175536793d
+    size: 562068
+    cloud:
+      azure:
+        etag: '"0x8DB5319E220CF38"'
+        version_id: '2023-05-12T18:51:23.6165968Z'
+  - relpath: grid_3000_2000_500_500.tif
+    md5: 4f25b8645b7f5113e4a82ccbea87974d
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319E69D9541"'
+        version_id: '2023-05-12T18:51:31.1442001Z'
+  - relpath: grid_3000_2500_500_500.png
+    md5: c1d49e2048742c5dc7bdfb4891115c83
+    size: 553799
+    cloud:
+      azure:
+        etag: '"0x8DB5319F4DF563F"'
+        version_id: '2023-05-12T18:51:55.0632271Z'
+  - relpath: grid_3000_2500_500_500.tif
+    md5: f4d290f3f1f0add42915a114d1b74f7c
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319F7262FF7"'
+        version_id: '2023-05-12T18:51:58.8829959Z'
+  - relpath: grid_3000_3000_500_500.png
+    md5: 9cf640f365154c967a6090ddeb89a72c
+    size: 549109
+    cloud:
+      azure:
+        etag: '"0x8DB5319F5AE2013"'
+        version_id: '2023-05-12T18:51:56.4194350Z'
+  - relpath: grid_3000_3000_500_500.tif
+    md5: 5b808bcf289ef948d0dbdfa7cd43e026
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319ED1DA665"'
+        version_id: '2023-05-12T18:51:42.0508284Z'
+  - relpath: grid_3000_3500_500_500.png
+    md5: bce023278374024f09041842daa9dfbb
+    size: 555232
+    cloud:
+      azure:
+        etag: '"0x8DB5319F205A14F"'
+        version_id: '2023-05-12T18:51:50.2810207Z'
+  - relpath: grid_3000_3500_500_500.tif
+    md5: 0596b305f7a257e06565fa722b70e116
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319E6064DEB"'
+        version_id: '2023-05-12T18:51:30.1527803Z'
+  - relpath: grid_3000_4000_500_500.png
+    md5: 45d8a4265cd8f3941a7a9eebb2278142
+    size: 565642
+    cloud:
+      azure:
+        etag: '"0x8DB5319F7EA25F9"'
+        version_id: '2023-05-12T18:52:00.1672457Z'
+  - relpath: grid_3000_4000_500_500.tif
+    md5: 4f2c721b47ae210c5e0671b420361a52
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319EE3C5914"'
+        version_id: '2023-05-12T18:51:43.9297311Z'
+  - relpath: grid_3000_4500_500_500.png
+    md5: 141f13e37be0a6308176d3fdc9d4ab75
+    size: 555729
+    cloud:
+      azure:
+        etag: '"0x8DB5319EF1ECEFB"'
+        version_id: '2023-05-12T18:51:45.4128651Z'
+  - relpath: grid_3000_4500_500_500.tif
+    md5: bb039331151b8632f621c674bd72c85b
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319E5338D0B"'
+        version_id: '2023-05-12T18:51:28.7715867Z'
+  - relpath: grid_3000_5000_500_500.png
+    md5: ec39df9eb262486c84ff7fc3751d273d
+    size: 554099
+    cloud:
+      azure:
+        etag: '"0x8DB5319E5E3FDEE"'
+        version_id: '2023-05-12T18:51:29.9279102Z'
+  - relpath: grid_3000_5000_500_500.tif
+    md5: af52c15794858a7a9232e02ca5ae5732
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319EE1BDD91"'
+        version_id: '2023-05-12T18:51:43.7168554Z'
+  - relpath: grid_3000_500_500_500.png
+    md5: a8bc882aae8449d72a9751af9935f768
+    size: 540137
+    cloud:
+      azure:
+        etag: '"0x8DB5319F093D209"'
+        version_id: '2023-05-12T18:51:47.8574361Z'
+  - relpath: grid_3000_500_500_500.tif
+    md5: 0a10ac7a5e246ae9036893f0c5aebb5f
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319E6E3E28D"'
+        version_id: '2023-05-12T18:51:31.6049309Z'
+  - relpath: grid_3000_5500_500_500.png
+    md5: 88283ba562f1c739dcc3052c44f1b970
+    size: 552814
+    cloud:
+      azure:
+        etag: '"0x8DB5319F518D436"'
+        version_id: '2023-05-12T18:51:55.4400070Z'
+  - relpath: grid_3000_5500_500_500.tif
+    md5: addba39c8b9a83cebe90689c308f2ac4
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319E37BE59B"'
+        version_id: '2023-05-12T18:51:25.8912685Z'
+  - relpath: grid_3000_6000_500_500.png
+    md5: 6d6228262114b798678feeb6b13faa84
+    size: 521547
+    cloud:
+      azure:
+        etag: '"0x8DB5319F6EB529C"'
+        version_id: '2023-05-12T18:51:58.4972204Z'
+  - relpath: grid_3000_6000_500_500.tif
+    md5: 70e75caf493a91165912553ad9bb1e7a
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319E23A46EB"'
+        version_id: '2023-05-12T18:51:23.7825019Z'
+  - relpath: grid_3000_6500_500_500.png
+    md5: f93fcf693603dc84fb46a094993fcf14
+    size: 542905
+    cloud:
+      azure:
+        etag: '"0x8DB5319EAC84FF0"'
+        version_id: '2023-05-12T18:51:38.1361162Z'
+  - relpath: grid_3000_6500_500_500.tif
+    md5: f17349da376a86f8e98e0fdc7b498191
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319F57F4EF1"'
+        version_id: '2023-05-12T18:51:56.1126148Z'
+  - relpath: grid_3000_7000_500_500.png
+    md5: bb1beabed0b4567e1cae8d2dfa5c9ef1
+    size: 557237
+    cloud:
+      azure:
+        etag: '"0x8DB5319E2275DEA"'
+        version_id: '2023-05-12T18:51:23.6585722Z'
+  - relpath: grid_3000_7000_500_500.tif
+    md5: e73f3b4002eabc5dbdc19a01668573f3
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319E93A7156"'
+        version_id: '2023-05-12T18:51:35.5276390Z'
+  - relpath: grid_3000_7500_500_500.png
+    md5: 3d931c4874e5e160895192d18cb62d12
+    size: 560049
+    cloud:
+      azure:
+        etag: '"0x8DB5319E7F0BD83"'
+        version_id: '2023-05-12T18:51:33.3669011Z'
+  - relpath: grid_3000_7500_500_500.tif
+    md5: 33ef152cc62d8ea0f98482a33bf2e72b
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319EC977377"'
+        version_id: '2023-05-12T18:51:41.1713423Z'
+  - relpath: grid_3000_8000_500_500.png
+    md5: becf5103aeb360c7a12fb56d16c42373
+    size: 554253
+    cloud:
+      azure:
+        etag: '"0x8DB5319E737E970"'
+        version_id: '2023-05-12T18:51:32.1556096Z'
+  - relpath: grid_3000_8000_500_500.tif
+    md5: 5d4579b05574d4960fb16ca301196698
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319E5B1AADE"'
+        version_id: '2023-05-12T18:51:29.5981038Z'
+  - relpath: grid_3000_8500_500_500.png
+    md5: f77e163b05c420d9a7e9031bb16a5077
+    size: 559842
+    cloud:
+      azure:
+        etag: '"0x8DB5319EF810488"'
+        version_id: '2023-05-12T18:51:46.0564888Z'
+  - relpath: grid_3000_8500_500_500.tif
+    md5: 6cbd4007c40dbbf63d77ef4217b5cc1a
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319F2F0EF8D"'
+        version_id: '2023-05-12T18:51:51.8231197Z'
+  - relpath: grid_3000_9000_500_500.png
+    md5: 36d2aeaaf2636f8c1462b21100d88616
+    size: 544888
+    cloud:
+      azure:
+        etag: '"0x8DB5319E4083218"'
+        version_id: '2023-05-12T18:51:26.8097320Z'
+  - relpath: grid_3000_9000_500_500.tif
+    md5: 4f4d9f8a7da8d656099aa38f1c575df5
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319E5375D02"'
+        version_id: '2023-05-12T18:51:28.7965714Z'
+  - relpath: grid_3000_9500_500_500.png
+    md5: 1923ff73b8ace7ab9f2b8467ef1b6712
+    size: 546186
+    cloud:
+      azure:
+        etag: '"0x8DB5319F61D24F9"'
+        version_id: '2023-05-12T18:51:57.1460105Z'
+  - relpath: grid_3000_9500_500_500.tif
+    md5: 99dd4eccd6b91bfd37dad58019c2a3ee
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319EDA538AC"'
+        version_id: '2023-05-12T18:51:42.9393101Z'
+  - relpath: grid_3500_0_500_500.png
+    md5: 0ba9d95c40e9e772fcff645656316846
+    size: 548294
+    cloud:
+      azure:
+        etag: '"0x8DB5319E5DC8509"'
+        version_id: '2023-05-12T18:51:29.8789401Z'
+  - relpath: grid_3500_0_500_500.tif
+    md5: 0b06ed88eec0e7aef8657e9cda521742
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319E907821A"'
+        version_id: '2023-05-12T18:51:35.1938346Z'
+  - relpath: grid_3500_1000_500_500.png
+    md5: 80eec455b5168caed933cf834fd113f3
+    size: 538603
+    cloud:
+      azure:
+        etag: '"0x8DB5319E59267BD"'
+        version_id: '2023-05-12T18:51:29.3932237Z'
+  - relpath: grid_3500_1000_500_500.tif
+    md5: 145fee290feac578f81b3513cc836306
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319E2205A1B"'
+        version_id: '2023-05-12T18:51:23.6135993Z'
+  - relpath: grid_3500_1500_500_500.png
+    md5: 0ef915270eba1829cd4a4132ce9a6ba8
+    size: 555986
+    cloud:
+      azure:
+        etag: '"0x8DB5319E8CA5B32"'
+        version_id: '2023-05-12T18:51:34.7930690Z'
+  - relpath: grid_3500_1500_500_500.tif
+    md5: 276c56ae7facc30a8a58960eed136d97
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319E2097A2A"'
+        version_id: '2023-05-12T18:51:23.4626874Z'
+  - relpath: grid_3500_2000_500_500.png
+    md5: 9102f2c121f765a7ffc5bee8be07770e
+    size: 539437
+    cloud:
+      azure:
+        etag: '"0x8DB5319F73F5989"'
+        version_id: '2023-05-12T18:51:59.0479001Z'
+  - relpath: grid_3500_2000_500_500.tif
+    md5: 42eb6a1803d5cb8a4753734049892b06
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319EB511A83"'
+        version_id: '2023-05-12T18:51:39.0315923Z'
+  - relpath: grid_3500_2500_500_500.png
+    md5: d81d30805ce6301a189279e8544e1309
+    size: 554567
+    cloud:
+      azure:
+        etag: '"0x8DB5319F118F3C5"'
+        version_id: '2023-05-12T18:51:48.7299285Z'
+  - relpath: grid_3500_2500_500_500.tif
+    md5: ef1f3a59142ab110315571cb313aa0a1
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319EE14B2B3"'
+        version_id: '2023-05-12T18:51:43.6688835Z'
+  - relpath: grid_3500_3000_500_500.png
+    md5: 0d344ef124e076d672bce2bf39ce1c25
+    size: 553351
+    cloud:
+      azure:
+        etag: '"0x8DB5319F7866A00"'
+        version_id: '2023-05-12T18:51:59.5146271Z'
+  - relpath: grid_3500_3000_500_500.tif
+    md5: cca3a212134b1ca7c2ad1772e2534198
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319EEF26E74"'
+        version_id: '2023-05-12T18:51:45.1220356Z'
+  - relpath: grid_3500_3500_500_500.png
+    md5: 85b223f559c2584f2687181e88ab3c8c
+    size: 557678
+    cloud:
+      azure:
+        etag: '"0x8DB5319E12974E2"'
+        version_id: '2023-05-12T18:51:21.9945458Z'
+  - relpath: grid_3500_3500_500_500.tif
+    md5: 8ecb76f4e75f794ad6cf2ee570cb7121
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319E2F93496"'
+        version_id: '2023-05-12T18:51:25.0337702Z'
+  - relpath: grid_3500_4000_500_500.png
+    md5: 7e0c7e77a1a11c23a9635c4545291795
+    size: 561747
+    cloud:
+      azure:
+        etag: '"0x8DB5319EF7371FD"'
+        version_id: '2023-05-12T18:51:45.9685398Z'
+  - relpath: grid_3500_4000_500_500.tif
+    md5: 2430eb4e7e4645fc1778da584f722002
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319E2B864B6"'
+        version_id: '2023-05-12T18:51:24.6100178Z'
+  - relpath: grid_3500_4500_500_500.png
+    md5: fd27b4fdd071a990171c800edfd19b20
+    size: 552166
+    cloud:
+      azure:
+        etag: '"0x8DB5319F3D6E777"'
+        version_id: '2023-05-12T18:51:53.3312386Z'
+  - relpath: grid_3500_4500_500_500.tif
+    md5: 105f4fdbc15cb7a5bee5e69abd60ab27
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319E22625A3"'
+        version_id: '2023-05-12T18:51:23.6505779Z'
+  - relpath: grid_3500_5000_500_500.png
+    md5: fd1d87f8864ed483c4ac17986b8feaa8
+    size: 555833
+    cloud:
+      azure:
+        etag: '"0x8DB5319EE292212"'
+        version_id: '2023-05-12T18:51:43.8028066Z'
+  - relpath: grid_3500_5000_500_500.tif
+    md5: 192cc5664e447b9b676976644491c834
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319F60BE983"'
+        version_id: '2023-05-12T18:51:57.0340770Z'
+  - relpath: grid_3500_500_500_500.png
+    md5: cc3d5177d99c1eec6910f19235c86422
+    size: 545180
+    cloud:
+      azure:
+        etag: '"0x8DB5319E62F057C"'
+        version_id: '2023-05-12T18:51:30.4206234Z'
+  - relpath: grid_3500_500_500_500.tif
+    md5: 57cd8b2e117ebe27823a877f76915884
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319E41DB2B1"'
+        version_id: '2023-05-12T18:51:26.9506497Z'
+  - relpath: grid_3500_5500_500_500.png
+    md5: 702ef9da4849986190a5e5283f2530cc
+    size: 542736
+    cloud:
+      azure:
+        etag: '"0x8DB5319F280B266"'
+        version_id: '2023-05-12T18:51:51.0875510Z'
+  - relpath: grid_3500_5500_500_500.tif
+    md5: 6cb7dbbbbd735aaccea6fb043274b6b0
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319EE0DD5F3"'
+        version_id: '2023-05-12T18:51:43.6239107Z'
+  - relpath: grid_3500_6000_500_500.png
+    md5: e0fc71b2b6df42c40ac7bd8a325f8ec3
+    size: 535772
+    cloud:
+      azure:
+        etag: '"0x8DB5319E2DB50CD"'
+        version_id: '2023-05-12T18:51:24.8378845Z'
+  - relpath: grid_3500_6000_500_500.tif
+    md5: 01d4752188bfb0465332cd3aabf98e1c
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319F2199B84"'
+        version_id: '2023-05-12T18:51:50.4119444Z'
+  - relpath: grid_3500_6500_500_500.png
+    md5: 2e16047cc22a0272d3c739e5dbff670d
+    size: 523099
+    cloud:
+      azure:
+        etag: '"0x8DB5319F0E19848"'
+        version_id: '2023-05-12T18:51:48.3671384Z'
+  - relpath: grid_3500_6500_500_500.tif
+    md5: 1efd589a7cbea104e2c0ec289fd83acd
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319F14A3585"'
+        version_id: '2023-05-12T18:51:49.0527381Z'
+  - relpath: grid_3500_7000_500_500.png
+    md5: 14e6d08c6aea9b2ac302e0855f496028
+    size: 558124
+    cloud:
+      azure:
+        etag: '"0x8DB5319E4D611B4"'
+        version_id: '2023-05-12T18:51:28.1589444Z'
+  - relpath: grid_3500_7000_500_500.tif
+    md5: f8b9171e3667a081df621c84c7f2a0cc
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319F80DAE3E"'
+        version_id: '2023-05-12T18:52:00.4001102Z'
+  - relpath: grid_3500_7500_500_500.png
+    md5: aa963f99f330fd6eb3ea896d6f67e869
+    size: 563109
+    cloud:
+      azure:
+        etag: '"0x8DB5319E978D095"'
+        version_id: '2023-05-12T18:51:35.9364005Z'
+  - relpath: grid_3500_7500_500_500.tif
+    md5: 0df50cc8aa5bdd793ece96ca8f6f6928
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319E34BB511"'
+        version_id: '2023-05-12T18:51:25.5744545Z'
+  - relpath: grid_3500_8000_500_500.png
+    md5: 49aa1594fb7085b7860d4719c1330ef0
+    size: 557822
+    cloud:
+      azure:
+        etag: '"0x8DB5319E8F360DD"'
+        version_id: '2023-05-12T18:51:35.0619117Z'
+  - relpath: grid_3500_8000_500_500.tif
+    md5: b3f312a5ca007bc9cf038bf4a4217c78
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319F7685F31"'
+        version_id: '2023-05-12T18:51:59.3177419Z'
+  - relpath: grid_3500_8500_500_500.png
+    md5: 73b773e3a6811899a74b73ee879a7f14
+    size: 556275
+    cloud:
+      azure:
+        etag: '"0x8DB5319F589AD9B"'
+        version_id: '2023-05-12T18:51:56.1795755Z'
+  - relpath: grid_3500_8500_500_500.tif
+    md5: a078eadfb4a516da1ed5a5416a20b62a
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319F802DA66"'
+        version_id: '2023-05-12T18:52:00.3291510Z'
+  - relpath: grid_3500_9000_500_500.png
+    md5: 9f06f07291fb79f45b786a93635365bd
+    size: 551553
+    cloud:
+      azure:
+        etag: '"0x8DB5319F59DA7D1"'
+        version_id: '2023-05-12T18:51:56.3104993Z'
+  - relpath: grid_3500_9000_500_500.tif
+    md5: d2f4b4f8e30f5bbd19435539852a9c4a
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319F1C2D5ED"'
+        version_id: '2023-05-12T18:51:49.8432765Z'
+  - relpath: grid_3500_9500_500_500.png
+    md5: 81601d74cf855dc797fa70e939531bda
+    size: 556326
+    cloud:
+      azure:
+        etag: '"0x8DB5319E3480C1A"'
+        version_id: '2023-05-12T18:51:25.5504682Z'
+  - relpath: grid_3500_9500_500_500.tif
+    md5: 04998bf1c9d11d4926a43920f0dfe5e9
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319ED3B150E"'
+        version_id: '2023-05-12T18:51:42.2437163Z'
+  - relpath: grid_4000_0_500_500.png
+    md5: 002320cde21fb46b35a36a5181dca14b
+    size: 534318
+    cloud:
+      azure:
+        etag: '"0x8DB5319E140F0FF"'
+        version_id: '2023-05-12T18:51:22.1484559Z'
+  - relpath: grid_4000_0_500_500.tif
+    md5: 82a8e28dc0b4d2e6e64c275c9c290bc5
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319EE7D9E07"'
+        version_id: '2023-05-12T18:51:44.3564823Z'
+  - relpath: grid_4000_1000_500_500.png
+    md5: 31d81db83000af11bafeb63bd8678518
+    size: 534784
+    cloud:
+      azure:
+        etag: '"0x8DB5319EE9AE59F"'
+        version_id: '2023-05-12T18:51:44.5483695Z'
+  - relpath: grid_4000_1000_500_500.tif
+    md5: 0ce848bf59b470be10a067d081a2b298
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319E163B602"'
+        version_id: '2023-05-12T18:51:22.3763218Z'
+  - relpath: grid_4000_1500_500_500.png
+    md5: b302a9bdc025aa3158830689cf9d95a7
+    size: 560874
+    cloud:
+      azure:
+        etag: '"0x8DB5319EED28F1D"'
+        version_id: '2023-05-12T18:51:44.9131565Z'
+  - relpath: grid_4000_1500_500_500.tif
+    md5: 82cf25d65b39a6edeaff01e3c23cd24a
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319EC96622E"'
+        version_id: '2023-05-12T18:51:41.1633470Z'
+  - relpath: grid_4000_2000_500_500.png
+    md5: dd03acfbb722aac67075f70471cd83ba
+    size: 565213
+    cloud:
+      azure:
+        etag: '"0x8DB5319F31D9E31"'
+        version_id: '2023-05-12T18:51:52.1159489Z'
+  - relpath: grid_4000_2000_500_500.tif
+    md5: 2966a0804bae9609a3b33d1afdc523f3
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319EDFC2558"'
+        version_id: '2023-05-12T18:51:43.5089781Z'
+  - relpath: grid_4000_2500_500_500.png
+    md5: 1f13de73a8f09cdc24efbcffb9dc947b
+    size: 551019
+    cloud:
+      azure:
+        etag: '"0x8DB5319E33745BA"'
+        version_id: '2023-05-12T18:51:25.4415323Z'
+  - relpath: grid_4000_2500_500_500.tif
+    md5: b94222192db76f110fc1aef15e67a3ec
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319F579AA6A"'
+        version_id: '2023-05-12T18:51:56.0756363Z'
+  - relpath: grid_4000_3000_500_500.png
+    md5: f5ffe6c7a87414c2c82424ba078cadd2
+    size: 558716
+    cloud:
+      azure:
+        etag: '"0x8DB5319EF0B22E6"'
+        version_id: '2023-05-12T18:51:45.2839414Z'
+  - relpath: grid_4000_3000_500_500.tif
+    md5: 7ff331146d0843b6455c15aac572f3d2
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319E8628139"'
+        version_id: '2023-05-12T18:51:34.1124681Z'
+  - relpath: grid_4000_3500_500_500.png
+    md5: a52a2d21db2391aa5b1c64af4bcb6582
+    size: 563401
+    cloud:
+      azure:
+        etag: '"0x8DB5319F5054F29"'
+        version_id: '2023-05-12T18:51:55.3120825Z'
+  - relpath: grid_4000_3500_500_500.tif
+    md5: 19c250158600a6fce9d49057fa8fb84e
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319E7602BE9"'
+        version_id: '2023-05-12T18:51:32.4194553Z'
+  - relpath: grid_4000_4000_500_500.png
+    md5: b9e04c4cad523068252152fa87ae04ca
+    size: 558274
+    cloud:
+      azure:
+        etag: '"0x8DB5319F67B8A8B"'
+        version_id: '2023-05-12T18:51:57.7646491Z'
+  - relpath: grid_4000_4000_500_500.tif
+    md5: 91f9f0e1f76bdc357c9e1f17b758289a
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319F6AE04B0"'
+        version_id: '2023-05-12T18:51:58.0954560Z'
+  - relpath: grid_4000_4500_500_500.png
+    md5: 0c53e288e2154d29fec4b78873d845bc
+    size: 549205
+    cloud:
+      azure:
+        etag: '"0x8DB5319E69077D8"'
+        version_id: '2023-05-12T18:51:31.0582504Z'
+  - relpath: grid_4000_4500_500_500.tif
+    md5: 4cb89488fae732d7df3b3ae5ed1f1659
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319EABE3F4C"'
+        version_id: '2023-05-12T18:51:38.0691548Z'
+  - relpath: grid_4000_5000_500_500.png
+    md5: 25ec53605ab92ad8aaa55aad0eaf090c
+    size: 555856
+    cloud:
+      azure:
+        etag: '"0x8DB5319F60CACB6"'
+        version_id: '2023-05-12T18:51:57.0380742Z'
+  - relpath: grid_4000_5000_500_500.tif
+    md5: fba85a916d61a1431b97035c87f78246
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319F795D101"'
+        version_id: '2023-05-12T18:51:59.6155677Z'
+  - relpath: grid_4000_500_500_500.png
+    md5: 7e6aa0155b9f65a586cef3733dca5dad
+    size: 541384
+    cloud:
+      azure:
+        etag: '"0x8DB5319EF150C68"'
+        version_id: '2023-05-12T18:51:45.3489016Z'
+  - relpath: grid_4000_500_500_500.tif
+    md5: 5291175d42ba611ae57c66dad2db9fcc
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319F7387CBC"'
+        version_id: '2023-05-12T18:51:59.0029260Z'
+  - relpath: grid_4000_5500_500_500.png
+    md5: 4136439873058b0ebbfd36edea935276
+    size: 542960
+    cloud:
+      azure:
+        etag: '"0x8DB5319E4AC96E1"'
+        version_id: '2023-05-12T18:51:27.8881021Z'
+  - relpath: grid_4000_5500_500_500.tif
+    md5: 1aca2e92a1e8a82812a964a445cb63d7
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319EDA2C80B"'
+        version_id: '2023-05-12T18:51:42.9233191Z'
+  - relpath: grid_4000_6000_500_500.png
+    md5: 84d9764cefa38309c626fe11994fddf8
+    size: 548008
+    cloud:
+      azure:
+        etag: '"0x8DB5319E61AE43B"'
+        version_id: '2023-05-12T18:51:30.2877003Z'
+  - relpath: grid_4000_6000_500_500.tif
+    md5: 37ae723f33708265b7a89c055467db92
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319E5046DC0"'
+        version_id: '2023-05-12T18:51:28.4637661Z'
+  - relpath: grid_4000_6500_500_500.png
+    md5: 25e6bcb5fdf4928a5e6c941f3fa69dbc
+    size: 557299
+    cloud:
+      azure:
+        etag: '"0x8DB5319EDAAB61D"'
+        version_id: '2023-05-12T18:51:42.9742893Z'
+  - relpath: grid_4000_6500_500_500.tif
+    md5: 765b7d34bacc4e6c4316da91357fdee4
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319F6FDED7F"'
+        version_id: '2023-05-12T18:51:58.6191503Z'
+  - relpath: grid_4000_7000_500_500.png
+    md5: 0e39d44be4e108f5382486060241a43a
+    size: 563215
+    cloud:
+      azure:
+        etag: '"0x8DB5319ECC6E0D3"'
+        version_id: '2023-05-12T18:51:41.4821617Z'
+  - relpath: grid_4000_7000_500_500.tif
+    md5: d62e69bc64b336664c0daa7fdc30d702
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319E8CAA94A"'
+        version_id: '2023-05-12T18:51:34.7960678Z'
+  - relpath: grid_4000_7500_500_500.png
+    md5: 5f311e7c8bd4ecb82523249ea974c8fa
+    size: 560397
+    cloud:
+      azure:
+        etag: '"0x8DB5319EBEF65B5"'
+        version_id: '2023-05-12T18:51:40.0689861Z'
+  - relpath: grid_4000_7500_500_500.tif
+    md5: 531d2bf3ee2f174f669d8c92ae74e874
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319E2BF8F88"'
+        version_id: '2023-05-12T18:51:24.6559896Z'
+  - relpath: grid_4000_8000_500_500.png
+    md5: f804fec8d80845f9c03e95bbb9050e72
+    size: 558127
+    cloud:
+      azure:
+        etag: '"0x8DB5319F7702640"'
+        version_id: '2023-05-12T18:51:59.3677136Z'
+  - relpath: grid_4000_8000_500_500.tif
+    md5: 58034f0354eafeaa2a6c7a9a9fb7ad70
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319EB41DA8B"'
+        version_id: '2023-05-12T18:51:38.9316507Z'
+  - relpath: grid_4000_8500_500_500.png
+    md5: c7b1561f161ac351e188254ecaceac59
+    size: 554134
+    cloud:
+      azure:
+        etag: '"0x8DB5319F7ACD806"'
+        version_id: '2023-05-12T18:51:59.7654806Z'
+  - relpath: grid_4000_8500_500_500.tif
+    md5: c33b747bbb69d067756789be7c4c1bc8
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319ECA812C3"'
+        version_id: '2023-05-12T18:51:41.2792787Z'
+  - relpath: grid_4000_9000_500_500.png
+    md5: c97772940e7adbee1b92ac25a4ffbf81
+    size: 548711
+    cloud:
+      azure:
+        etag: '"0x8DB5319E3FA9F8E"'
+        version_id: '2023-05-12T18:51:26.7217839Z'
+  - relpath: grid_4000_9000_500_500.tif
+    md5: 25dea4b08c5ea585bd082d8cd6c639a6
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319EF6F7AF8"'
+        version_id: '2023-05-12T18:51:45.9425556Z'
+  - relpath: grid_4000_9500_500_500.png
+    md5: 98cec692aabba2b3769bdc637ff7b8ab
+    size: 549138
+    cloud:
+      azure:
+        etag: '"0x8DB5319E3F7E0DE"'
+        version_id: '2023-05-12T18:51:26.7027950Z'
+  - relpath: grid_4000_9500_500_500.tif
+    md5: 8f9547a283070f6b129b6e8c7f0d3f0e
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319E1B720BF"'
+        version_id: '2023-05-12T18:51:22.9230031Z'
+  - relpath: grid_4500_0_500_500.png
+    md5: bcacac4726e8bc63f1e84fa7f1845411
+    size: 504197
+    cloud:
+      azure:
+        etag: '"0x8DB5319E40A7BB8"'
+        version_id: '2023-05-12T18:51:26.8247240Z'
+  - relpath: grid_4500_0_500_500.tif
+    md5: 66872aa6ffc99e3ea1c92041b18603e7
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319F80A0545"'
+        version_id: '2023-05-12T18:52:00.3761237Z'
+  - relpath: grid_4500_1000_500_500.png
+    md5: 477a2f66e590dce729b0ab918e83b536
+    size: 554226
+    cloud:
+      azure:
+        etag: '"0x8DB5319F502DE7E"'
+        version_id: '2023-05-12T18:51:55.2960910Z'
+  - relpath: grid_4500_1000_500_500.tif
+    md5: a24bb3cc5086cb7829e3457c874acb59
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319F5895F7D"'
+        version_id: '2023-05-12T18:51:56.1775757Z'
+  - relpath: grid_4500_1500_500_500.png
+    md5: 388ea6dfe3029546e322de1bc1eb2f65
+    size: 567923
+    cloud:
+      azure:
+        etag: '"0x8DB5319F5A0B498"'
+        version_id: '2023-05-12T18:51:56.3304872Z'
+  - relpath: grid_4500_1500_500_500.tif
+    md5: 43c068c305e63f10cde5c4de85b7abe2
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319F5A6801F"'
+        version_id: '2023-05-12T18:51:56.3684655Z'
+  - relpath: grid_4500_2000_500_500.png
+    md5: b210833ca6758221e6fd3ff83a30b8b0
+    size: 561448
+    cloud:
+      azure:
+        etag: '"0x8DB5319F27F52FE"'
+        version_id: '2023-05-12T18:51:51.0785550Z'
+  - relpath: grid_4500_2000_500_500.tif
+    md5: 1bdb8b58e46d17985e95eb6d2048ec38
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319F597672F"'
+        version_id: '2023-05-12T18:51:56.2695231Z'
+  - relpath: grid_4500_2500_500_500.png
+    md5: 85f4947866c4d3ab4c2de8d886613cab
+    size: 559078
+    cloud:
+      azure:
+        etag: '"0x8DB5319E93E6864"'
+        version_id: '2023-05-12T18:51:35.5536244Z'
+  - relpath: grid_4500_2500_500_500.tif
+    md5: 7bbaa339bb0be8b61d52070e8764e2d1
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319E8E7A2D1"'
+        version_id: '2023-05-12T18:51:34.9859564Z'
+  - relpath: grid_4500_3000_500_500.png
+    md5: 0b9168dfd0aac1b70bbd6a1f3003abc4
+    size: 560862
+    cloud:
+      azure:
+        etag: '"0x8DB5319E3EBFBC1"'
+        version_id: '2023-05-12T18:51:26.6248401Z'
+  - relpath: grid_4500_3000_500_500.tif
+    md5: 52f0a81e0dac2338d99dce20a7e8e03a
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319F4BD2D5E"'
+        version_id: '2023-05-12T18:51:54.8393582Z'
+  - relpath: grid_4500_3500_500_500.png
+    md5: afe88ba66a54014b89ae03043e68176e
+    size: 550538
+    cloud:
+      azure:
+        etag: '"0x8DB5319EB12E24D"'
+        version_id: '2023-05-12T18:51:38.6238301Z'
+  - relpath: grid_4500_3500_500_500.tif
+    md5: 6f324a45912ec54f8d1e6a4724aed387
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319EC832B2B"'
+        version_id: '2023-05-12T18:51:41.0374203Z'
+  - relpath: grid_4500_4000_500_500.png
+    md5: bea7232400a540f3efba1945a85c93a7
+    size: 561495
+    cloud:
+      azure:
+        etag: '"0x8DB5319EE5645D3"'
+        version_id: '2023-05-12T18:51:44.0986339Z'
+  - relpath: grid_4500_4000_500_500.tif
+    md5: b3d0b6482620740a48e6fd82ca36ad90
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319F46AFB01"'
+        version_id: '2023-05-12T18:51:54.3006737Z'
+  - relpath: grid_4500_4500_500_500.png
+    md5: a821f30d83729003c0d9cebb31b60a63
+    size: 553619
+    cloud:
+      azure:
+        etag: '"0x8DB5319F7711077"'
+        version_id: '2023-05-12T18:51:59.3747092Z'
+  - relpath: grid_4500_4500_500_500.tif
+    md5: 5c420606652460ebef3005584fbb4914
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319EEEA5957"'
+        version_id: '2023-05-12T18:51:45.0700649Z'
+  - relpath: grid_4500_5000_500_500.png
+    md5: 4cf390e99062b30d81e498cfa0ef97d4
+    size: 535407
+    cloud:
+      azure:
+        etag: '"0x8DB5319F0C16AFB"'
+        version_id: '2023-05-12T18:51:48.1562635Z'
+  - relpath: grid_4500_5000_500_500.tif
+    md5: 61ba4f72af644a9b3f10ce279e6e68aa
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319E73CA3A3"'
+        version_id: '2023-05-12T18:51:32.1875902Z'
+  - relpath: grid_4500_500_500_500.png
+    md5: b76d5ee27677bd84720b5a17bc9b44c3
+    size: 515745
+    cloud:
+      azure:
+        etag: '"0x8DB5319F515C76D"'
+        version_id: '2023-05-12T18:51:55.4200189Z'
+  - relpath: grid_4500_500_500_500.tif
+    md5: 6b49f6e326a8624e731ea4670d91f0a7
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319EDEC7037"'
+        version_id: '2023-05-12T18:51:43.4050375Z'
+  - relpath: grid_4500_5500_500_500.png
+    md5: 88377bb9cebe768bfb8fc8f599209988
+    size: 533645
+    cloud:
+      azure:
+        etag: '"0x8DB5319F7FDAB0F"'
+        version_id: '2023-05-12T18:52:00.2961706Z'
+  - relpath: grid_4500_5500_500_500.tif
+    md5: 83c9c5ad4f4f7b836bd003843d17657a
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319E2AF3E4D"'
+        version_id: '2023-05-12T18:51:24.5490525Z'
+  - relpath: grid_4500_6000_500_500.png
+    md5: 1dcc89f3b862fe041b181e7a7c7d10f6
+    size: 545981
+    cloud:
+      azure:
+        etag: '"0x8DB5319F4FD8815"'
+        version_id: '2023-05-12T18:51:55.2611109Z'
+  - relpath: grid_4500_6000_500_500.tif
+    md5: ab82780dff312b50d0b9c63b89a5f85e
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319EC84FFA8"'
+        version_id: '2023-05-12T18:51:41.0504138Z'
+  - relpath: grid_4500_6500_500_500.png
+    md5: bc1522d9ac63a4401feb7b669ce379d9
+    size: 557019
+    cloud:
+      azure:
+        etag: '"0x8DB5319F61ADB60"'
+        version_id: '2023-05-12T18:51:57.1310192Z'
+  - relpath: grid_4500_6500_500_500.tif
+    md5: 4e49c8282690de4c2b45a37a3d400754
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319E5E313B4"'
+        version_id: '2023-05-12T18:51:29.9219140Z'
+  - relpath: grid_4500_7000_500_500.png
+    md5: e839bfb5d8d91bf640d2126494834fb6
+    size: 543340
+    cloud:
+      azure:
+        etag: '"0x8DB5319F582D0C9"'
+        version_id: '2023-05-12T18:51:56.1346009Z'
+  - relpath: grid_4500_7000_500_500.tif
+    md5: 5b59d2f2b182dcb0cc2829cde5d5bf2c
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319F63C8F24"'
+        version_id: '2023-05-12T18:51:57.3518900Z'
+  - relpath: grid_4500_7500_500_500.png
+    md5: 4979b68c01cffc18ae00235abf42366f
+    size: 562340
+    cloud:
+      azure:
+        etag: '"0x8DB5319EB9DF68A"'
+        version_id: '2023-05-12T18:51:39.5352979Z'
+  - relpath: grid_4500_7500_500_500.tif
+    md5: cd797c69526b0e71fb7716ed28ef02e2
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319E450A1F6"'
+        version_id: '2023-05-12T18:51:27.2854543Z'
+  - relpath: grid_4500_8000_500_500.png
+    md5: d8c814135630acefb7656eeefde22144
+    size: 559754
+    cloud:
+      azure:
+        etag: '"0x8DB5319F4873157"'
+        version_id: '2023-05-12T18:51:54.4855655Z'
+  - relpath: grid_4500_8000_500_500.tif
+    md5: 5d26bdd42a7e7b3e144af315edb5bb30
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319E34FFA25"'
+        version_id: '2023-05-12T18:51:25.6024373Z'
+  - relpath: grid_4500_8500_500_500.png
+    md5: 246699fceecbf10d79fad03de0574514
+    size: 561158
+    cloud:
+      azure:
+        etag: '"0x8DB5319F6F7FAE7"'
+        version_id: '2023-05-12T18:51:58.5801719Z'
+  - relpath: grid_4500_8500_500_500.tif
+    md5: ee2855344d5dbfae5a6a191f544c5edd
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319E8307C1D"'
+        version_id: '2023-05-12T18:51:33.7846573Z'
+  - relpath: grid_4500_9000_500_500.png
+    md5: 2548df13e6e87ea895b65a723f4e7163
+    size: 541172
+    cloud:
+      azure:
+        etag: '"0x8DB5319F2425321"'
+        version_id: '2023-05-12T18:51:50.6787889Z'
+  - relpath: grid_4500_9000_500_500.tif
+    md5: a403b585c1fcdcb47bd3e853fba76328
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319F31FE7D2"'
+        version_id: '2023-05-12T18:51:52.1309410Z'
+  - relpath: grid_4500_9500_500_500.png
+    md5: a38b6d23f5a194b63ad2faae98b603c9
+    size: 534685
+    cloud:
+      azure:
+        etag: '"0x8DB5319EB4C122F"'
+        version_id: '2023-05-12T18:51:38.9986111Z'
+  - relpath: grid_4500_9500_500_500.tif
+    md5: 52f89eb8e692350e63de4c77d13385b9
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319F3E7FBE0"'
+        version_id: '2023-05-12T18:51:53.4421744Z'
+  - relpath: grid_5000_0_500_500.png
+    md5: 2d58a33ea45dba82eaa6d756af4ee542
+    size: 482447
+    cloud:
+      azure:
+        etag: '"0x8DB5319F1B14C57"'
+        version_id: '2023-05-12T18:51:49.7283431Z'
+  - relpath: grid_5000_0_500_500.tif
+    md5: 10f6bbc516dbfe1c5786163fcb821efc
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319EE076E4A"'
+        version_id: '2023-05-12T18:51:43.5829341Z'
+  - relpath: grid_5000_1000_500_500.png
+    md5: 6a2e6340edce5e41878d74035c4b328e
+    size: 562255
+    cloud:
+      azure:
+        etag: '"0x8DB5319E3FB14B7"'
+        version_id: '2023-05-12T18:51:26.7237831Z'
+  - relpath: grid_5000_1000_500_500.tif
+    md5: 92a6aaf3a042b79564e295f5e46859c4
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319E86D06E7"'
+        version_id: '2023-05-12T18:51:34.1814263Z'
+  - relpath: grid_5000_1500_500_500.png
+    md5: 40c995c39d170f6378dff03f5a9ed2c6
+    size: 558520
+    cloud:
+      azure:
+        etag: '"0x8DB5319ED05671D"'
+        version_id: '2023-05-12T18:51:41.8909229Z'
+  - relpath: grid_5000_1500_500_500.tif
+    md5: 1023120fdff9581ad19c2b782903c0df
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319E6051592"'
+        version_id: '2023-05-12T18:51:30.1457838Z'
+  - relpath: grid_5000_2000_500_500.png
+    md5: cde7587ca515b303883bb2feff9e1036
+    size: 554953
+    cloud:
+      azure:
+        etag: '"0x8DB5319E9B7F30E"'
+        version_id: '2023-05-12T18:51:36.3501598Z'
+  - relpath: grid_5000_2000_500_500.tif
+    md5: 4e7c175abc56c17acbc2ad86617433df
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319F4DF7D4C"'
+        version_id: '2023-05-12T18:51:55.0642268Z'
+  - relpath: grid_5000_2500_500_500.png
+    md5: 7a1727ec7b5c947d5734d10dcc65d1bf
+    size: 500216
+    cloud:
+      azure:
+        etag: '"0x8DB5319F58FC731"'
+        version_id: '2023-05-12T18:51:56.2205510Z'
+  - relpath: grid_5000_2500_500_500.tif
+    md5: c43fa3f7c4717ef472d99a8a7d268a52
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319E3626DEC"'
+        version_id: '2023-05-12T18:51:25.7233660Z'
+  - relpath: grid_5000_3000_500_500.png
+    md5: be0ec701edfd5483c9c1ceb19d4f2995
+    size: 559591
+    cloud:
+      azure:
+        etag: '"0x8DB5319E2A79E54"'
+        version_id: '2023-05-12T18:51:24.4990820Z'
+  - relpath: grid_5000_3000_500_500.tif
+    md5: f315c0323c6de0f1df2f8eedc82430c5
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319F4BCB83C"'
+        version_id: '2023-05-12T18:51:54.8363596Z'
+  - relpath: grid_5000_3500_500_500.png
+    md5: 4805363c1612b9472c694a29a7d332c2
+    size: 566972
+    cloud:
+      azure:
+        etag: '"0x8DB5319F516FFBE"'
+        version_id: '2023-05-12T18:51:55.4280142Z'
+  - relpath: grid_5000_3500_500_500.tif
+    md5: 2c09b0308e25309dec3635a0af59123f
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319E34E73C5"'
+        version_id: '2023-05-12T18:51:25.5924437Z'
+  - relpath: grid_5000_4000_500_500.png
+    md5: b9ae6e71cae47636aa03f5358d548f33
+    size: 558163
+    cloud:
+      azure:
+        etag: '"0x8DB5319E69A8879"'
+        version_id: '2023-05-12T18:51:31.1242116Z'
+  - relpath: grid_5000_4000_500_500.tif
+    md5: 579f3dce1167a526da26474e4bc735d5
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319E1EECA36"'
+        version_id: '2023-05-12T18:51:23.2877894Z'
+  - relpath: grid_5000_4500_500_500.png
+    md5: 99b198b81116953204af962ad6fb6d98
+    size: 542275
+    cloud:
+      azure:
+        etag: '"0x8DB5319EDF214AE"'
+        version_id: '2023-05-12T18:51:43.4420158Z'
+  - relpath: grid_5000_4500_500_500.tif
+    md5: bb2eddee5b9aa6bb3ba706a01a02a7f7
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319ED271AE1"'
+        version_id: '2023-05-12T18:51:42.1117937Z'
+  - relpath: grid_5000_5000_500_500.png
+    md5: 90e48947a4fdfb166f1b0d12ca2f0d0c
+    size: 534822
+    cloud:
+      azure:
+        etag: '"0x8DB5319E9B1B262"'
+        version_id: '2023-05-12T18:51:36.3091826Z'
+  - relpath: grid_5000_5000_500_500.tif
+    md5: c4395886680b61cb461a6a1deb228bf5
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319E7620069"'
+        version_id: '2023-05-12T18:51:32.4314472Z'
+  - relpath: grid_5000_500_500_500.png
+    md5: 11c18bbc035729ce881a5792ce617cf3
+    size: 552123
+    cloud:
+      azure:
+        etag: '"0x8DB5319F6B02746"'
+        version_id: '2023-05-12T18:51:58.1094486Z'
+  - relpath: grid_5000_500_500_500.tif
+    md5: 1d8e77ecdd83a1c81409c57ea8042734
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319EC238D57"'
+        version_id: '2023-05-12T18:51:40.4107879Z'
+  - relpath: grid_5000_5500_500_500.png
+    md5: 80110e14e052016f05b8e4a721add0a9
+    size: 535364
+    cloud:
+      azure:
+        etag: '"0x8DB5319EDE3BEF2"'
+        version_id: '2023-05-12T18:51:43.3480706Z'
+  - relpath: grid_5000_5500_500_500.tif
+    md5: 1f265f8dc8449a3c3e4505731b152338
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319EB41175A"'
+        version_id: '2023-05-12T18:51:38.9266538Z'
+  - relpath: grid_5000_6000_500_500.png
+    md5: 328d04cbe4751d77c932d8c25ac7e5b1
+    size: 544466
+    cloud:
+      azure:
+        etag: '"0x8DB5319E816DD7E"'
+        version_id: '2023-05-12T18:51:33.6167566Z'
+  - relpath: grid_5000_6000_500_500.tif
+    md5: 9e5e7e9567dc080357c74c33effb4cb4
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319F2BAF384"'
+        version_id: '2023-05-12T18:51:51.4693268Z'
+  - relpath: grid_5000_6500_500_500.png
+    md5: b83b4e070fea06daf635b675356858b1
+    size: 548084
+    cloud:
+      azure:
+        etag: '"0x8DB5319F7FE202F"'
+        version_id: '2023-05-12T18:52:00.2981695Z'
+  - relpath: grid_5000_6500_500_500.tif
+    md5: b9bf880409b17712cd59aeccf7752d97
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319EE99FB63"'
+        version_id: '2023-05-12T18:51:44.5423731Z'
+  - relpath: grid_5000_7000_500_500.png
+    md5: e3064a995cb2cec935515353e5c4c4c7
+    size: 560552
+    cloud:
+      azure:
+        etag: '"0x8DB5319F20F3CD0"'
+        version_id: '2023-05-12T18:51:50.3439840Z'
+  - relpath: grid_5000_7000_500_500.tif
+    md5: 653a0a18378262a2f1c58370511eb95c
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319EBEEC98E"'
+        version_id: '2023-05-12T18:51:40.0659883Z'
+  - relpath: grid_5000_7500_500_500.png
+    md5: e828c69e07bd666c59ea9e7dabc328a1
+    size: 555201
+    cloud:
+      azure:
+        etag: '"0x8DB5319F435E92A"'
+        version_id: '2023-05-12T18:51:53.9528762Z'
+  - relpath: grid_5000_7500_500_500.tif
+    md5: e9267d96d4c4e945adf3c5dd8c0517dc
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319F159005B"'
+        version_id: '2023-05-12T18:51:49.1496811Z'
+  - relpath: grid_5000_8000_500_500.png
+    md5: 40ad101bd1722cb0af9ddbb0f20b4d30
+    size: 566001
+    cloud:
+      azure:
+        etag: '"0x8DB5319EB8BA9C1"'
+        version_id: '2023-05-12T18:51:39.4153681Z'
+  - relpath: grid_5000_8000_500_500.tif
+    md5: 22421a6fabf7f6d510b53ed41bb8dbfd
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319EDA0F391"'
+        version_id: '2023-05-12T18:51:42.9113264Z'
+  - relpath: grid_5000_8500_500_500.png
+    md5: 0f437e81923c46e20794379d9e6dc40d
+    size: 560535
+    cloud:
+      azure:
+        etag: '"0x8DB5319EED3A064"'
+        version_id: '2023-05-12T18:51:44.9201524Z'
+  - relpath: grid_5000_8500_500_500.tif
+    md5: 65896ee90f0a8c1993d96e13cb499ace
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319F5B76D78"'
+        version_id: '2023-05-12T18:51:56.4804002Z'
+  - relpath: grid_5000_9000_500_500.png
+    md5: 4f856e3670129b73f77157b2ce90b27a
+    size: 545281
+    cloud:
+      azure:
+        etag: '"0x8DB5319F3D2F061"'
+        version_id: '2023-05-12T18:51:53.3052542Z'
+  - relpath: grid_5000_9000_500_500.tif
+    md5: b5ff696e67f76d05a5f48201cce2634a
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319F65F5436"'
+        version_id: '2023-05-12T18:51:57.5797574Z'
+  - relpath: grid_5000_9500_500_500.png
+    md5: 2e85add51d902ebdb54bdc701288834a
+    size: 531541
+    cloud:
+      azure:
+        etag: '"0x8DB5319EB0FD589"'
+        version_id: '2023-05-12T18:51:38.6038425Z'
+  - relpath: grid_5000_9500_500_500.tif
+    md5: 84734917c4db91575f66a840bc26aef7
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319EDEE6BBA"'
+        version_id: '2023-05-12T18:51:43.4190299Z'
+  - relpath: grid_500_0_500_500.png
+    md5: bc8943dec3186d51b88e654163cef099
+    size: 581540
+    cloud:
+      azure:
+        etag: '"0x8DB5319EF467548"'
+        version_id: '2023-05-12T18:51:45.6727124Z'
+  - relpath: grid_500_0_500_500.tif
+    md5: 7f8bb450b47d51f910631ade8ea1cce1
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319F774B96A"'
+        version_id: '2023-05-12T18:51:59.3986943Z'
+  - relpath: grid_500_1000_500_500.png
+    md5: a70c93a42ebf2b2c8b9642bb3929f8b1
+    size: 566918
+    cloud:
+      azure:
+        etag: '"0x8DB5319E147CDBB"'
+        version_id: '2023-05-12T18:51:22.1934283Z'
+  - relpath: grid_500_1000_500_500.tif
+    md5: 8e8b80c28c220acedcf88393df54f4e9
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319F0D405C3"'
+        version_id: '2023-05-12T18:51:48.2781907Z'
+  - relpath: grid_500_1500_500_500.png
+    md5: 479e2b5ba017ae56c93e854cca0a9634
+    size: 570624
+    cloud:
+      azure:
+        etag: '"0x8DB5319E343C6F8"'
+        version_id: '2023-05-12T18:51:25.5224840Z'
+  - relpath: grid_500_1500_500_500.tif
+    md5: 76010bb2ac636f11bb1b5670b28f9e26
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319E8CDDD15"'
+        version_id: '2023-05-12T18:51:34.8170550Z'
+  - relpath: grid_500_2000_500_500.png
+    md5: f3fde61f8f90a07161c45be4cae0a51f
+    size: 575719
+    cloud:
+      azure:
+        etag: '"0x8DB5319EC9BB891"'
+        version_id: '2023-05-12T18:51:41.1983265Z'
+  - relpath: grid_500_2000_500_500.tif
+    md5: 5e5ec97ec6fcad3dd36648388558a493
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319E8E6DF9A"'
+        version_id: '2023-05-12T18:51:34.9799594Z'
+  - relpath: grid_500_2500_500_500.png
+    md5: 0d252ba9d96be529deac3972b0adeeba
+    size: 576123
+    cloud:
+      azure:
+        etag: '"0x8DB5319E651CA85"'
+        version_id: '2023-05-12T18:51:30.6474901Z'
+  - relpath: grid_500_2500_500_500.tif
+    md5: e4774a7c4ce463d12009c05c5757eb74
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319F5C17E22"'
+        version_id: '2023-05-12T18:51:56.5453618Z'
+  - relpath: grid_500_3000_500_500.png
+    md5: ded01fb76b3f94b6a85fd94aa1a16476
+    size: 535237
+    cloud:
+      azure:
+        etag: '"0x8DB5319E316F14E"'
+        version_id: '2023-05-12T18:51:25.2296552Z'
+  - relpath: grid_500_3000_500_500.tif
+    md5: 562cdd94d69b983d1a153ec309a4180e
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319ED0E1859"'
+        version_id: '2023-05-12T18:51:41.9488892Z'
+  - relpath: grid_500_3500_500_500.png
+    md5: 0adfaa1d6d6d8773c12d6a05c38eee20
+    size: 549920
+    cloud:
+      azure:
+        etag: '"0x8DB5319E4AB378E"'
+        version_id: '2023-05-12T18:51:27.8781086Z'
+  - relpath: grid_500_3500_500_500.tif
+    md5: 5fe56b799af115a2803121958bf180c9
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319ECF3415F"'
+        version_id: '2023-05-12T18:51:41.7729908Z'
+  - relpath: grid_500_4000_500_500.png
+    md5: fa396f21ee76e59391f004dc2aa70067
+    size: 582089
+    cloud:
+      azure:
+        etag: '"0x8DB5319E41AF3FD"'
+        version_id: '2023-05-12T18:51:26.9326605Z'
+  - relpath: grid_500_4000_500_500.tif
+    md5: 4e393bc434ea33ad73fc81db1b3634c1
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319F12F85A5"'
+        version_id: '2023-05-12T18:51:48.8778421Z'
+  - relpath: grid_500_4500_500_500.png
+    md5: 5dece20b6274b4765e1d6e51bede9489
+    size: 553229
+    cloud:
+      azure:
+        etag: '"0x8DB5319F063C895"'
+        version_id: '2023-05-12T18:51:47.5426213Z'
+  - relpath: grid_500_4500_500_500.tif
+    md5: e4dd5a7bd405912b42f60fceba6d90c0
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319F2324FF6"'
+        version_id: '2023-05-12T18:51:50.5738502Z'
+  - relpath: grid_500_5000_500_500.png
+    md5: bd58d3978f51c30ebcb38f2e9a59681e
+    size: 545728
+    cloud:
+      azure:
+        etag: '"0x8DB5319EECB3D35"'
+        version_id: '2023-05-12T18:51:44.8651845Z'
+  - relpath: grid_500_5000_500_500.tif
+    md5: 4087ab2fd1e3d954b0fd16bdd425eb7f
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319F320D210"'
+        version_id: '2023-05-12T18:51:52.1369376Z'
+  - relpath: grid_500_500_500_500.png
+    md5: 880c725a9d44c581ead23611bde1a1e5
+    size: 569059
+    cloud:
+      azure:
+        etag: '"0x8DB5319EE7C65AD"'
+        version_id: '2023-05-12T18:51:44.3484861Z'
+  - relpath: grid_500_500_500_500.tif
+    md5: bdac58fa25a7ef249ff8cda8abd65e65
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319F6FDC66B"'
+        version_id: '2023-05-12T18:51:58.6191503Z'
+  - relpath: grid_500_5500_500_500.png
+    md5: 23e51adec49019fd77e43ae4b69a48fd
+    size: 562822
+    cloud:
+      azure:
+        etag: '"0x8DB5319E61B3255"'
+        version_id: '2023-05-12T18:51:30.2896997Z'
+  - relpath: grid_500_5500_500_500.tif
+    md5: 3161f1f88cf226ea583b9ee7826b2bc6
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319EE8B5792"'
+        version_id: '2023-05-12T18:51:44.4464290Z'
+  - relpath: grid_500_6000_500_500.png
+    md5: a237c919b3f9158fd42d62e32ecdba49
+    size: 561787
+    cloud:
+      azure:
+        etag: '"0x8DB5319F29548B8"'
+        version_id: '2023-05-12T18:51:51.2224712Z'
+  - relpath: grid_500_6000_500_500.tif
+    md5: bf1888a55b66bf3d6c77bdbb817fa0d4
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319EEFC7F04"'
+        version_id: '2023-05-12T18:51:45.1879956Z'
+  - relpath: grid_500_6500_500_500.png
+    md5: 9590c49da1ca13dbf0686cc4e2b63159
+    size: 551591
+    cloud:
+      azure:
+        etag: '"0x8DB5319E1464758"'
+        version_id: '2023-05-12T18:51:22.1834344Z'
+  - relpath: grid_500_6500_500_500.tif
+    md5: c2992d4a75544ccfbcae4a47175a068e
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319E1806176"'
+        version_id: '2023-05-12T18:51:22.5642118Z'
+  - relpath: grid_500_7000_500_500.png
+    md5: 231736abc481fdcda5ccb39e79225b74
+    size: 562785
+    cloud:
+      azure:
+        etag: '"0x8DB5319E41660CA"'
+        version_id: '2023-05-12T18:51:26.9026778Z'
+  - relpath: grid_500_7000_500_500.tif
+    md5: 7d2ce91c37a2ad9e7206955af9f7583a
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319F5299A95"'
+        version_id: '2023-05-12T18:51:55.5509434Z'
+  - relpath: grid_500_7500_500_500.png
+    md5: d9247273f2155c11b9d29041eecde6a1
+    size: 557035
+    cloud:
+      azure:
+        etag: '"0x8DB5319E2D16732"'
+        version_id: '2023-05-12T18:51:24.7729218Z'
+  - relpath: grid_500_7500_500_500.tif
+    md5: b37f059b1b47dfbcac65c4c098c632df
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319F6B3D032"'
+        version_id: '2023-05-12T18:51:58.1344330Z'
+  - relpath: grid_500_8000_500_500.png
+    md5: bc549d40f24db1d024f9ea19cb92aab9
+    size: 559975
+    cloud:
+      azure:
+        etag: '"0x8DB5319E9601C34"'
+        version_id: '2023-05-12T18:51:35.7744964Z'
+  - relpath: grid_500_8000_500_500.tif
+    md5: 9847d9c831b9577e70c562c04ca21c36
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319E1E8899C"'
+        version_id: '2023-05-12T18:51:23.2468140Z'
+  - relpath: grid_500_8500_500_500.png
+    md5: 443681c58196df14ab30238862deb92f
+    size: 543737
+    cloud:
+      azure:
+        etag: '"0x8DB5319E39A1779"'
+        version_id: '2023-05-12T18:51:26.0881545Z'
+  - relpath: grid_500_8500_500_500.tif
+    md5: d3f01f21db7b71843f49aeb25dbb22ba
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319EE3443EA"'
+        version_id: '2023-05-12T18:51:43.8767624Z'
+  - relpath: grid_500_9000_500_500.png
+    md5: e03df0195a4a810eb83600aee3f2890b
+    size: 553778
+    cloud:
+      azure:
+        etag: '"0x8DB5319F699E371"'
+        version_id: '2023-05-12T18:51:57.9635329Z'
+  - relpath: grid_500_9000_500_500.tif
+    md5: 7e8df50906bf49581964bd31979e5bc3
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319F0674A79"'
+        version_id: '2023-05-12T18:51:47.5656073Z'
+  - relpath: grid_500_9500_500_500.png
+    md5: 7baebae6d5b9afc98fb245678eaf3bc8
+    size: 545987
+    cloud:
+      azure:
+        etag: '"0x8DB5319E18BF87F"'
+        version_id: '2023-05-12T18:51:22.6411669Z'
+  - relpath: grid_500_9500_500_500.tif
+    md5: a4f8d4895a46c6cfa6686865d8de98de
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319E76E0C92"'
+        version_id: '2023-05-12T18:51:32.5104034Z'
+  - relpath: grid_5500_0_500_500.png
+    md5: b36fd59176e3fe76f1a503d8f94a6c82
+    size: 528025
+    cloud:
+      azure:
+        etag: '"0x8DB5319E5EE83B0"'
+        version_id: '2023-05-12T18:51:29.9968704Z'
+  - relpath: grid_5500_0_500_500.tif
+    md5: 519f6a240fa6f7c0633afaf0f83186d1
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319E212797C"'
+        version_id: '2023-05-12T18:51:23.5216524Z'
+  - relpath: grid_5500_1000_500_500.png
+    md5: b7db81f090558a1fbcbf6ea1b28bfbff
+    size: 570557
+    cloud:
+      azure:
+        etag: '"0x8DB5319E118AE7C"'
+        version_id: '2023-05-12T18:51:21.8846092Z'
+  - relpath: grid_5500_1000_500_500.tif
+    md5: 7324ad199b54b578eda6c9f042e627a2
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319ED54B3B8"'
+        version_id: '2023-05-12T18:51:42.4106184Z'
+  - relpath: grid_5500_1500_500_500.png
+    md5: 5a8cba9e82be06693226a1f34a8aef20
+    size: 561369
+    cloud:
+      azure:
+        etag: '"0x8DB5319F0F19B82"'
+        version_id: '2023-05-12T18:51:48.4730764Z'
+  - relpath: grid_5500_1500_500_500.tif
+    md5: b56302fbc579e21c32aadcdb23cd329f
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319ECCF6B04"'
+        version_id: '2023-05-12T18:51:41.5371284Z'
+  - relpath: grid_5500_2000_500_500.png
+    md5: 2f944e1fee7148bc5be806c9b525c304
+    size: 567271
+    cloud:
+      azure:
+        etag: '"0x8DB5319E415EBA8"'
+        version_id: '2023-05-12T18:51:26.8996792Z'
+  - relpath: grid_5500_2000_500_500.tif
+    md5: 81c286709a64a7087ee997c61357aa5b
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319E5C38286"'
+        version_id: '2023-05-12T18:51:29.7150358Z'
+  - relpath: grid_5500_2500_500_500.png
+    md5: c33df5a02d7a506cdd398677e6aa214a
+    size: 548578
+    cloud:
+      azure:
+        etag: '"0x8DB5319EDE5BA82"'
+        version_id: '2023-05-12T18:51:43.3610642Z'
+  - relpath: grid_5500_2500_500_500.tif
+    md5: 303d8a3ff88f53cab4c5b18b9620b2ae
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319E4E7261C"'
+        version_id: '2023-05-12T18:51:28.2708780Z'
+  - relpath: grid_5500_3000_500_500.png
+    md5: 3d5885be0e61aef3744dd297d3e5c3c9
+    size: 558838
+    cloud:
+      azure:
+        etag: '"0x8DB5319E3491D5F"'
+        version_id: '2023-05-12T18:51:25.5574639Z'
+  - relpath: grid_5500_3000_500_500.tif
+    md5: e62b16a8133d71867bd5292dbfd0eecd
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319E13559F2"'
+        version_id: '2023-05-12T18:51:22.0724994Z'
+  - relpath: grid_5500_3500_500_500.png
+    md5: eb9bc6a8ad4b413a66294ad166e06809
+    size: 559725
+    cloud:
+      azure:
+        etag: '"0x8DB5319EB6A1D14"'
+        version_id: '2023-05-12T18:51:39.1954980Z'
+  - relpath: grid_5500_3500_500_500.tif
+    md5: 2206063d68b5bb2c6667600b2d441691
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319E598CF69"'
+        version_id: '2023-05-12T18:51:29.4361976Z'
+  - relpath: grid_5500_4000_500_500.png
+    md5: bc06f040936c8bc5aa95cd2e0a625201
+    size: 556279
+    cloud:
+      azure:
+        etag: '"0x8DB5319E4BD8452"'
+        version_id: '2023-05-12T18:51:27.9990374Z'
+  - relpath: grid_5500_4000_500_500.tif
+    md5: 1d2a5e5e050b1d737e38ccaaeacbe3ea
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319F3391156"'
+        version_id: '2023-05-12T18:51:52.2968439Z'
+  - relpath: grid_5500_4500_500_500.png
+    md5: 353e471ccf27b46a68059062aed89075
+    size: 549057
+    cloud:
+      azure:
+        etag: '"0x8DB5319E4B76ABA"'
+        version_id: '2023-05-12T18:51:27.9590601Z'
+  - relpath: grid_5500_4500_500_500.tif
+    md5: e7528f2fdfe87ffd836a3c1e9b171335
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319E6D7D668"'
+        version_id: '2023-05-12T18:51:31.5259768Z'
+  - relpath: grid_5500_5000_500_500.png
+    md5: 603e7031048e180aedfadec93951f793
+    size: 545038
+    cloud:
+      azure:
+        etag: '"0x8DB5319F4F23F2E"'
+        version_id: '2023-05-12T18:51:55.1881544Z'
+  - relpath: grid_5500_5000_500_500.tif
+    md5: 91b1e3ff3564e1667c793dab8cb3438d
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319E99FB3B7"'
+        version_id: '2023-05-12T18:51:36.1912519Z'
+  - relpath: grid_5500_500_500_500.png
+    md5: e917087ef7e97510e5ce0a2d629d1564
+    size: 557646
+    cloud:
+      azure:
+        etag: '"0x8DB5319F5AEE34B"'
+        version_id: '2023-05-12T18:51:56.4234331Z'
+  - relpath: grid_5500_500_500_500.tif
+    md5: 581227e161469eeeeacb14a085dfccf9
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319F12BDC9E"'
+        version_id: '2023-05-12T18:51:48.8538542Z'
+  - relpath: grid_5500_5500_500_500.png
+    md5: 8d22fdf9bf6f82211ed6f63dd3dae673
+    size: 541920
+    cloud:
+      azure:
+        etag: '"0x8DB5319E13866CA"'
+        version_id: '2023-05-12T18:51:22.0924890Z'
+  - relpath: grid_5500_5500_500_500.tif
+    md5: 8862822a2e91afd4f956edf37ba7ac34
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319F6FAB9AB"'
+        version_id: '2023-05-12T18:51:58.5991618Z'
+  - relpath: grid_5500_6000_500_500.png
+    md5: 661c6f355986d50585d5b9100e378cd5
+    size: 546659
+    cloud:
+      azure:
+        etag: '"0x8DB5319EF659164"'
+        version_id: '2023-05-12T18:51:45.8775929Z'
+  - relpath: grid_5500_6000_500_500.tif
+    md5: 4afca0cc92e5ce7e889135c116c58b12
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319F0C6252E"'
+        version_id: '2023-05-12T18:51:48.1882437Z'
+  - relpath: grid_5500_6500_500_500.png
+    md5: e4359b95e156dc3dba49435091f2be41
+    size: 543754
+    cloud:
+      azure:
+        etag: '"0x8DB5319E4E77432"'
+        version_id: '2023-05-12T18:51:28.2728770Z'
+  - relpath: grid_5500_6500_500_500.tif
+    md5: 262aea2b05c7418091e0467bafe3efd9
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319EB41DA8B"'
+        version_id: '2023-05-12T18:51:38.9316507Z'
+  - relpath: grid_5500_7000_500_500.png
+    md5: 42d4ac7f35ec1e2055f90e54314aaa2f
+    size: 552470
+    cloud:
+      azure:
+        etag: '"0x8DB5319F5F04F53"'
+        version_id: '2023-05-12T18:51:56.8531815Z'
+  - relpath: grid_5500_7000_500_500.tif
+    md5: ac453d4ae15575c24ad48ef5f0b06ae5
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319E4E4DC8F"'
+        version_id: '2023-05-12T18:51:28.2558879Z'
+  - relpath: grid_5500_7500_500_500.png
+    md5: a82a822765f89b9c2dc173143eaebd38
+    size: 557485
+    cloud:
+      azure:
+        etag: '"0x8DB5319F2878F21"'
+        version_id: '2023-05-12T18:51:51.1325233Z'
+  - relpath: grid_5500_7500_500_500.tif
+    md5: bd0c2d7e245a6dbd1d5c6130eb54257b
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319F2A461A7"'
+        version_id: '2023-05-12T18:51:51.3224122Z'
+  - relpath: grid_5500_8000_500_500.png
+    md5: a2e886613df5158f8ffae8c49b7cedf5
+    size: 561283
+    cloud:
+      azure:
+        etag: '"0x8DB5319F662AF10"'
+        version_id: '2023-05-12T18:51:57.6017440Z'
+  - relpath: grid_5500_8000_500_500.tif
+    md5: 253a830df8f72fe9deefe867b99e88f0
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319ED4525B3"'
+        version_id: '2023-05-12T18:51:42.3096775Z'
+  - relpath: grid_5500_8500_500_500.png
+    md5: 907d419649b776a2ce23a3f7b1d67496
+    size: 567326
+    cloud:
+      azure:
+        etag: '"0x8DB5319E6B6E5E0"'
+        version_id: '2023-05-12T18:51:31.3111022Z'
+  - relpath: grid_5500_8500_500_500.tif
+    md5: 8d102608037e6ed2fb9de075be514c6f
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319F1766F0B"'
+        version_id: '2023-05-12T18:51:49.3425691Z'
+  - relpath: grid_5500_9000_500_500.png
+    md5: c49cd60410ef09928cd234b62fd05e53
+    size: 545229
+    cloud:
+      azure:
+        etag: '"0x8DB5319E3752FD7"'
+        version_id: '2023-05-12T18:51:25.8462951Z'
+  - relpath: grid_5500_9000_500_500.tif
+    md5: afe456ab2fc4a3c44102f6cb6515798b
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319F802DA66"'
+        version_id: '2023-05-12T18:52:00.3291510Z'
+  - relpath: grid_5500_9500_500_500.png
+    md5: 8513386cb3e7d1e3aefc84721a2238d7
+    size: 528906
+    cloud:
+      azure:
+        etag: '"0x8DB5319ECE40162"'
+        version_id: '2023-05-12T18:51:41.6720498Z'
+  - relpath: grid_5500_9500_500_500.tif
+    md5: 4200f2a820bad71e5d7ecbfa2d86dae3
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319ED8C8440"'
+        version_id: '2023-05-12T18:51:42.7764048Z'
+  - relpath: grid_6000_0_500_500.png
+    md5: 3a7908d6cd84b81dda90b7e40e692dc3
+    size: 558899
+    cloud:
+      azure:
+        etag: '"0x8DB5319F78928BB"'
+        version_id: '2023-05-12T18:51:59.5326161Z'
+  - relpath: grid_6000_0_500_500.tif
+    md5: fed492410c7db2632f67943f41188280
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319ED60BFE3"'
+        version_id: '2023-05-12T18:51:42.4895731Z'
+  - relpath: grid_6000_1000_500_500.png
+    md5: aebb88b8a47d48b3e1bed970ee09160f
+    size: 563102
+    cloud:
+      azure:
+        etag: '"0x8DB5319E12974E2"'
+        version_id: '2023-05-12T18:51:21.9945458Z'
+  - relpath: grid_6000_1000_500_500.tif
+    md5: e84906e2685ab81a3783462e62b8bbb3
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319ED19AF65"'
+        version_id: '2023-05-12T18:51:42.0248445Z'
+  - relpath: grid_6000_1500_500_500.png
+    md5: 00a103e7bcc10afbd933990b1b5025cd
+    size: 558068
+    cloud:
+      azure:
+        etag: '"0x8DB5319E14B9DCA"'
+        version_id: '2023-05-12T18:51:22.2184154Z'
+  - relpath: grid_6000_1500_500_500.tif
+    md5: fcd3eaf88eb6bc0edc213bb72a719a74
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319E53ADEEE"'
+        version_id: '2023-05-12T18:51:28.8195582Z'
+  - relpath: grid_6000_2000_500_500.png
+    md5: dc2ad838161b6f1ee8d29ab4b4cad551
+    size: 575767
+    cloud:
+      azure:
+        etag: '"0x8DB5319E5E388CE"'
+        version_id: '2023-05-12T18:51:29.9249118Z'
+  - relpath: grid_6000_2000_500_500.tif
+    md5: 8097dd869d0e4311d391cd3baa50a320
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319E73551C1"'
+        version_id: '2023-05-12T18:51:32.1386193Z'
+  - relpath: grid_6000_2500_500_500.png
+    md5: 8dd34bb2e23cdc7efa4ea4d8636f3246
+    size: 548802
+    cloud:
+      azure:
+        etag: '"0x8DB5319F00C8DDC"'
+        version_id: '2023-05-12T18:51:46.9719538Z'
+  - relpath: grid_6000_2500_500_500.tif
+    md5: d4c0388aff76a2e22bc580c7c5dc62e5
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319F7F7B886"'
+        version_id: '2023-05-12T18:52:00.2561942Z'
+  - relpath: grid_6000_3000_500_500.png
+    md5: fd28ea673bc1ef5d6f99e6720872eb4a
+    size: 558304
+    cloud:
+      azure:
+        etag: '"0x8DB5319F630F821"'
+        version_id: '2023-05-12T18:51:57.2769340Z'
+  - relpath: grid_6000_3000_500_500.tif
+    md5: 3f8c3315f55784f7a9b04be58f264aef
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319F0D34294"'
+        version_id: '2023-05-12T18:51:48.2731940Z'
+  - relpath: grid_6000_3500_500_500.png
+    md5: db2c0274305f6ac95b8b79b4cc7eacdf
+    size: 554142
+    cloud:
+      azure:
+        etag: '"0x8DB5319E3768F33"'
+        version_id: '2023-05-12T18:51:25.8552899Z'
+  - relpath: grid_6000_3500_500_500.tif
+    md5: 415023f6f1f2e42f520b8b3344e95086
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319F6F340BF"'
+        version_id: '2023-05-12T18:51:58.5491919Z'
+  - relpath: grid_6000_4000_500_500.png
+    md5: 073cec19a169c45b92052e0ab8216412
+    size: 561469
+    cloud:
+      azure:
+        etag: '"0x8DB5319E9282499"'
+        version_id: '2023-05-12T18:51:35.4087095Z'
+  - relpath: grid_6000_4000_500_500.tif
+    md5: a933a88ebd5a48b1c891c62794231bae
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319E2F95BA2"'
+        version_id: '2023-05-12T18:51:25.0347698Z'
+  - relpath: grid_6000_4500_500_500.png
+    md5: d6ced1b0314921cf877002167f352447
+    size: 555665
+    cloud:
+      azure:
+        etag: '"0x8DB5319E9AE7E89"'
+        version_id: '2023-05-12T18:51:36.2891946Z'
+  - relpath: grid_6000_4500_500_500.tif
+    md5: 175870fa04b525d6b2554c82736b27dd
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319F4C283BF"'
+        version_id: '2023-05-12T18:51:54.8743375Z'
+  - relpath: grid_6000_5000_500_500.png
+    md5: 8731da014d3206dc513277e5206c508a
+    size: 556797
+    cloud:
+      azure:
+        etag: '"0x8DB5319E334FC2D"'
+        version_id: '2023-05-12T18:51:25.4255421Z'
+  - relpath: grid_6000_5000_500_500.tif
+    md5: 5137a2d17a3c622122958738e1aa4d53
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319E36505A2"'
+        version_id: '2023-05-12T18:51:25.7403570Z'
+  - relpath: grid_6000_500_500_500.png
+    md5: 31ce535f8473ec9e04ecae47bbb1d9f2
+    size: 556714
+    cloud:
+      azure:
+        etag: '"0x8DB5319E6058AAB"'
+        version_id: '2023-05-12T18:51:30.1477819Z'
+  - relpath: grid_6000_500_500_500.tif
+    md5: 95eec18a61e701762a02faa9b03d2d68
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319E4AE1D4A"'
+        version_id: '2023-05-12T18:51:27.8980962Z'
+  - relpath: grid_6000_5500_500_500.png
+    md5: 9c649fcc86daa176f233d6a3453b7290
+    size: 549334
+    cloud:
+      azure:
+        etag: '"0x8DB5319EF14704C"'
+        version_id: '2023-05-12T18:51:45.3459040Z'
+  - relpath: grid_6000_5500_500_500.tif
+    md5: 5220da160fac381198f7ac480b5b974f
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319ECCEA7DB"'
+        version_id: '2023-05-12T18:51:41.5321323Z'
+  - relpath: grid_6000_6000_500_500.png
+    md5: 9c9ba0c49dbc937b15cb0448bc51f487
+    size: 558208
+    cloud:
+      azure:
+        etag: '"0x8DB5319EF88CB96"'
+        version_id: '2023-05-12T18:51:46.1084593Z'
+  - relpath: grid_6000_6000_500_500.tif
+    md5: f21506ad76131190f0a37a5a13006412
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319F613D794"'
+        version_id: '2023-05-12T18:51:57.0850453Z'
+  - relpath: grid_6000_6500_500_500.png
+    md5: c083eb7444674a4c5b82b703c8409664
+    size: 556738
+    cloud:
+      azure:
+        etag: '"0x8DB5319F423EA7B"'
+        version_id: '2023-05-12T18:51:53.8349451Z'
+  - relpath: grid_6000_6500_500_500.tif
+    md5: d91a10917624d95f2cc66fdc7f573f0c
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319F477F159"'
+        version_id: '2023-05-12T18:51:54.3866237Z'
+  - relpath: grid_6000_7000_500_500.png
+    md5: 5761cf3c89c81ca91b8dce5b4595a4ea
+    size: 558199
+    cloud:
+      azure:
+        etag: '"0x8DB5319EADB38D1"'
+        version_id: '2023-05-12T18:51:38.2590433Z'
+  - relpath: grid_6000_7000_500_500.tif
+    md5: e5378ec3808eaffc1b6887e10aa0d5ba
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319E8318D6B"'
+        version_id: '2023-05-12T18:51:33.7916532Z'
+  - relpath: grid_6000_7500_500_500.png
+    md5: 938d1dcee3d86eb24b4f43023273c3b4
+    size: 561477
+    cloud:
+      azure:
+        etag: '"0x8DB5319E4A08AC3"'
+        version_id: '2023-05-12T18:51:27.8091493Z'
+  - relpath: grid_6000_7500_500_500.tif
+    md5: 2bfe8793685c2920b4b69fb6f606d92f
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319F3389C3A"'
+        version_id: '2023-05-12T18:51:52.2928458Z'
+  - relpath: grid_6000_8000_500_500.png
+    md5: 6206944e94747067ceb36b030a442ad4
+    size: 568141
+    cloud:
+      azure:
+        etag: '"0x8DB5319E420987C"'
+        version_id: '2023-05-12T18:51:26.9696396Z'
+  - relpath: grid_6000_8000_500_500.tif
+    md5: 964a2c46b93930641af24bc0a5664054
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319E30B0C34"'
+        version_id: '2023-05-12T18:51:25.1517004Z'
+  - relpath: grid_6000_8500_500_500.png
+    md5: 00ade260d00ad65e7c4f64666e6c8dd5
+    size: 555212
+    cloud:
+      azure:
+        etag: '"0x8DB5319ED543E99"'
+        version_id: '2023-05-12T18:51:42.4086194Z'
+  - relpath: grid_6000_8500_500_500.tif
+    md5: 0b25bfdf8b19a3dcb65e1e4753011a42
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319EDD19939"'
+        version_id: '2023-05-12T18:51:43.2291401Z'
+  - relpath: grid_6000_9000_500_500.png
+    md5: 25d2dcfe34412016af799bbc6bcecadf
+    size: 541144
+    cloud:
+      azure:
+        etag: '"0x8DB5319E21E5E9D"'
+        version_id: '2023-05-12T18:51:23.5996077Z'
+  - relpath: grid_6000_9000_500_500.tif
+    md5: 325ff583ab8f95ce8d33c6e8506a9584
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319E693F9C3"'
+        version_id: '2023-05-12T18:51:31.0812371Z'
+  - relpath: grid_6000_9500_500_500.png
+    md5: ffbd69f115b593c11421a01d2ba0fc7a
+    size: 543444
+    cloud:
+      azure:
+        etag: '"0x8DB5319ECF75F69"'
+        version_id: '2023-05-12T18:51:41.7989753Z'
+  - relpath: grid_6000_9500_500_500.tif
+    md5: 402aa667ba73119983071bf40025b8e3
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319E44050BE"'
+        version_id: '2023-05-12T18:51:27.1775182Z'
+  - relpath: grid_6500_0_500_500.png
+    md5: 4f6c160385822abd8d8a0a1257b9d36b
+    size: 516323
+    cloud:
+      azure:
+        etag: '"0x8DB5319E18BD17C"'
+        version_id: '2023-05-12T18:51:22.6391692Z'
+  - relpath: grid_6500_0_500_500.tif
+    md5: 7c675220983ca6ad64795ca14a336cc7
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319F7CBF419"'
+        version_id: '2023-05-12T18:51:59.9693609Z'
+  - relpath: grid_6500_1000_500_500.png
+    md5: c6ba19c77dd16dc9780b6b2a67637234
+    size: 561204
+    cloud:
+      azure:
+        etag: '"0x8DB5319E85E3C08"'
+        version_id: '2023-05-12T18:51:34.0844824Z'
+  - relpath: grid_6500_1000_500_500.tif
+    md5: 37900beba30eb72834d5b2d020195575
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319E14BEBD0"'
+        version_id: '2023-05-12T18:51:22.2204128Z'
+  - relpath: grid_6500_1500_500_500.png
+    md5: f2eb2fc67aa8ce69c74f91c2250d9af0
+    size: 567793
+    cloud:
+      azure:
+        etag: '"0x8DB5319ED380842"'
+        version_id: '2023-05-12T18:51:42.2227282Z'
+  - relpath: grid_6500_1500_500_500.tif
+    md5: 457aed2a82f20bf5a16ab9057cb3f3c7
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319E4BE4783"'
+        version_id: '2023-05-12T18:51:28.0040355Z'
+  - relpath: grid_6500_2000_500_500.png
+    md5: 6174a1d793973630d6c0cf60ea70e9a6
+    size: 579483
+    cloud:
+      azure:
+        etag: '"0x8DB5319E2081ACB"'
+        version_id: '2023-05-12T18:51:23.4536923Z'
+  - relpath: grid_6500_2000_500_500.tif
+    md5: 747d0698e8a52a2d2f331e9136c88871
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319F7EDCEEC"'
+        version_id: '2023-05-12T18:52:00.1922310Z'
+  - relpath: grid_6500_2500_500_500.png
+    md5: 98ee620a759a1d00bd55c0af3416324c
+    size: 555489
+    cloud:
+      azure:
+        etag: '"0x8DB5319EBCACC34"'
+        version_id: '2023-05-12T18:51:39.8291268Z'
+  - relpath: grid_6500_2500_500_500.tif
+    md5: 76d826ee94e3c3c8fcd1d91f19456681
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319EE69CAD7"'
+        version_id: '2023-05-12T18:51:44.2275591Z'
+  - relpath: grid_6500_3000_500_500.png
+    md5: 07cc7beae025c3eac2db0aea5714aa18
+    size: 555271
+    cloud:
+      azure:
+        etag: '"0x8DB5319F62B7ABB"'
+        version_id: '2023-05-12T18:51:57.2409554Z'
+  - relpath: grid_6500_3000_500_500.tif
+    md5: 06f6a2fee91df875f03129f24b78facc
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319EE5A15CF"'
+        version_id: '2023-05-12T18:51:44.1236191Z'
+  - relpath: grid_6500_3500_500_500.png
+    md5: 39d768ecffa9f08c05c5c1ba2b5d0c42
+    size: 560050
+    cloud:
+      azure:
+        etag: '"0x8DB5319F78C83A4"'
+        version_id: '2023-05-12T18:51:59.5546039Z'
+  - relpath: grid_6500_3500_500_500.tif
+    md5: 419a719b2cc0ddf83604116c44931655
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319F53ECD1C"'
+        version_id: '2023-05-12T18:51:55.6898614Z'
+  - relpath: grid_6500_4000_500_500.png
+    md5: 0950be2254ec64f97f4086ffbf5b611d
+    size: 553230
+    cloud:
+      azure:
+        etag: '"0x8DB5319ECA9E74A"'
+        version_id: '2023-05-12T18:51:41.2922720Z'
+  - relpath: grid_6500_4000_500_500.tif
+    md5: 88ddd746b741b3a942338388a620ceb3
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319F1C609CC"'
+        version_id: '2023-05-12T18:51:49.8642652Z'
+  - relpath: grid_6500_4500_500_500.png
+    md5: bf9da33f51c20ed36d7d515828eb30f0
+    size: 554549
+    cloud:
+      azure:
+        etag: '"0x8DB5319EC9E0236"'
+        version_id: '2023-05-12T18:51:41.2133190Z'
+  - relpath: grid_6500_4500_500_500.tif
+    md5: ac4b492a435dc8bebaabac058ccdf89c
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319F5299A95"'
+        version_id: '2023-05-12T18:51:55.5499429Z'
+  - relpath: grid_6500_5000_500_500.png
+    md5: 923ea84afb2c1ee17c10ff009485289d
+    size: 540257
+    cloud:
+      azure:
+        etag: '"0x8DB5319E95325C6"'
+        version_id: '2023-05-12T18:51:35.6905456Z'
+  - relpath: grid_6500_5000_500_500.tif
+    md5: ccae1ede4414cdf5c200b9032548892c
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319F6FB2ECA"'
+        version_id: '2023-05-12T18:51:58.6011610Z'
+  - relpath: grid_6500_500_500_500.png
+    md5: 80f13c27aa7a4eea4366000ea30ec881
+    size: 552077
+    cloud:
+      azure:
+        etag: '"0x8DB5319F6420C96"'
+        version_id: '2023-05-12T18:51:57.3888686Z'
+  - relpath: grid_6500_500_500_500.tif
+    md5: b7c9abab9d57b55c760ca56b0ea151f3
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319F25F4CA6"'
+        version_id: '2023-05-12T18:51:50.8686774Z'
+  - relpath: grid_6500_5500_500_500.png
+    md5: 4c77d26110db511b5bb97d48a568e59f
+    size: 560349
+    cloud:
+      azure:
+        etag: '"0x8DB5319F7ABC6C7"'
+        version_id: '2023-05-12T18:51:59.7584855Z'
+  - relpath: grid_6500_5500_500_500.tif
+    md5: 8c42a396b302e474cb5259eb8f77da79
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319F37FACBE"'
+        version_id: '2023-05-12T18:51:52.7595726Z'
+  - relpath: grid_6500_6000_500_500.png
+    md5: 71598fe23ec1762ac2a1f20d770b75a0
+    size: 563106
+    cloud:
+      azure:
+        etag: '"0x8DB5319EF924011"'
+        version_id: '2023-05-12T18:51:46.1704227Z'
+  - relpath: grid_6500_6000_500_500.tif
+    md5: 84d01e8dc71ddf4a76397c5aa9cd166a
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319E4180E46"'
+        version_id: '2023-05-12T18:51:26.9136726Z'
+  - relpath: grid_6500_6500_500_500.png
+    md5: 68ab9ccaeca5119bd3913fabd7aa6071
+    size: 563459
+    cloud:
+      azure:
+        etag: '"0x8DB5319E8A4D76C"'
+        version_id: '2023-05-12T18:51:34.5472124Z'
+  - relpath: grid_6500_6500_500_500.tif
+    md5: 9955ce42b28c2e95a3f2af6bef7cd81a
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319E185DEE2"'
+        version_id: '2023-05-12T18:51:22.6001906Z'
+  - relpath: grid_6500_7000_500_500.png
+    md5: 3f6ecdf9652b7d33d25508286c988a77
+    size: 554202
+    cloud:
+      azure:
+        etag: '"0x8DB5319F76C2F2C"'
+        version_id: '2023-05-12T18:51:59.3417276Z'
+  - relpath: grid_6500_7000_500_500.tif
+    md5: 96ce942bf1bae6362f3337b79e05669a
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319EB85DE42"'
+        version_id: '2023-05-12T18:51:39.3773906Z'
+  - relpath: grid_6500_7500_500_500.png
+    md5: 61d804d2114b54c3720bea4b295ad34e
+    size: 550817
+    cloud:
+      azure:
+        etag: '"0x8DB5319EEF0E806"'
+        version_id: '2023-05-12T18:51:45.1130393Z'
+  - relpath: grid_6500_7500_500_500.tif
+    md5: 96f4213440849f05de744d0daebb5746
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319E6829742"'
+        version_id: '2023-05-12T18:51:30.9673042Z'
+  - relpath: grid_6500_8000_500_500.png
+    md5: 087e0fd82a66d7723cfd457b9bae74d9
+    size: 558962
+    cloud:
+      azure:
+        etag: '"0x8DB5319F48535CB"'
+        version_id: '2023-05-12T18:51:54.4725723Z'
+  - relpath: grid_6500_8000_500_500.tif
+    md5: 5d6988fb2ed4bcaa74c6afc0817f322b
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319F0A44A58"'
+        version_id: '2023-05-12T18:51:47.9653736Z'
+  - relpath: grid_6500_8500_500_500.png
+    md5: 9912a6ece214e44a61bafde62cb3af95
+    size: 558526
+    cloud:
+      azure:
+        etag: '"0x8DB5319E6D67711"'
+        version_id: '2023-05-12T18:51:31.5169825Z'
+  - relpath: grid_6500_8500_500_500.tif
+    md5: 10e15a73438ccc7a6dac455c8039c2cc
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319F1C212B9"'
+        version_id: '2023-05-12T18:51:49.8382793Z'
+  - relpath: grid_6500_9000_500_500.png
+    md5: 48aef7841670af79a165d91c7f86eaeb
+    size: 554482
+    cloud:
+      azure:
+        etag: '"0x8DB5319F564ED02"'
+        version_id: '2023-05-12T18:51:55.9387154Z'
+  - relpath: grid_6500_9000_500_500.tif
+    md5: cfb0f7ac5da3b6076d42438c19ea73e2
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319F5DE77B4"'
+        version_id: '2023-05-12T18:51:56.7352516Z'
+  - relpath: grid_6500_9500_500_500.png
+    md5: 7953818f55c5f9b53684f58e6694f3f7
+    size: 541279
+    cloud:
+      azure:
+        etag: '"0x8DB5319E8CAA94A"'
+        version_id: '2023-05-12T18:51:34.7950682Z'
+  - relpath: grid_6500_9500_500_500.tif
+    md5: d18a88f8c88478c80847bb532cba07f3
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319F2A7E38E"'
+        version_id: '2023-05-12T18:51:51.3443998Z'
+  - relpath: grid_7000_0_500_500.png
+    md5: 77fcf4ab2265c5e99ea60b7912bfe376
+    size: 563830
+    cloud:
+      azure:
+        etag: '"0x8DB5319E8A43B3F"'
+        version_id: '2023-05-12T18:51:34.5432143Z'
+  - relpath: grid_7000_0_500_500.tif
+    md5: 681545874a79fe580b740b8e5eb49434
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319E1FDBC1E"'
+        version_id: '2023-05-12T18:51:23.3857326Z'
+  - relpath: grid_7000_1000_500_500.png
+    md5: 3113379a9361d8a582f5586822998df9
+    size: 565856
+    cloud:
+      azure:
+        etag: '"0x8DB5319E141DB35"'
+        version_id: '2023-05-12T18:51:22.1544517Z'
+  - relpath: grid_7000_1000_500_500.tif
+    md5: 58a05632d80d3e48b2254a033b3fd6fc
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319F1AC9228"'
+        version_id: '2023-05-12T18:51:49.6983613Z'
+  - relpath: grid_7000_1500_500_500.png
+    md5: 2b68559788dfe29166f829fc9d98962d
+    size: 564665
+    cloud:
+      azure:
+        etag: '"0x8DB5319E1492D1C"'
+        version_id: '2023-05-12T18:51:22.2024236Z'
+  - relpath: grid_7000_1500_500_500.tif
+    md5: 4138609927afbb5524205bc8f86fc783
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319F7726FCC"'
+        version_id: '2023-05-12T18:51:59.3827036Z'
+  - relpath: grid_7000_2000_500_500.png
+    md5: 31d514a5ccf3110eafbb15c7f637752c
+    size: 560737
+    cloud:
+      azure:
+        etag: '"0x8DB5319E157F7F5"'
+        version_id: '2023-05-12T18:51:22.3003672Z'
+  - relpath: grid_7000_2000_500_500.tif
+    md5: 7d2967b827a12c35808d9c90a0e623f4
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319E731CFD4"'
+        version_id: '2023-05-12T18:51:32.1156324Z'
+  - relpath: grid_7000_2500_500_500.png
+    md5: 0dc5e5b2744ef66f73dd3338d6db1fe8
+    size: 552502
+    cloud:
+      azure:
+        etag: '"0x8DB5319E70CC12B"'
+        version_id: '2023-05-12T18:51:31.8727739Z'
+  - relpath: grid_7000_2500_500_500.tif
+    md5: 5f59ac937c1ae16c58d74b686aa424ae
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319F48CFCCF"'
+        version_id: '2023-05-12T18:51:54.5235423Z'
+  - relpath: grid_7000_3000_500_500.png
+    md5: 0d3ed78ce666d874548a7f7f1003100a
+    size: 552490
+    cloud:
+      azure:
+        etag: '"0x8DB5319E6271762"'
+        version_id: '2023-05-12T18:51:30.3676530Z'
+  - relpath: grid_7000_3000_500_500.tif
+    md5: 8294442c53f2990b9b34beccf798c8ce
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319E3AB2BE4"'
+        version_id: '2023-05-12T18:51:26.2010877Z'
+  - relpath: grid_7000_3500_500_500.png
+    md5: 3a5ace0f868aece7c52f90f8f3f5f2df
+    size: 551643
+    cloud:
+      azure:
+        etag: '"0x8DB5319EB81992F"'
+        version_id: '2023-05-12T18:51:39.3494079Z'
+  - relpath: grid_7000_3500_500_500.tif
+    md5: 771b21f6f9a3bdacfa5d8491c946ba71
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319E30C6B90"'
+        version_id: '2023-05-12T18:51:25.1606957Z'
+  - relpath: grid_7000_4000_500_500.png
+    md5: 71d8069017c92dcbf7d901e4c2b18a43
+    size: 557964
+    cloud:
+      azure:
+        etag: '"0x8DB5319F5C1A52E"'
+        version_id: '2023-05-12T18:51:56.5473609Z'
+  - relpath: grid_7000_4000_500_500.tif
+    md5: fd22761c9ee5d8a33150619ee68a9462
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319EB9D3360"'
+        version_id: '2023-05-12T18:51:39.5312998Z'
+  - relpath: grid_7000_4500_500_500.png
+    md5: 1ebfcda507f4fb3cde20af43af95291c
+    size: 550783
+    cloud:
+      azure:
+        etag: '"0x8DB5319E4B7B8CF"'
+        version_id: '2023-05-12T18:51:27.9600607Z'
+  - relpath: grid_7000_4500_500_500.tif
+    md5: bb3f4af6751ece36f277639609b35155
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319E0CB5D5D"'
+        version_id: '2023-05-12T18:51:21.3779053Z'
+  - relpath: grid_7000_5000_500_500.png
+    md5: e03151dc89708be89c0923409401f2f6
+    size: 536230
+    cloud:
+      azure:
+        etag: '"0x8DB5319EDF19F94"'
+        version_id: '2023-05-12T18:51:43.4390180Z'
+  - relpath: grid_7000_5000_500_500.tif
+    md5: aaf90784ad2ba6897c3ea29c59d5748f
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319F51D1954"'
+        version_id: '2023-05-12T18:51:55.4679908Z'
+  - relpath: grid_7000_500_500_500.png
+    md5: 25d7701ea1f3c3a7b59b2abc4b1afd09
+    size: 560560
+    cloud:
+      azure:
+        etag: '"0x8DB5319E4AA9B61"'
+        version_id: '2023-05-12T18:51:27.8741105Z'
+  - relpath: grid_7000_500_500_500.tif
+    md5: 3e7a636fd609de760ba56ca891f58313
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319F0F3E511"'
+        version_id: '2023-05-12T18:51:48.4870689Z'
+  - relpath: grid_7000_5500_500_500.png
+    md5: 8282ab9cded99f31e45eb441404a22b5
+    size: 560059
+    cloud:
+      azure:
+        etag: '"0x8DB5319E69C5CEF"'
+        version_id: '2023-05-12T18:51:31.1362047Z'
+  - relpath: grid_7000_5500_500_500.tif
+    md5: d35b106a351dc91381a52cb7db07fd01
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319F7899DD9"'
+        version_id: '2023-05-12T18:51:59.5356140Z'
+  - relpath: grid_7000_6000_500_500.png
+    md5: 2ff2e04378e51066314b29f4d5d3a906
+    size: 576501
+    cloud:
+      azure:
+        etag: '"0x8DB5319E931C01A"'
+        version_id: '2023-05-12T18:51:35.4716722Z'
+  - relpath: grid_7000_6000_500_500.tif
+    md5: 0c47d7a0660cda4b0afca6810f6e1bd4
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319EEEE295A"'
+        version_id: '2023-05-12T18:51:45.0950506Z'
+  - relpath: grid_7000_6500_500_500.png
+    md5: 01fe99ecbce3cdeb8345b3f1e0a889d3
+    size: 570985
+    cloud:
+      azure:
+        etag: '"0x8DB5319E340BA2F"'
+        version_id: '2023-05-12T18:51:25.5024959Z'
+  - relpath: grid_7000_6500_500_500.tif
+    md5: ed8ab94298237e46169ce33c867e9bb2
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319EC1ED315"'
+        version_id: '2023-05-12T18:51:40.3808048Z'
+  - relpath: grid_7000_7000_500_500.png
+    md5: 1d081bd32a59547838a1f7aa2ad40cbc
+    size: 560260
+    cloud:
+      azure:
+        etag: '"0x8DB5319E2A88890"'
+        version_id: '2023-05-12T18:51:24.5050784Z'
+  - relpath: grid_7000_7000_500_500.tif
+    md5: daf4b24874e19e5161b5d5c72fa4f18e
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319F6CECE4D"'
+        version_id: '2023-05-12T18:51:58.3103325Z'
+  - relpath: grid_7000_7500_500_500.png
+    md5: 03d6b4766fb74741179d57ccb36da7e5
+    size: 561758
+    cloud:
+      azure:
+        etag: '"0x8DB5319F40DF4C0"'
+        version_id: '2023-05-12T18:51:53.6910288Z'
+  - relpath: grid_7000_7500_500_500.tif
+    md5: 0258c4f3d4fad183ead27e7ddf1fa4c6
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319F1CA27D8"'
+        version_id: '2023-05-12T18:51:49.8922482Z'
+  - relpath: grid_7000_8000_500_500.png
+    md5: c836a4e95532edbfa4c27fb1b83f200a
+    size: 558210
+    cloud:
+      azure:
+        etag: '"0x8DB5319F7D1718E"'
+        version_id: '2023-05-12T18:52:00.0053406Z'
+  - relpath: grid_7000_8000_500_500.tif
+    md5: 0ae67f9347f8fecb3966a31f02358b0b
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319F25ED784"'
+        version_id: '2023-05-12T18:51:50.8666786Z'
+  - relpath: grid_7000_8500_500_500.png
+    md5: 08fce25b9ed7ce4881a2912fda560266
+    size: 547725
+    cloud:
+      azure:
+        etag: '"0x8DB5319E7AC92C6"'
+        version_id: '2023-05-12T18:51:32.9201622Z'
+  - relpath: grid_7000_8500_500_500.tif
+    md5: 3fcce9a53ddd135f547bc60d36fb4a03
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319F4738530"'
+        version_id: '2023-05-12T18:51:54.3566400Z'
+  - relpath: grid_7000_9000_500_500.png
+    md5: e54e3f0b41508e033b4711790e364430
+    size: 545215
+    cloud:
+      azure:
+        etag: '"0x8DB5319EEC2DA01"'
+        version_id: '2023-05-12T18:51:44.8112167Z'
+  - relpath: grid_7000_9000_500_500.tif
+    md5: ab13eb8b5c7e67902ff9c5f80b2eb64e
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319EF8AC70F"'
+        version_id: '2023-05-12T18:51:46.1204511Z'
+  - relpath: grid_7000_9500_500_500.png
+    md5: 5d338b7ce631666f82fc689202568da5
+    size: 553648
+    cloud:
+      azure:
+        etag: '"0x8DB5319F0D2CD6E"'
+        version_id: '2023-05-12T18:51:48.2711948Z'
+  - relpath: grid_7000_9500_500_500.tif
+    md5: c91d8113f4d0638358228dd9e3873acd
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319EF0C0D16"'
+        version_id: '2023-05-12T18:51:45.2899366Z'
+  - relpath: grid_7500_0_500_500.png
+    md5: 1279bbb9a16539b42e0027d80df46d47
+    size: 557860
+    cloud:
+      azure:
+        etag: '"0x8DB5319EE88E6F5"'
+        version_id: '2023-05-12T18:51:44.4304389Z'
+  - relpath: grid_7500_0_500_500.tif
+    md5: 1dd68c464ce7e51be7f9bfb0029eb6f6
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319E220CF38"'
+        version_id: '2023-05-12T18:51:23.6155976Z'
+  - relpath: grid_7500_1000_500_500.png
+    md5: 79edafc732325e75ef91c123c29489a2
+    size: 572023
+    cloud:
+      azure:
+        etag: '"0x8DB5319E47207A3"'
+        version_id: '2023-05-12T18:51:27.5033267Z'
+  - relpath: grid_7500_1000_500_500.tif
+    md5: 431e75da5288309b2c3fe906f06b7442
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319F809902F"'
+        version_id: '2023-05-12T18:52:00.3741261Z'
+  - relpath: grid_7500_1500_500_500.png
+    md5: 33abdc752bdafe8cad6f697b6a479fab
+    size: 566782
+    cloud:
+      azure:
+        etag: '"0x8DB5319E2DD2540"'
+        version_id: '2023-05-12T18:51:24.8498768Z'
+  - relpath: grid_7500_1500_500_500.tif
+    md5: 3260c5fa270fe47f164fab0dc4526e40
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319F34E1CD3"'
+        version_id: '2023-05-12T18:51:52.4337635Z'
+  - relpath: grid_7500_2000_500_500.png
+    md5: dd9b99ada480a51a6ad1012ad28a9cd7
+    size: 562523
+    cloud:
+      azure:
+        etag: '"0x8DB5319F2773DE3"'
+        version_id: '2023-05-12T18:51:51.0255859Z'
+  - relpath: grid_7500_2000_500_500.tif
+    md5: fc2b03d5ad2f16b4af7df991e8d58c4b
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319E5DCFA25"'
+        version_id: '2023-05-12T18:51:29.8819381Z'
+  - relpath: grid_7500_2500_500_500.png
+    md5: f0452f6bf68e78142d583e94e7bc014a
+    size: 562130
+    cloud:
+      azure:
+        etag: '"0x8DB5319E8C9E60F"'
+        version_id: '2023-05-12T18:51:34.7910697Z'
+  - relpath: grid_7500_2500_500_500.tif
+    md5: 8b9f2879febfd3f17bb6d129607e16fa
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319F6FDC66B"'
+        version_id: '2023-05-12T18:51:58.6191503Z'
+  - relpath: grid_7500_3000_500_500.png
+    md5: b060107e311fa7bc95ca800808d95f46
+    size: 559072
+    cloud:
+      azure:
+        etag: '"0x8DB5319F72A4E0A"'
+        version_id: '2023-05-12T18:51:58.9099802Z'
+  - relpath: grid_7500_3000_500_500.tif
+    md5: 2542361c33c9329079895753d5185e77
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319E5F49D43"'
+        version_id: '2023-05-12T18:51:30.0368467Z'
+  - relpath: grid_7500_3500_500_500.png
+    md5: 254bbb60a050d810a59792ba6510d8ae
+    size: 558029
+    cloud:
+      azure:
+        etag: '"0x8DB5319E37A8639"'
+        version_id: '2023-05-12T18:51:25.8812745Z'
+  - relpath: grid_7500_3500_500_500.tif
+    md5: d380a259fa6acc6708036c4ad6f39e79
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319E4BE6E93"'
+        version_id: '2023-05-12T18:51:28.0040355Z'
+  - relpath: grid_7500_4000_500_500.png
+    md5: 5822ee589735bf254a16c21d8609df9d
+    size: 568095
+    cloud:
+      azure:
+        etag: '"0x8DB5319E950B520"'
+        version_id: '2023-05-12T18:51:35.6735536Z'
+  - relpath: grid_7500_4000_500_500.tif
+    md5: de2739c5a575d2be7620534c0c8fc3b6
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319EAB2F659"'
+        version_id: '2023-05-12T18:51:37.9951977Z'
+  - relpath: grid_7500_4500_500_500.png
+    md5: 855a5c43f92b01978fd7f7ba3db2c134
+    size: 537893
+    cloud:
+      azure:
+        etag: '"0x8DB5319E847F83B"'
+        version_id: '2023-05-12T18:51:33.9385675Z'
+  - relpath: grid_7500_4500_500_500.tif
+    md5: dc28bc03ccc523c080f46343a502300a
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319F78AFD2E"'
+        version_id: '2023-05-12T18:51:59.5436094Z'
+  - relpath: grid_7500_5000_500_500.png
+    md5: 9ce031bd4e0839b9dbcb3a9c62e482a7
+    size: 539954
+    cloud:
+      azure:
+        etag: '"0x8DB5319E4307495"'
+        version_id: '2023-05-12T18:51:27.0735781Z'
+  - relpath: grid_7500_5000_500_500.tif
+    md5: a12ccc297a9cfe799b2e7bb91038fc97
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319E6F3979E"'
+        version_id: '2023-05-12T18:51:31.7078702Z'
+  - relpath: grid_7500_500_500_500.png
+    md5: 123119f7714c1ddf9463c329047457bf
+    size: 557237
+    cloud:
+      azure:
+        etag: '"0x8DB5319E34FD323"'
+        version_id: '2023-05-12T18:51:25.6014387Z'
+  - relpath: grid_7500_500_500_500.tif
+    md5: 06801464e934f02f0d2b55887b178cd9
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319F5A93ECF"'
+        version_id: '2023-05-12T18:51:56.3874534Z'
+  - relpath: grid_7500_5500_500_500.png
+    md5: b1e71b4ddd2eb31b12762405eda020ca
+    size: 548712
+    cloud:
+      azure:
+        etag: '"0x8DB5319E6B18F6E"'
+        version_id: '2023-05-12T18:51:31.2751230Z'
+  - relpath: grid_7500_5500_500_500.tif
+    md5: 432ae7ef88a03d5b70ca047ab8a2117b
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319EB54C383"'
+        version_id: '2023-05-12T18:51:39.0565779Z'
+  - relpath: grid_7500_6000_500_500.png
+    md5: d6a1872a5dca6eaae9c458ed6e92da9c
+    size: 561331
+    cloud:
+      azure:
+        etag: '"0x8DB5319EB53160B"'
+        version_id: '2023-05-12T18:51:39.0445851Z'
+  - relpath: grid_7500_6000_500_500.tif
+    md5: 40010cf7a2cc8c311794661e70ec183b
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319E312AC2F"'
+        version_id: '2023-05-12T18:51:25.2006719Z'
+  - relpath: grid_7500_6500_500_500.png
+    md5: 34710d55b142b4e474a29201a6c5090b
+    size: 568208
+    cloud:
+      azure:
+        etag: '"0x8DB5319F6136271"'
+        version_id: '2023-05-12T18:51:57.0820481Z'
+  - relpath: grid_7500_6500_500_500.tif
+    md5: ee5c97d842a7a2f1f166f2f0b7427210
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319F3B66BFD"'
+        version_id: '2023-05-12T18:51:53.1173645Z'
+  - relpath: grid_7500_7000_500_500.png
+    md5: 437a605794f40a6e705026dbe7ab9621
+    size: 569762
+    cloud:
+      azure:
+        etag: '"0x8DB5319F7E3973F"'
+        version_id: '2023-05-12T18:52:00.1242703Z'
+  - relpath: grid_7500_7000_500_500.tif
+    md5: a5c5f3b2a666cadb7c2c42f78834b333
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319F7F82DA8"'
+        version_id: '2023-05-12T18:52:00.2591928Z'
+  - relpath: grid_7500_7500_500_500.png
+    md5: 51687586683dc1d93a7c66886dbc0a7a
+    size: 550457
+    cloud:
+      azure:
+        etag: '"0x8DB5319EACA4B6B"'
+        version_id: '2023-05-12T18:51:38.1481083Z'
+  - relpath: grid_7500_7500_500_500.tif
+    md5: c77c750ec81a243142968824dd2b0c81
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319F3CC61B1"'
+        version_id: '2023-05-12T18:51:53.2622803Z'
+  - relpath: grid_7500_8000_500_500.png
+    md5: 65e090f8e89eecb4c404f1cff252efbe
+    size: 541568
+    cloud:
+      azure:
+        etag: '"0x8DB5319F1243CA8"'
+        version_id: '2023-05-12T18:51:48.8038840Z'
+  - relpath: grid_7500_8000_500_500.tif
+    md5: 2f8f4d920d8647e26a6c459a248c1b2a
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319EAF06B60"'
+        version_id: '2023-05-12T18:51:38.3989627Z'
+  - relpath: grid_7500_8500_500_500.png
+    md5: 7f5a16b1ce9069b33f23dfee97fe1e1e
+    size: 542460
+    cloud:
+      azure:
+        etag: '"0x8DB5319F2E81741"'
+        version_id: '2023-05-12T18:51:51.7651537Z'
+  - relpath: grid_7500_8500_500_500.tif
+    md5: bb8b00fea9bdf67bb4daebaafbdda77f
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319EC74AE64"'
+        version_id: '2023-05-12T18:51:40.9424756Z'
+  - relpath: grid_7500_9000_500_500.png
+    md5: dcdd2fcac62d29ec1b79da02295b6bcd
+    size: 536663
+    cloud:
+      azure:
+        etag: '"0x8DB5319E52B77F3"'
+        version_id: '2023-05-12T18:51:28.7186179Z'
+  - relpath: grid_7500_9000_500_500.tif
+    md5: 5ed74408502ca8a7b417fc9574d8c4b7
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319E41DB2B1"'
+        version_id: '2023-05-12T18:51:26.9506497Z'
+  - relpath: grid_7500_9500_500_500.png
+    md5: e409d5c960b23a90d2c8c3969c6e3adf
+    size: 537593
+    cloud:
+      azure:
+        etag: '"0x8DB5319F7E5E0DD"'
+        version_id: '2023-05-12T18:52:00.1392621Z'
+  - relpath: grid_7500_9500_500_500.tif
+    md5: ca73f44f2d024b1fd42b559dd5575a01
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319E4914AC9"'
+        version_id: '2023-05-12T18:51:27.7092058Z'
+  - relpath: grid_8000_0_500_500.png
+    md5: 37ef95c402219d4b040f6d2b7b2228fe
+    size: 552398
+    cloud:
+      azure:
+        etag: '"0x8DB5319E8E64374"'
+        version_id: '2023-05-12T18:51:34.9759620Z'
+  - relpath: grid_8000_0_500_500.tif
+    md5: e74b36ab78e1b6092782dcf1decf5dfd
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319E231E3AC"'
+        version_id: '2023-05-12T18:51:23.7285318Z'
+  - relpath: grid_8000_1000_500_500.png
+    md5: e3c5ffb8414821b533296874050b7bee
+    size: 552639
+    cloud:
+      azure:
+        etag: '"0x8DB5319E7847756"'
+        version_id: '2023-05-12T18:51:32.6573158Z'
+  - relpath: grid_8000_1000_500_500.tif
+    md5: 75b44f7e6298e5f005fceb7bd4f0e270
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319F29AC627"'
+        version_id: '2023-05-12T18:51:51.2594494Z'
+  - relpath: grid_8000_1500_500_500.png
+    md5: 5bb7f3e224847247fc927eb4bd0ba8b4
+    size: 554531
+    cloud:
+      azure:
+        etag: '"0x8DB5319F7861BF4"'
+        version_id: '2023-05-12T18:51:59.5116292Z'
+  - relpath: grid_8000_1500_500_500.tif
+    md5: 9e8d8fb974ba4b0059e8201429b9c919
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319F18F2377"'
+        version_id: '2023-05-12T18:51:49.5044743Z'
+  - relpath: grid_8000_2000_500_500.png
+    md5: 16f14a8a5ae36cf2f949b13e7e45c6f9
+    size: 558415
+    cloud:
+      azure:
+        etag: '"0x8DB5319F4F68446"'
+        version_id: '2023-05-12T18:51:55.2151382Z'
+  - relpath: grid_8000_2000_500_500.tif
+    md5: 12c2d5828ed68687e23937a94d5c4dc3
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319F52EC9F3"'
+        version_id: '2023-05-12T18:51:55.5849240Z'
+  - relpath: grid_8000_2500_500_500.png
+    md5: 108fd378913b5726bc79414fd12ada6d
+    size: 563452
+    cloud:
+      azure:
+        etag: '"0x8DB5319EC61295C"'
+        version_id: '2023-05-12T18:51:40.8145516Z'
+  - relpath: grid_8000_2500_500_500.tif
+    md5: 8d8ed27ea64822b69186395d00c5d7da
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319ECE40162"'
+        version_id: '2023-05-12T18:51:41.6720498Z'
+  - relpath: grid_8000_3000_500_500.png
+    md5: e990ea03fb19bbc2e5962aac7ee01041
+    size: 557654
+    cloud:
+      azure:
+        etag: '"0x8DB5319E4194695"'
+        version_id: '2023-05-12T18:51:26.9216677Z'
+  - relpath: grid_8000_3000_500_500.tif
+    md5: 7ed94d00928fdd0e28cd23c0e50a2066
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319EE7DEC20"'
+        version_id: '2023-05-12T18:51:44.3584816Z'
+  - relpath: grid_8000_3500_500_500.png
+    md5: 26b82924308a979938eaa448db1658d9
+    size: 556869
+    cloud:
+      azure:
+        etag: '"0x8DB5319F302C734"'
+        version_id: '2023-05-12T18:51:51.9400516Z'
+  - relpath: grid_8000_3500_500_500.tif
+    md5: dbd9eef8e22ad601e6235718896d6de2
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319F6F64D7F"'
+        version_id: '2023-05-12T18:51:58.5691791Z'
+  - relpath: grid_8000_4000_500_500.png
+    md5: 75b86376df337e13ac5037e69035ef86
+    size: 548740
+    cloud:
+      azure:
+        etag: '"0x8DB5319E34BB511"'
+        version_id: '2023-05-12T18:51:25.5744545Z'
+  - relpath: grid_8000_4000_500_500.tif
+    md5: 7896338ff6a49d94e2485704eddf487a
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319E17F7737"'
+        version_id: '2023-05-12T18:51:22.5582151Z'
+  - relpath: grid_8000_4500_500_500.png
+    md5: 34878843fcb01cd6b0f402e3fb87096d
+    size: 552018
+    cloud:
+      azure:
+        etag: '"0x8DB5319E35E4FDC"'
+        version_id: '2023-05-12T18:51:25.6963820Z'
+  - relpath: grid_8000_4500_500_500.tif
+    md5: 12ae27f95a8d1fee0a99a0e577b19aaf
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319F5E0E847"'
+        version_id: '2023-05-12T18:51:56.7512407Z'
+  - relpath: grid_8000_5000_500_500.png
+    md5: 6af0f0112c6e4e2afbebdd3738663292
+    size: 548879
+    cloud:
+      azure:
+        etag: '"0x8DB5319F35FCD67"'
+        version_id: '2023-05-12T18:51:52.5506950Z'
+  - relpath: grid_8000_5000_500_500.tif
+    md5: 63281bb93a649907f228131f7842057d
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319F80B3D98"'
+        version_id: '2023-05-12T18:52:00.3841192Z'
+  - relpath: grid_8000_500_500_500.png
+    md5: 15a186a64390eeb120b620c61ee427b3
+    size: 557891
+    cloud:
+      azure:
+        etag: '"0x8DB5319EDEFA414"'
+        version_id: '2023-05-12T18:51:43.4260260Z'
+  - relpath: grid_8000_500_500_500.tif
+    md5: 69daef9d03371289ce3ae2c8b5feeb50
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319F76A33AC"'
+        version_id: '2023-05-12T18:51:59.3297353Z'
+  - relpath: grid_8000_5500_500_500.png
+    md5: 368a0f06e01d0705f783890666b642f9
+    size: 542908
+    cloud:
+      azure:
+        etag: '"0x8DB5319F5FECC12"'
+        version_id: '2023-05-12T18:51:56.9471266Z'
+  - relpath: grid_8000_5500_500_500.tif
+    md5: e1e54aca5a43180c458ad17c6e52f23d
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319E2DA1882"'
+        version_id: '2023-05-12T18:51:24.8298898Z'
+  - relpath: grid_8000_6000_500_500.png
+    md5: 77170849bd5346b180f3b4edae477613
+    size: 549911
+    cloud:
+      azure:
+        etag: '"0x8DB5319E56C6ECF"'
+        version_id: '2023-05-12T18:51:29.1453677Z'
+  - relpath: grid_8000_6000_500_500.tif
+    md5: 5ae54043e567fe385aebd832d276e568
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319E406ABAE"'
+        version_id: '2023-05-12T18:51:26.7997374Z'
+  - relpath: grid_8000_6500_500_500.png
+    md5: da50d2adca66d5929d138b213392746e
+    size: 562437
+    cloud:
+      azure:
+        etag: '"0x8DB5319F2EB4B19"'
+        version_id: '2023-05-12T18:51:51.7861417Z'
+  - relpath: grid_8000_6500_500_500.tif
+    md5: fb37be0534dcccf9f48114917aa4e01a
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319EE0C9D9B"'
+        version_id: '2023-05-12T18:51:43.6159147Z'
+  - relpath: grid_8000_7000_500_500.png
+    md5: 7d64cd3dff797a3b597a58e5a4166e51
+    size: 557719
+    cloud:
+      azure:
+        etag: '"0x8DB5319E4E79B38"'
+        version_id: '2023-05-12T18:51:28.2738760Z'
+  - relpath: grid_8000_7000_500_500.tif
+    md5: 5e93e11603a64f06e7b6eaac4c460b9e
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319F081AC58"'
+        version_id: '2023-05-12T18:51:47.7395055Z'
+  - relpath: grid_8000_7500_500_500.png
+    md5: 8cd55445260c941e2ca9a06b2e3b5fc6
+    size: 564636
+    cloud:
+      azure:
+        etag: '"0x8DB5319E8CE2B31"'
+        version_id: '2023-05-12T18:51:34.8190528Z'
+  - relpath: grid_8000_7500_500_500.tif
+    md5: 1ba4d0ba6c93e62236e49013e80b6534
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319EBAA77C8"'
+        version_id: '2023-05-12T18:51:39.6172504Z'
+  - relpath: grid_8000_8000_500_500.png
+    md5: ba5e9edeb4d6551d4e4f5bdf53485e7f
+    size: 546603
+    cloud:
+      azure:
+        etag: '"0x8DB5319E128FFBB"'
+        version_id: '2023-05-12T18:51:21.9915467Z'
+  - relpath: grid_8000_8000_500_500.tif
+    md5: ecb055ad75ff28454d431d2af2810699
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319E3E6F36F"'
+        version_id: '2023-05-12T18:51:26.5928585Z'
+  - relpath: grid_8000_8500_500_500.png
+    md5: 90e629e4754e2b1dca4b67f68c292601
+    size: 553020
+    cloud:
+      azure:
+        etag: '"0x8DB5319F27F04EE"'
+        version_id: '2023-05-12T18:51:51.0775562Z'
+  - relpath: grid_8000_8500_500_500.tif
+    md5: 2ccc77f3e93cbef1a6f3ad66208b875c
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319E5E49A1A"'
+        version_id: '2023-05-12T18:51:29.9319082Z'
+  - relpath: grid_8000_9000_500_500.png
+    md5: bd890fbae79ff78237b927ee5b2b04c1
+    size: 541398
+    cloud:
+      azure:
+        etag: '"0x8DB5319EB7406A4"'
+        version_id: '2023-05-12T18:51:39.2604596Z'
+  - relpath: grid_8000_9000_500_500.tif
+    md5: 8bfccaecd77d89dbc01d47ffc71cf4cb
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319E3EEE17D"'
+        version_id: '2023-05-12T18:51:26.6448297Z'
+  - relpath: grid_8000_9500_500_500.png
+    md5: ae9751ba6f91b9f6142beabbb7822254
+    size: 544385
+    cloud:
+      azure:
+        etag: '"0x8DB5319EDD5DE5B"'
+        version_id: '2023-05-12T18:51:43.2571243Z'
+  - relpath: grid_8000_9500_500_500.tif
+    md5: c7749e20549f82cc400167cb4b9c9594
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319E40A2DA1"'
+        version_id: '2023-05-12T18:51:26.8227249Z'
+  - relpath: grid_8500_0_500_500.png
+    md5: dd402460fc82d49e8389f422f202d3c6
+    size: 545442
+    cloud:
+      azure:
+        etag: '"0x8DB5319E6F6F27F"'
+        version_id: '2023-05-12T18:51:31.7308581Z'
+  - relpath: grid_8500_0_500_500.tif
+    md5: f72b79dfd6e85c9d5c1b350589acd989
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319F607083C"'
+        version_id: '2023-05-12T18:51:57.0010956Z'
+  - relpath: grid_8500_1000_500_500.png
+    md5: 6272474e58bd8ab2c28b8d28dfb88dfd
+    size: 564744
+    cloud:
+      azure:
+        etag: '"0x8DB5319F47AD716"'
+        version_id: '2023-05-12T18:51:54.4046118Z'
+  - relpath: grid_8500_1000_500_500.tif
+    md5: 6c6628014f94f53ce3364c77609cec8d
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319EB126D32"'
+        version_id: '2023-05-12T18:51:38.6218318Z'
+  - relpath: grid_8500_1500_500_500.png
+    md5: 78269b93334247502dc7422ebb756827
+    size: 557801
+    cloud:
+      azure:
+        etag: '"0x8DB5319ED6E5265"'
+        version_id: '2023-05-12T18:51:42.5785205Z'
+  - relpath: grid_8500_1500_500_500.tif
+    md5: 25b735e9f3b0ce6dae39ec855316abd0
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319EE920D4F"'
+        version_id: '2023-05-12T18:51:44.4904031Z'
+  - relpath: grid_8500_2000_500_500.png
+    md5: f58d1059339e47035588fd8dc7aecea7
+    size: 550014
+    cloud:
+      azure:
+        etag: '"0x8DB5319E93DCC37"'
+        version_id: '2023-05-12T18:51:35.5496263Z'
+  - relpath: grid_8500_2000_500_500.tif
+    md5: c530fb3b2a6c69b8309106ae6167d53a
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319F79BC390"'
+        version_id: '2023-05-12T18:51:59.6535456Z'
+  - relpath: grid_8500_2500_500_500.png
+    md5: bd12a390eff826548900ad3865d61755
+    size: 551797
+    cloud:
+      azure:
+        etag: '"0x8DB5319F7C760EB"'
+        version_id: '2023-05-12T18:51:59.9403792Z'
+  - relpath: grid_8500_2500_500_500.tif
+    md5: 4847ed05aa2ec169107d95489547a8dd
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319F1385DE6"'
+        version_id: '2023-05-12T18:51:48.9358070Z'
+  - relpath: grid_8500_3000_500_500.png
+    md5: 5f6503a1fbc6d2a2ab19311c8e359081
+    size: 552504
+    cloud:
+      azure:
+        etag: '"0x8DB5319E5D755AE"'
+        version_id: '2023-05-12T18:51:29.8449598Z'
+  - relpath: grid_8500_3000_500_500.tif
+    md5: 6fa04ab7f8f3c3ce19c4f071558320e1
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319E22F9A20"'
+        version_id: '2023-05-12T18:51:23.7125424Z'
+  - relpath: grid_8500_3500_500_500.png
+    md5: 593da81aea4bbf0696ffb5a6ac227de3
+    size: 545027
+    cloud:
+      azure:
+        etag: '"0x8DB5319E373A974"'
+        version_id: '2023-05-12T18:51:25.8363012Z'
+  - relpath: grid_8500_3500_500_500.tif
+    md5: 07bc8eafd89e34fc277ff3025dc0f8a2
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319E99F3E97"'
+        version_id: '2023-05-12T18:51:36.1882535Z'
+  - relpath: grid_8500_4000_500_500.png
+    md5: 5123dc82d0ea37dc240391edb9d418ca
+    size: 560438
+    cloud:
+      azure:
+        etag: '"0x8DB5319ECD5ABAC"'
+        version_id: '2023-05-12T18:51:41.5781052Z'
+  - relpath: grid_8500_4000_500_500.tif
+    md5: 8990c3d8c2a0b9d5f383bcf9d7921605
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319F79A8B3E"'
+        version_id: '2023-05-12T18:51:59.6455502Z'
+  - relpath: grid_8500_4500_500_500.png
+    md5: 00d504a4b949e5bc5a14400db063b34a
+    size: 567342
+    cloud:
+      azure:
+        etag: '"0x8DB5319E4D6D4E5"'
+        version_id: '2023-05-12T18:51:28.1649406Z'
+  - relpath: grid_8500_4500_500_500.tif
+    md5: 701c05f0421312d381e91db284cd45f4
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319F21751F2"'
+        version_id: '2023-05-12T18:51:50.3969538Z'
+  - relpath: grid_8500_5000_500_500.png
+    md5: feb46c6cfabbebafe644b5f9cb65801e
+    size: 549418
+    cloud:
+      azure:
+        etag: '"0x8DB5319F412AF02"'
+        version_id: '2023-05-12T18:51:53.7230100Z'
+  - relpath: grid_8500_5000_500_500.tif
+    md5: 37aa643c262f7edcc2fefc661f15531e
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319E78317FD"'
+        version_id: '2023-05-12T18:51:32.6483213Z'
+  - relpath: grid_8500_500_500_500.png
+    md5: e7beae64b6e67d11c5c4e220c2dbd086
+    size: 549950
+    cloud:
+      azure:
+        etag: '"0x8DB5319E3309002"'
+        version_id: '2023-05-12T18:51:25.3965586Z'
+  - relpath: grid_8500_500_500_500.tif
+    md5: ca37a56ffcee7a9771972e596fed9d5d
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319E8024715"'
+        version_id: '2023-05-12T18:51:33.4818341Z'
+  - relpath: grid_8500_5500_500_500.png
+    md5: db97205661578d2d471fffac62bad614
+    size: 546465
+    cloud:
+      azure:
+        etag: '"0x8DB5319E3EA2743"'
+        version_id: '2023-05-12T18:51:26.6138467Z'
+  - relpath: grid_8500_5500_500_500.tif
+    md5: 1fbe476492d1f54aa55896c0960035e0
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319E61E180F"'
+        version_id: '2023-05-12T18:51:30.3086879Z'
+  - relpath: grid_8500_6000_500_500.png
+    md5: 01dd8d4867e0e615e8770fac56ede482
+    size: 554773
+    cloud:
+      azure:
+        etag: '"0x8DB5319E1C4DA4F"'
+        version_id: '2023-05-12T18:51:23.0129503Z'
+  - relpath: grid_8500_6000_500_500.tif
+    md5: 47a466cdadf7ad5d838b2bb1fba9efe9
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319EBDC07AB"'
+        version_id: '2023-05-12T18:51:39.9420603Z'
+  - relpath: grid_8500_6500_500_500.png
+    md5: f6ef8a6cfa4f4fcfc98be7d6931b578e
+    size: 558715
+    cloud:
+      azure:
+        etag: '"0x8DB5319EEB5E3A8"'
+        version_id: '2023-05-12T18:51:44.7252664Z'
+  - relpath: grid_8500_6500_500_500.tif
+    md5: 2bb8d0717d62c57705da18b116e5d279
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319EC33DE86"'
+        version_id: '2023-05-12T18:51:40.5177238Z'
+  - relpath: grid_8500_7000_500_500.png
+    md5: 617d9ff2df6a927ecd979518167d6794
+    size: 555644
+    cloud:
+      azure:
+        etag: '"0x8DB5319E69F90C4"'
+        version_id: '2023-05-12T18:51:31.1571924Z'
+  - relpath: grid_8500_7000_500_500.tif
+    md5: 9bdd62748db4e0ace58e1cb28f75da65
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319F7F2D745"'
+        version_id: '2023-05-12T18:52:00.2242133Z'
+  - relpath: grid_8500_7500_500_500.png
+    md5: ee2ad2597948615b55857dcfe9918f8f
+    size: 566596
+    cloud:
+      azure:
+        etag: '"0x8DB5319F8012CFD"'
+        version_id: '2023-05-12T18:52:00.3181581Z'
+  - relpath: grid_8500_7500_500_500.tif
+    md5: ad9a00fd2e36043db081f39e7f28c19a
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319F7EAC221"'
+        version_id: '2023-05-12T18:52:00.1712433Z'
+  - relpath: grid_8500_8000_500_500.png
+    md5: 3588fe29d18b904913815118d1a5cd16
+    size: 557232
+    cloud:
+      azure:
+        etag: '"0x8DB5319E401F184"'
+        version_id: '2023-05-12T18:51:26.7687572Z'
+  - relpath: grid_8500_8000_500_500.tif
+    md5: 55e5db9f5c0625ab1c1ec188a134414b
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319F642A8BE"'
+        version_id: '2023-05-12T18:51:57.3918668Z'
+  - relpath: grid_8500_8500_500_500.png
+    md5: b874e6302dc7cff8b9fc122d0f695d6d
+    size: 550734
+    cloud:
+      azure:
+        etag: '"0x8DB5319E67C5698"'
+        version_id: '2023-05-12T18:51:30.9263272Z'
+  - relpath: grid_8500_8500_500_500.tif
+    md5: 045870bef24213de3b9182526e9e24b3
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319E15CB22E"'
+        version_id: '2023-05-12T18:51:22.3313473Z'
+  - relpath: grid_8500_9000_500_500.png
+    md5: 0e0272cdc159bc9e46eecde1c6363437
+    size: 546250
+    cloud:
+      azure:
+        etag: '"0x8DB5319ECBC821D"'
+        version_id: '2023-05-12T18:51:41.4142018Z'
+  - relpath: grid_8500_9000_500_500.tif
+    md5: bdff58f1e0c908e77f1ffdf57c057663
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319E837CE14"'
+        version_id: '2023-05-12T18:51:33.8326308Z'
+  - relpath: grid_8500_9500_500_500.png
+    md5: 9d592dd1a77c7e04adfbf2417ff6e4e0
+    size: 540639
+    cloud:
+      azure:
+        etag: '"0x8DB5319E373D079"'
+        version_id: '2023-05-12T18:51:25.8373001Z'
+  - relpath: grid_8500_9500_500_500.tif
+    md5: b87e856cc0a2330b49c8cfcde431f7c8
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319E2FA1ED6"'
+        version_id: '2023-05-12T18:51:25.0407664Z'
+  - relpath: grid_9000_0_500_500.png
+    md5: fa141ce521b50fd299d868ab22c908a6
+    size: 535496
+    cloud:
+      azure:
+        etag: '"0x8DB5319F3049BAF"'
+        version_id: '2023-05-12T18:51:51.9520447Z'
+  - relpath: grid_9000_0_500_500.tif
+    md5: 11e45982f768af63611a37b0062545b9
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319EACD0A34"'
+        version_id: '2023-05-12T18:51:38.1660996Z'
+  - relpath: grid_9000_1000_500_500.png
+    md5: d170ac6cd8ce50b77ccb4407a6245602
+    size: 562885
+    cloud:
+      azure:
+        etag: '"0x8DB5319F72FCB76"'
+        version_id: '2023-05-12T18:51:58.9459590Z'
+  - relpath: grid_9000_1000_500_500.tif
+    md5: 866f1b6e6e7e19b269b904bf67682bbf
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319F7DD2F9D"'
+        version_id: '2023-05-12T18:52:00.0832946Z'
+  - relpath: grid_9000_1500_500_500.png
+    md5: 15a26a658beca527ab34ae9e48eb7b19
+    size: 560972
+    cloud:
+      azure:
+        etag: '"0x8DB5319EB7B0A74"'
+        version_id: '2023-05-12T18:51:39.3064324Z'
+  - relpath: grid_9000_1500_500_500.tif
+    md5: a374a524fb72e74628bafeb2a51a1b44
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319E072753C"'
+        version_id: '2023-05-12T18:51:20.7952460Z'
+  - relpath: grid_9000_2000_500_500.png
+    md5: 54aad808a54b14a284e6092cc5351380
+    size: 562483
+    cloud:
+      azure:
+        etag: '"0x8DB5319E5FB04F3"'
+        version_id: '2023-05-12T18:51:30.0798219Z'
+  - relpath: grid_9000_2000_500_500.tif
+    md5: 943d440c824108cfd558a252ad370ddc
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319EAEA9FE4"'
+        version_id: '2023-05-12T18:51:38.3609851Z'
+  - relpath: grid_9000_2500_500_500.png
+    md5: 0e5296f50e71266584a5cf0f53cc690b
+    size: 553591
+    cloud:
+      azure:
+        etag: '"0x8DB5319EDE17568"'
+        version_id: '2023-05-12T18:51:43.3330808Z'
+  - relpath: grid_9000_2500_500_500.tif
+    md5: 15dc8a08e47563ac2d4651d81b861f09
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319E2200C06"'
+        version_id: '2023-05-12T18:51:23.6116012Z'
+  - relpath: grid_9000_3000_500_500.png
+    md5: 2c916ae5cff7e3ec9286ac145a520f2c
+    size: 547320
+    cloud:
+      azure:
+        etag: '"0x8DB5319F77F3F26"'
+        version_id: '2023-05-12T18:51:59.4666550Z'
+  - relpath: grid_9000_3000_500_500.tif
+    md5: c53eab6afb1199d73201123668398745
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319EE9EDCA7"'
+        version_id: '2023-05-12T18:51:44.5753542Z'
+  - relpath: grid_9000_3500_500_500.png
+    md5: 069f35664990f954ab3d33ab5bb80d33
+    size: 533301
+    cloud:
+      azure:
+        etag: '"0x8DB5319E8740AB5"'
+        version_id: '2023-05-12T18:51:34.2283988Z'
+  - relpath: grid_9000_3500_500_500.tif
+    md5: 4a94714b3a4e236bf2b2c4f93df5e7a3
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319E8CAD056"'
+        version_id: '2023-05-12T18:51:34.7960678Z'
+  - relpath: grid_9000_4000_500_500.png
+    md5: d1c749b588214d98c440f64c669a6360
+    size: 545101
+    cloud:
+      azure:
+        etag: '"0x8DB5319EBE13708"'
+        version_id: '2023-05-12T18:51:39.9760408Z'
+  - relpath: grid_9000_4000_500_500.tif
+    md5: d09a28ebf0be6756b8c475304d24bdd1
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319ED6886E8"'
+        version_id: '2023-05-12T18:51:42.5405432Z'
+  - relpath: grid_9000_4500_500_500.png
+    md5: 82ce541682416bc44f4732f1bfabcc54
+    size: 548319
+    cloud:
+      azure:
+        etag: '"0x8DB5319E85B7D54"'
+        version_id: '2023-05-12T18:51:34.0664932Z'
+  - relpath: grid_9000_4500_500_500.tif
+    md5: f77b1fa7330c8006237b85a3830825e6
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319F0BEFA4E"'
+        version_id: '2023-05-12T18:51:48.1402718Z'
+  - relpath: grid_9000_5000_500_500.png
+    md5: e4cb955d4b3619d28ee0deb493db4a8a
+    size: 553136
+    cloud:
+      azure:
+        etag: '"0x8DB5319EB91C35F"'
+        version_id: '2023-05-12T18:51:39.4563446Z'
+  - relpath: grid_9000_5000_500_500.tif
+    md5: 9e161cd49704084525b03ee150ff4027
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319F4F6F96A"'
+        version_id: '2023-05-12T18:51:55.2181370Z'
+  - relpath: grid_9000_500_500_500.png
+    md5: a0b63b4446ef4ea25addf1b08b2d3b8e
+    size: 554838
+    cloud:
+      azure:
+        etag: '"0x8DB5319E87458CC"'
+        version_id: '2023-05-12T18:51:34.2303965Z'
+  - relpath: grid_9000_500_500_500.tif
+    md5: 24aa498c7e1214a31f4768b39f8930b9
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319EB1E795F"'
+        version_id: '2023-05-12T18:51:38.7007862Z'
+  - relpath: grid_9000_5500_500_500.png
+    md5: 4f8d05380f25d8936bba97cc48888de3
+    size: 552040
+    cloud:
+      azure:
+        etag: '"0x8DB5319F2808B4F"'
+        version_id: '2023-05-12T18:51:51.0875510Z'
+  - relpath: grid_9000_5500_500_500.tif
+    md5: 8f5a1c147dd6c95488e8946dac8ed7bb
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319EAC2F985"'
+        version_id: '2023-05-12T18:51:38.1001365Z'
+  - relpath: grid_9000_6000_500_500.png
+    md5: 9b16d27da1812528ccefb344c9e93b62
+    size: 560436
+    cloud:
+      azure:
+        etag: '"0x8DB5319EF8BD857"'
+        version_id: '2023-05-12T18:51:46.1274471Z'
+  - relpath: grid_9000_6000_500_500.tif
+    md5: 13072a73cb4caf8bff62cd9aee72d385
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319EE41AF65"'
+        version_id: '2023-05-12T18:51:43.9637109Z'
+  - relpath: grid_9000_6500_500_500.png
+    md5: 2422cdb6a14633cbf4318302610e8d36
+    size: 557747
+    cloud:
+      azure:
+        etag: '"0x8DB5319ED02A862"'
+        version_id: '2023-05-12T18:51:41.8739326Z'
+  - relpath: grid_9000_6500_500_500.tif
+    md5: 85c2bf1a65940cf357925307a040dbb9
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319EAEDAC9D"'
+        version_id: '2023-05-12T18:51:38.3799725Z'
+  - relpath: grid_9000_7000_500_500.png
+    md5: 7b62effb566f355b2a15cc8508f9fcaf
+    size: 563612
+    cloud:
+      azure:
+        etag: '"0x8DB5319ED4CC5B0"'
+        version_id: '2023-05-12T18:51:42.3586496Z'
+  - relpath: grid_9000_7000_500_500.tif
+    md5: 25e514f968cd9e42f77f1fb1afe613ed
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319F7574ABF"'
+        version_id: '2023-05-12T18:51:59.2048079Z'
+  - relpath: grid_9000_7500_500_500.png
+    md5: f39c5c4aae23523bf5c421ecbb753f45
+    size: 560547
+    cloud:
+      azure:
+        etag: '"0x8DB5319ED54DAC1"'
+        version_id: '2023-05-12T18:51:42.4126168Z'
+  - relpath: grid_9000_7500_500_500.tif
+    md5: 3643053eb4f6ec88ec1f7b2d6f5bb5d5
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319EBA48542"'
+        version_id: '2023-05-12T18:51:39.5792730Z'
+  - relpath: grid_9000_8000_500_500.png
+    md5: d40e04a14ff785f7e23c13c12e76f9c9
+    size: 563882
+    cloud:
+      azure:
+        etag: '"0x8DB5319F69F60DD"'
+        version_id: '2023-05-12T18:51:58.0005108Z'
+  - relpath: grid_9000_8000_500_500.tif
+    md5: 02037e5a94d22d861a407666a4c114c1
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319F57BCD01"'
+        version_id: '2023-05-12T18:51:56.0886289Z'
+  - relpath: grid_9000_8500_500_500.png
+    md5: 98776d91a792d2c5456bceb1174dbdc5
+    size: 561090
+    cloud:
+      azure:
+        etag: '"0x8DB5319EDE8522A"'
+        version_id: '2023-05-12T18:51:43.3780538Z'
+  - relpath: grid_9000_8500_500_500.tif
+    md5: f5f49508addd91a890aed46b90178d87
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319EE39252A"'
+        version_id: '2023-05-12T18:51:43.9087440Z'
+  - relpath: grid_9000_9000_500_500.png
+    md5: 6d2e2ed88b5795857db827857d94aba8
+    size: 558302
+    cloud:
+      azure:
+        etag: '"0x8DB5319F3ACA972"'
+        version_id: '2023-05-12T18:51:53.0534018Z'
+  - relpath: grid_9000_9000_500_500.tif
+    md5: bd8b9c36f81ae8e9f5de794905841e52
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319F44B69C0"'
+        version_id: '2023-05-12T18:51:54.0937936Z'
+  - relpath: grid_9000_9500_500_500.png
+    md5: f50a5931c09235e10b4c437d853f418b
+    size: 541468
+    cloud:
+      azure:
+        etag: '"0x8DB5319ED3C9B78"'
+        version_id: '2023-05-12T18:51:42.2527112Z'
+  - relpath: grid_9000_9500_500_500.tif
+    md5: a4a102c54813a9a3ed9dbb6685df6894
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319E15F49E1"'
+        version_id: '2023-05-12T18:51:22.3473393Z'
+  - relpath: grid_9500_0_500_500.png
+    md5: 50c82e99c255d1762d20a05408d44c6d
+    size: 555521
+    cloud:
+      azure:
+        etag: '"0x8DB5319F1B2F9D6"'
+        version_id: '2023-05-12T18:51:49.7393382Z'
+  - relpath: grid_9500_0_500_500.tif
+    md5: 6eaa12c8fc395a2bef5af2cffa90080e
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319E49BF78F"'
+        version_id: '2023-05-12T18:51:27.7791661Z'
+  - relpath: grid_9500_1000_500_500.png
+    md5: 34cbd2a80474502b0a9159d5a2731bed
+    size: 550961
+    cloud:
+      azure:
+        etag: '"0x8DB5319F3C1B4E4"'
+        version_id: '2023-05-12T18:51:53.1913204Z'
+  - relpath: grid_9500_1000_500_500.tif
+    md5: 7ae4f7cec19208d27216d2a6b2f92ec8
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319E512EA8F"'
+        version_id: '2023-05-12T18:51:28.5577119Z'
+  - relpath: grid_9500_1500_500_500.png
+    md5: 275df3d1e98015b135322e5c432999cf
+    size: 564220
+    cloud:
+      azure:
+        etag: '"0x8DB5319E378B1C0"'
+        version_id: '2023-05-12T18:51:25.8692816Z'
+  - relpath: grid_9500_1500_500_500.tif
+    md5: 80e5097db97cf87ea373fc7ffcda15af
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319F2B834CD"'
+        version_id: '2023-05-12T18:51:51.4523375Z'
+  - relpath: grid_9500_2000_500_500.png
+    md5: 2a18f99f01d79909e327841b183fb525
+    size: 571006
+    cloud:
+      azure:
+        etag: '"0x8DB5319E6B733E2"'
+        version_id: '2023-05-12T18:51:31.3121010Z'
+  - relpath: grid_9500_2000_500_500.tif
+    md5: 60a54e4600f28798e147fdbe02eac2d0
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319F4EB145A"'
+        version_id: '2023-05-12T18:51:55.1401834Z'
+  - relpath: grid_9500_2500_500_500.png
+    md5: b430f220bae41210799e20a89095f0aa
+    size: 547777
+    cloud:
+      azure:
+        etag: '"0x8DB5319EDB2F23C"'
+        version_id: '2023-05-12T18:51:43.0282572Z'
+  - relpath: grid_9500_2500_500_500.tif
+    md5: 59544d9956475e6e22dd9025fff91d5b
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319F53C356A"'
+        version_id: '2023-05-12T18:51:55.6718714Z'
+  - relpath: grid_9500_3000_500_500.png
+    md5: 4523e4116f1a2eba855e5947022572dc
+    size: 540886
+    cloud:
+      azure:
+        etag: '"0x8DB5319F60C1092"'
+        version_id: '2023-05-12T18:51:57.0340770Z'
+  - relpath: grid_9500_3000_500_500.tif
+    md5: 3c761a7a9c9142077f37d5921faddd36
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319E3EA2743"'
+        version_id: '2023-05-12T18:51:26.6128467Z'
+  - relpath: grid_9500_3500_500_500.png
+    md5: 68ee0b0d14801fa1e7b4cde96d3bc06e
+    size: 508521
+    cloud:
+      azure:
+        etag: '"0x8DB5319ED541793"'
+        version_id: '2023-05-12T18:51:42.4066211Z'
+  - relpath: grid_9500_3500_500_500.tif
+    md5: 5d5f97481617f53d2bbb2a31cc57b55e
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319E8647CA9"'
+        version_id: '2023-05-12T18:51:34.1254585Z'
+  - relpath: grid_9500_4000_500_500.png
+    md5: 19e7104a3fe2d4dbda8c55dbe66339b1
+    size: 530317
+    cloud:
+      azure:
+        etag: '"0x8DB5319F6D97B02"'
+        version_id: '2023-05-12T18:51:58.3802898Z'
+  - relpath: grid_9500_4000_500_500.tif
+    md5: ec8b33a1c171bd3085737698d674ca0a
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319F1638629"'
+        version_id: '2023-05-12T18:51:49.2186425Z'
+  - relpath: grid_9500_4500_500_500.png
+    md5: 199544eda017874e2e32884d419141c1
+    size: 549758
+    cloud:
+      azure:
+        etag: '"0x8DB5319E46E37A8"'
+        version_id: '2023-05-12T18:51:27.4783416Z'
+  - relpath: grid_9500_4500_500_500.tif
+    md5: 264610a68c26f7167f46e8d3f5307b6e
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319F46A10B7"'
+        version_id: '2023-05-12T18:51:54.2946759Z'
+  - relpath: grid_9500_5000_500_500.png
+    md5: a507205b92b8c32cec9ca184429d3b60
+    size: 546439
+    cloud:
+      azure:
+        etag: '"0x8DB5319E58AA0B3"'
+        version_id: '2023-05-12T18:51:29.3432521Z'
+  - relpath: grid_9500_5000_500_500.tif
+    md5: 2626106f9605df30c9f35bdc88961e32
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319F73A9F47"'
+        version_id: '2023-05-12T18:51:59.0169175Z'
+  - relpath: grid_9500_500_500_500.png
+    md5: b000eaf19d0dd7dc5b1fa4b3374148ce
+    size: 557748
+    cloud:
+      azure:
+        etag: '"0x8DB5319F2D0C22E"'
+        version_id: '2023-05-12T18:51:51.6122430Z'
+  - relpath: grid_9500_500_500_500.tif
+    md5: 90e131881ceecb877a39030aa69f610c
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319EEAC2120"'
+        version_id: '2023-05-12T18:51:44.6613040Z'
+  - relpath: grid_9500_5500_500_500.png
+    md5: 07ddec80ebf1732e390b3d24cc4afe69
+    size: 561183
+    cloud:
+      azure:
+        etag: '"0x8DB5319F2A106C5"'
+        version_id: '2023-05-12T18:51:51.3004252Z'
+  - relpath: grid_9500_5500_500_500.tif
+    md5: 4d6705b002cddbe654a9801b5510a1de
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319E817047D"'
+        version_id: '2023-05-12T18:51:33.6177549Z'
+  - relpath: grid_9500_6000_500_500.png
+    md5: 12c5a134c68e1a9c8df7b87bdb38530e
+    size: 547545
+    cloud:
+      azure:
+        etag: '"0x8DB5319F4BE65AF"'
+        version_id: '2023-05-12T18:51:54.8483535Z'
+  - relpath: grid_9500_6000_500_500.tif
+    md5: ee8595f6d07285a59e590aa17aeabcfd
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319E4524F60"'
+        version_id: '2023-05-12T18:51:27.2954480Z'
+  - relpath: grid_9500_6500_500_500.png
+    md5: 6890d9b8c2bc139faf3c2be2bcc2a487
+    size: 545704
+    cloud:
+      azure:
+        etag: '"0x8DB5319E1388DCE"'
+        version_id: '2023-05-12T18:51:22.0934878Z'
+  - relpath: grid_9500_6500_500_500.tif
+    md5: 4730e0663f6fd200ef742bef9716d89a
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319F1A407EC"'
+        version_id: '2023-05-12T18:51:49.6413948Z'
+  - relpath: grid_9500_7000_500_500.png
+    md5: 990727838b43c37cd5b8666113746e4f
+    size: 557215
+    cloud:
+      azure:
+        etag: '"0x8DB5319EB7935F6"'
+        version_id: '2023-05-12T18:51:39.2944390Z'
+  - relpath: grid_9500_7000_500_500.tif
+    md5: 003f9f9899bc2961773b6050db9477b4
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319E87C94F0"'
+        version_id: '2023-05-12T18:51:34.2833664Z'
+  - relpath: grid_9500_7500_500_500.png
+    md5: 2a93e6ba8d984d990963ba605436463d
+    size: 554566
+    cloud:
+      azure:
+        etag: '"0x8DB5319F477071A"'
+        version_id: '2023-05-12T18:51:54.3806264Z'
+  - relpath: grid_9500_7500_500_500.tif
+    md5: 364c8812c056d1b2b14cb42d35e9e9e5
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319F7BE6190"'
+        version_id: '2023-05-12T18:51:59.8804128Z'
+  - relpath: grid_9500_8000_500_500.png
+    md5: ee3e4e50de924d8c63ec4f1174ae3890
+    size: 563784
+    cloud:
+      azure:
+        etag: '"0x8DB5319E3FF80D1"'
+        version_id: '2023-05-12T18:51:26.7537654Z'
+  - relpath: grid_9500_8000_500_500.tif
+    md5: f304ed2cc8af4289c14b6c71ae057e8e
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319F690BD0E"'
+        version_id: '2023-05-12T18:51:57.9035678Z'
+  - relpath: grid_9500_8500_500_500.png
+    md5: 8267975f07c59eec94dacaab72655d9e
+    size: 561276
+    cloud:
+      azure:
+        etag: '"0x8DB5319F2DFB41D"'
+        version_id: '2023-05-12T18:51:51.7101869Z'
+  - relpath: grid_9500_8500_500_500.tif
+    md5: a306cd884abcba0cb4ce9ddb243ee022
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319F38418E0"'
+        version_id: '2023-05-12T18:51:52.7875568Z'
+  - relpath: grid_9500_9000_500_500.png
+    md5: 1a7f5848d58959496b9a1879e9b26ab7
+    size: 553453
+    cloud:
+      azure:
+        etag: '"0x8DB5319ED99EFC1"'
+        version_id: '2023-05-12T18:51:42.8643537Z'
+  - relpath: grid_9500_9000_500_500.tif
+    md5: 75aed3294b859b544d4ca4da0f035a18
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319E53CDA74"'
+        version_id: '2023-05-12T18:51:28.8325508Z'
+  - relpath: grid_9500_9500_500_500.png
+    md5: 11a42cccfc0ef26338fe72b218842023
+    size: 554972
+    cloud:
+      azure:
+        etag: '"0x8DB5319E890DD38"'
+        version_id: '2023-05-12T18:51:34.4172892Z'
+  - relpath: grid_9500_9500_500_500.tif
+    md5: 5477ec9ed41fc065429c0dc49382583b
+    size: 750966
+    cloud:
+      azure:
+        etag: '"0x8DB5319E84A41D2"'
+        version_id: '2023-05-12T18:51:33.9535586Z'

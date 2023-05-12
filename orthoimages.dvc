@@ -1,0 +1,10 @@
+outs:
+- path: orthoimages
+  files:
+  - relpath: swissimage-dop10_2021_2599-1200_0.1_2056.tif
+    md5: 8868e9ea0374a2fab1e6f003cd6961f6
+    size: 71186025
+    cloud:
+      azure:
+        etag: '"0x8DB52F9CE7A7116"'
+        version_id: '2023-05-12T15:01:46.7522326Z'
