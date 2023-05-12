@@ -1,12 +1,12 @@
 # hackathon_bern_23
 
-[Labelstudio Instanz](labelstudiohackbern.azurewebsites.net)
+[Labelstudio Instanz (labelstudiohackbern.azurewebsites.net)](labelstudiohackbern.azurewebsites.net)
 
 
 
 # Setup on dev machine
 
-Allow DVC for your local machine to access azure Blob Storage:
+Allow DVC on your local machine to access the azure Blob Storage:
 
 ```export AZURE_STORAGE_CONNECTION_STRING='mysecret'```
 
