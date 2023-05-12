@@ -17,9 +17,17 @@ stages:
     - path: data/test_data.csv
       md5: e2e402953ce866759b47abaaafb26fcb
       size: 742
+      cloud:
+        azure:
+          etag: '"0x8DB52F2A85D1DBA"'
+          version_id: '2023-05-12T14:10:36.3295162Z'
     - path: data/train_data.csv
       md5: 4c2094c13cda5c1986b9628f2979d1ce
       size: 2911
+      cloud:
+        azure:
+          etag: '"0x8DB52F2A8672E59"'
+          version_id: '2023-05-12T14:10:36.3954777Z'
   train:
     cmd: python stages/train.py --config params.yaml
     deps:
@@ -37,6 +45,10 @@ stages:
     - path: models/model_mlem/
       md5: ab8e8231455d305f5751bb06d79874e0
       size: 516
+      cloud:
+        azure:
+          etag: '"0x8DB52F2A8575237"'
+          version_id: '2023-05-12T14:10:36.2915383Z'
   evaluate:
     cmd: python stages/evaluate.py --config params.yaml
     deps:
@@ -56,6 +68,14 @@ stages:
     - path: reports/metrics.json
       md5: a0ebed43cb14a26e44fce97dcc33e0d8
       size: 141
+      cloud:
+        azure:
+          etag: '"0x8DB52F2A8670753"'
+          version_id: '2023-05-12T14:10:36.3944787Z'
     - path: reports/result.csv
       md5: 7aab37e96f4ca92bc6829a51ba56bcc9
       size: 5897
+      cloud:
+        azure:
+          etag: '"0x8DB52F2A865CF10"'
+          version_id: '2023-05-12T14:10:36.3874824Z'

@@ -1,5 +1,6 @@
 [core]
     remote = azure
 ['remote "azure"']
-    url = azure://datahackathonbern
+    url = azure://datahackdaysbern
     account_name = dvcremotestoragesetup
+    version_aware = true
