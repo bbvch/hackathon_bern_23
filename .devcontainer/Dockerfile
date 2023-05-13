@@ -28,6 +28,7 @@ RUN echo "datascientist:datascientist" | chpasswd
 RUN curl -L https://raw.github.com/git/git/master/contrib/completion/git-prompt.sh > /home/datascientist/.bash_git && echo "source /home/datascientist/.bash_git" >> /home/datascientist/.bashrc
 RUN sed -Ei 's/(PS1=.*)(\\\[\\033\[00m\\\]\\\$.*)/\1\\[\\033[01;33m\\]$(__git_ps1)\2/p' /home/datascientist/.bashrc
 
+
 RUN pip3 install rasterio
 RUN pip3 install matplotlib
 RUN pip3 install opencv-python
@@ -36,3 +37,9 @@ RUN pip3 install torch
 RUN pip3 install torchvision
 
 RUN apt-get update && apt-get install ffmpeg libsm6 libxext6  -y
+
+#Add Skypilot
+RUN apt-get update && apt-get install rsync  -y
+RUN pip3 install skypilot[azure]
+RUN pip3 install azure-mgmt-network
+
