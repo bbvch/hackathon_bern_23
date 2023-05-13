@@ -1,0 +1,16 @@
+numpy
+pyyaml
+argparse
+pandas
+matplotlib
+rasterio
+python-box[all]~=6.0
+scikit-learn
+dvc
+dvc[azure]
+mlem
+
+tqdm
+opencv-python
+torch
+torchvision
