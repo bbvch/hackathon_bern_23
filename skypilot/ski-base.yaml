@@ -24,4 +24,5 @@ setup: |
 # Typical use: make use of resources, such as running training.
 # Invoked under the workdir (i.e., can use its files).
 run: |
-  echo "Hello, SkyPilot!"
+  source utilities/setup.sh
+  python3 main.py

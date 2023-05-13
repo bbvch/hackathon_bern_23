@@ -1,11 +1,10 @@
-from torch.utils.data import Dataset
-from PIL import Image
-import cv2
-import io
 import torch
+import cv2
 import numpy as np
+from torchvision.transforms.functional import to_tensor
 
-class SegmentationDataset(Dataset):
+
+class SegmentationDataset(torch.utils.data.Dataset):
     def __init__(self, img_paths, mask_paths):
         super().__init__()
         # store image and mask paths
@@ -21,8 +20,8 @@ class SegmentationDataset(Dataset):
 
         # load image from disk, swap channels from BGR to RGM if loading with cv2
         image = cv2.imread(imagePath)
-        print(imagePath, len(self.maskPaths), len(self.imgPaths))
         image = cv2.cvtColor(image, cv2.COLOR_BGR2RGB)
-        mask = cv2.imread(self.maskPaths[index])
+        image = image.astype(np.float32) / 255.0
+        mask = cv2.imread(self.maskPaths[index], cv2.IMREAD_GRAYSCALE)
 
-        return image, mask
+        return to_tensor(image), to_tensor(mask)

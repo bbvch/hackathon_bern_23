@@ -43,3 +43,5 @@ RUN apt-get update && apt-get install rsync  -y
 RUN pip3 install skypilot[azure]
 RUN pip3 install azure-mgmt-network
 
+
+RUN apt-get update && apt-get install -y sudo
