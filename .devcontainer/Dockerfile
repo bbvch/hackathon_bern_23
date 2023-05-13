@@ -31,3 +31,8 @@ RUN sed -Ei 's/(PS1=.*)(\\\[\\033\[00m\\\]\\\$.*)/\1\\[\\033[01;33m\\]$(__git_ps
 RUN pip3 install rasterio
 RUN pip3 install matplotlib
 RUN pip3 install opencv-python
+RUN pip3 install tqdm
+RUN pip3 install torch
+RUN pip3 install torchvision
+
+RUN apt-get update && apt-get install ffmpeg libsm6 libxext6  -y
